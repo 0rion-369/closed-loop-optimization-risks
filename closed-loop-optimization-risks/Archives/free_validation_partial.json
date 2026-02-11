@@ -1,0 +1,1082 @@
+[
+  {
+    "lz_complexity": 0.01274192864477425,
+    "shannon_entropy": 4.467851510847061,
+    "trigram_diversity": 0.995850622406639,
+    "unique_words_ratio": 0.6419753086419753,
+    "iteration": 0,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.014003210495051278,
+    "shannon_entropy": 4.489823974934788,
+    "trigram_diversity": 0.9907407407407407,
+    "unique_words_ratio": 0.6743119266055045,
+    "iteration": 1,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.012306068953093727,
+    "shannon_entropy": 4.490401047030219,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.6988416988416989,
+    "iteration": 2,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.01430670500510514,
+    "shannon_entropy": 4.419531201493812,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.668141592920354,
+    "iteration": 3,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.014239900388234035,
+    "shannon_entropy": 4.4920489043488265,
+    "trigram_diversity": 0.9955555555555555,
+    "unique_words_ratio": 0.6519823788546255,
+    "iteration": 4,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.014793761608083739,
+    "shannon_entropy": 4.4364236762023666,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7317073170731707,
+    "iteration": 5,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.013955283342121177,
+    "shannon_entropy": 4.39359899535827,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.6986301369863014,
+    "iteration": 6,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.015778600458328844,
+    "shannon_entropy": 4.379649733853572,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.6551724137931034,
+    "iteration": 7,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.014875363981611002,
+    "shannon_entropy": 4.360989077684381,
+    "trigram_diversity": 0.9906103286384976,
+    "unique_words_ratio": 0.6837209302325581,
+    "iteration": 8,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.01676043765145858,
+    "shannon_entropy": 4.408742099565538,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7195767195767195,
+    "iteration": 9,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.014165536036435526,
+    "shannon_entropy": 4.334596916550854,
+    "trigram_diversity": 0.9824561403508771,
+    "unique_words_ratio": 0.7043478260869566,
+    "iteration": 10,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.01644902649746734,
+    "shannon_entropy": 4.280868371038177,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7346938775510204,
+    "iteration": 11,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.014911940990029422,
+    "shannon_entropy": 4.368221154994388,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7427184466019418,
+    "iteration": 12,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.01646033980727912,
+    "shannon_entropy": 4.304691066473604,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.6919191919191919,
+    "iteration": 13,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.016643641295217858,
+    "shannon_entropy": 4.380716630886614,
+    "trigram_diversity": 0.9948453608247423,
+    "unique_words_ratio": 0.7142857142857143,
+    "iteration": 14,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.015716798861639944,
+    "shannon_entropy": 4.374522865285814,
+    "trigram_diversity": 0.9815668202764977,
+    "unique_words_ratio": 0.6073059360730594,
+    "iteration": 15,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.016914918496605,
+    "shannon_entropy": 4.367382047194239,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7156862745098039,
+    "iteration": 16,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.015327345749992243,
+    "shannon_entropy": 4.4351555499984245,
+    "trigram_diversity": 0.9912663755458515,
+    "unique_words_ratio": 0.6623376623376623,
+    "iteration": 17,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.01796426885876528,
+    "shannon_entropy": 4.377465816228667,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.6949152542372882,
+    "iteration": 18,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.018412666928720497,
+    "shannon_entropy": 4.4097322713785685,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.6971428571428572,
+    "iteration": 19,
+    "seed": 0,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.011705879753647619,
+    "shannon_entropy": 4.426169674940686,
+    "trigram_diversity": 0.9924242424242424,
+    "unique_words_ratio": 0.6203007518796992,
+    "iteration": 0,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.023682233214554916,
+    "shannon_entropy": 4.301154333173626,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7175572519083969,
+    "iteration": 1,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.025819720883632512,
+    "shannon_entropy": 4.4468866217821965,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7142857142857143,
+    "iteration": 2,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02570155088037952,
+    "shannon_entropy": 4.348535996485899,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7264957264957265,
+    "iteration": 3,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02645977491967058,
+    "shannon_entropy": 4.3785160137987456,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.776,
+    "iteration": 4,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.023806246101441324,
+    "shannon_entropy": 4.433165973332489,
+    "trigram_diversity": 0.9632352941176471,
+    "unique_words_ratio": 0.7391304347826086,
+    "iteration": 5,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02713489510301359,
+    "shannon_entropy": 4.413247589793992,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7950819672131147,
+    "iteration": 6,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.025127682906806618,
+    "shannon_entropy": 4.392965197728966,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7244094488188977,
+    "iteration": 7,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.016666861267361853,
+    "shannon_entropy": 4.4395999473648775,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.6789473684210526,
+    "iteration": 8,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.023059048211013247,
+    "shannon_entropy": 4.478242349572323,
+    "trigram_diversity": 0.9931972789115646,
+    "unique_words_ratio": 0.7181208053691275,
+    "iteration": 9,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.027953325663032023,
+    "shannon_entropy": 4.469668785910352,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.8113207547169812,
+    "iteration": 10,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02636625860091576,
+    "shannon_entropy": 4.409800504090636,
+    "trigram_diversity": 0.9916666666666667,
+    "unique_words_ratio": 0.7131147540983607,
+    "iteration": 11,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.025999179886021975,
+    "shannon_entropy": 4.492483473693807,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7372881355932204,
+    "iteration": 12,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02416101487775024,
+    "shannon_entropy": 4.400114495444494,
+    "trigram_diversity": 0.9562043795620438,
+    "unique_words_ratio": 0.6834532374100719,
+    "iteration": 13,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.03351346509724676,
+    "shannon_entropy": 4.382727444172547,
+    "trigram_diversity": 0.9876543209876543,
+    "unique_words_ratio": 0.7831325301204819,
+    "iteration": 14,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.03285168995040529,
+    "shannon_entropy": 4.403537806949611,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.8295454545454546,
+    "iteration": 15,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.029016096196976506,
+    "shannon_entropy": 4.3947991978713565,
+    "trigram_diversity": 0.9902912621359223,
+    "unique_words_ratio": 0.8,
+    "iteration": 16,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02187060016704406,
+    "shannon_entropy": 4.385957865672907,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7248322147651006,
+    "iteration": 17,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02005166144517296,
+    "shannon_entropy": 4.3704466912704465,
+    "trigram_diversity": 0.9825581395348837,
+    "unique_words_ratio": 0.6666666666666666,
+    "iteration": 18,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.0199657234575897,
+    "shannon_entropy": 4.420203868177315,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7011494252873564,
+    "iteration": 19,
+    "seed": 0,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.010109892840624043,
+    "shannon_entropy": 4.5484830167293575,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7021276595744681,
+    "iteration": 0,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.012982683621411454,
+    "shannon_entropy": 4.594134968135912,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7718446601941747,
+    "iteration": 1,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.014615797939460697,
+    "shannon_entropy": 4.519894861813003,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7241379310344828,
+    "iteration": 2,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.014382664289948614,
+    "shannon_entropy": 4.564172129174174,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7192118226600985,
+    "iteration": 3,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.0152020610587589,
+    "shannon_entropy": 4.574969942810009,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7277486910994765,
+    "iteration": 4,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.018690429429967542,
+    "shannon_entropy": 4.407535647085229,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7192982456140351,
+    "iteration": 5,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.021543200547610563,
+    "shannon_entropy": 4.379346739338538,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7867647058823529,
+    "iteration": 6,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.019038914281695823,
+    "shannon_entropy": 4.352007990357931,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.6871165644171779,
+    "iteration": 7,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.02276043688411483,
+    "shannon_entropy": 4.374791011666149,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7518796992481203,
+    "iteration": 8,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.030336607975246718,
+    "shannon_entropy": 4.323406863665732,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.8,
+    "iteration": 9,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.0298417066563685,
+    "shannon_entropy": 4.356959687207989,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7547169811320755,
+    "iteration": 10,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.03184001736611914,
+    "shannon_entropy": 4.301214495935765,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7766990291262136,
+    "iteration": 11,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.04125065651593356,
+    "shannon_entropy": 4.316586836467206,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7948717948717948,
+    "iteration": 12,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.04404616264607342,
+    "shannon_entropy": 4.420921710658104,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.8695652173913043,
+    "iteration": 13,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.046746124396696134,
+    "shannon_entropy": 4.327133172963325,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.859375,
+    "iteration": 14,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.05161232417767136,
+    "shannon_entropy": 4.36226357504785,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.8852459016393442,
+    "iteration": 15,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.03647607322041865,
+    "shannon_entropy": 4.400225613795827,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.75,
+    "iteration": 16,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.037907541536681216,
+    "shannon_entropy": 4.394867356611079,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.8095238095238095,
+    "iteration": 17,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.03704737248968833,
+    "shannon_entropy": 4.405953780321759,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.813953488372093,
+    "iteration": 18,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.039465918833723336,
+    "shannon_entropy": 4.3851917929359665,
+    "trigram_diversity": 0.9879518072289156,
+    "unique_words_ratio": 0.7647058823529411,
+    "iteration": 19,
+    "seed": 1,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.00898941102736224,
+    "shannon_entropy": 4.520548006842023,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.6878980891719745,
+    "iteration": 0,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02905429746767073,
+    "shannon_entropy": 4.471748373385557,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7614678899082569,
+    "iteration": 1,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.025016189508942445,
+    "shannon_entropy": 4.415332348340973,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.753731343283582,
+    "iteration": 2,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.023956913222153767,
+    "shannon_entropy": 4.346633759920215,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7443609022556391,
+    "iteration": 3,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.020824807796249078,
+    "shannon_entropy": 4.353132992941513,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7266666666666667,
+    "iteration": 4,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02049351908527809,
+    "shannon_entropy": 4.366166162975568,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7531645569620253,
+    "iteration": 5,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.021685137395245548,
+    "shannon_entropy": 4.360359906499153,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.74,
+    "iteration": 6,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.025155723110390396,
+    "shannon_entropy": 4.360492365275663,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.728,
+    "iteration": 7,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.016370296036374066,
+    "shannon_entropy": 4.447593764774084,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.6699029126213593,
+    "iteration": 8,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.024634180291665666,
+    "shannon_entropy": 4.43340519422182,
+    "trigram_diversity": 0.9701492537313433,
+    "unique_words_ratio": 0.7205882352941176,
+    "iteration": 9,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.020278852936739943,
+    "shannon_entropy": 4.374569519238351,
+    "trigram_diversity": 0.9875776397515528,
+    "unique_words_ratio": 0.6871165644171779,
+    "iteration": 10,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.019813004901701656,
+    "shannon_entropy": 4.415924846222639,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7108433734939759,
+    "iteration": 11,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.014357249077555784,
+    "shannon_entropy": 4.450376258158018,
+    "trigram_diversity": 0.9957983193277311,
+    "unique_words_ratio": 0.6583333333333333,
+    "iteration": 12,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.014075763399530166,
+    "shannon_entropy": 4.48044520047983,
+    "trigram_diversity": 0.9777777777777777,
+    "unique_words_ratio": 0.6431718061674009,
+    "iteration": 13,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02010360548478176,
+    "shannon_entropy": 4.318785809436665,
+    "trigram_diversity": 0.9594594594594594,
+    "unique_words_ratio": 0.7066666666666667,
+    "iteration": 14,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.025849445886282414,
+    "shannon_entropy": 4.330661810221177,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7333333333333333,
+    "iteration": 15,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.028094923031359437,
+    "shannon_entropy": 4.368445915714406,
+    "trigram_diversity": 0.991304347826087,
+    "unique_words_ratio": 0.7094017094017094,
+    "iteration": 16,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02555546032875298,
+    "shannon_entropy": 4.403072161918419,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7384615384615385,
+    "iteration": 17,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.021933179018307197,
+    "shannon_entropy": 4.347697914792829,
+    "trigram_diversity": 0.9594594594594594,
+    "unique_words_ratio": 0.6733333333333333,
+    "iteration": 18,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.019514942818327434,
+    "shannon_entropy": 4.338806113461157,
+    "trigram_diversity": 0.9876543209876543,
+    "unique_words_ratio": 0.6524390243902439,
+    "iteration": 19,
+    "seed": 1,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.013051292216310208,
+    "shannon_entropy": 4.521938289933841,
+    "trigram_diversity": 0.9954128440366973,
+    "unique_words_ratio": 0.6772727272727272,
+    "iteration": 0,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.014766772661832888,
+    "shannon_entropy": 4.513680019583194,
+    "trigram_diversity": 0.9947643979057592,
+    "unique_words_ratio": 0.7253886010362695,
+    "iteration": 1,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.01751270057003133,
+    "shannon_entropy": 4.473764180279961,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7469135802469136,
+    "iteration": 2,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.01576826417096245,
+    "shannon_entropy": 4.462339414675854,
+    "trigram_diversity": 0.9947368421052631,
+    "unique_words_ratio": 0.7239583333333334,
+    "iteration": 3,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.020994794713556933,
+    "shannon_entropy": 4.373776207896905,
+    "trigram_diversity": 0.9855072463768116,
+    "unique_words_ratio": 0.6428571428571429,
+    "iteration": 4,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.0265540063418182,
+    "shannon_entropy": 4.380005693643573,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7830188679245284,
+    "iteration": 5,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.017722144160446075,
+    "shannon_entropy": 4.447001794178313,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7428571428571429,
+    "iteration": 6,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.019289663020027357,
+    "shannon_entropy": 4.369730764014672,
+    "trigram_diversity": 0.9935064935064936,
+    "unique_words_ratio": 0.7243589743589743,
+    "iteration": 7,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.017896304982261423,
+    "shannon_entropy": 4.416899907312819,
+    "trigram_diversity": 0.994413407821229,
+    "unique_words_ratio": 0.712707182320442,
+    "iteration": 8,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.020713110476947173,
+    "shannon_entropy": 4.360203146024489,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7793103448275862,
+    "iteration": 9,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.02413529835526402,
+    "shannon_entropy": 4.29400557525962,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7054263565891473,
+    "iteration": 10,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.0222735242130646,
+    "shannon_entropy": 4.309587810798838,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7410071942446043,
+    "iteration": 11,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.028238070576346162,
+    "shannon_entropy": 4.376815277494686,
+    "trigram_diversity": 0.9903846153846154,
+    "unique_words_ratio": 0.7358490566037735,
+    "iteration": 12,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.03881196806631234,
+    "shannon_entropy": 4.42176323405895,
+    "trigram_diversity": 0.987012987012987,
+    "unique_words_ratio": 0.810126582278481,
+    "iteration": 13,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.036351684981053824,
+    "shannon_entropy": 4.4313022391796215,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.6923076923076923,
+    "iteration": 14,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.03290159626732559,
+    "shannon_entropy": 4.385637670351757,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7368421052631579,
+    "iteration": 15,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.033001900205718,
+    "shannon_entropy": 4.365097123873967,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7070707070707071,
+    "iteration": 16,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.03442351852401328,
+    "shannon_entropy": 4.344001590917,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7263157894736842,
+    "iteration": 17,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.0354471082327548,
+    "shannon_entropy": 4.367709126294017,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7777777777777778,
+    "iteration": 18,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.03783984696168604,
+    "shannon_entropy": 4.399780533594662,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7976190476190477,
+    "iteration": 19,
+    "seed": 2,
+    "condition": "closed_loop"
+  },
+  {
+    "lz_complexity": 0.013044396587017903,
+    "shannon_entropy": 4.514456770198392,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7464788732394366,
+    "iteration": 0,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.021726059651361037,
+    "shannon_entropy": 4.4516181016746,
+    "trigram_diversity": 0.9921875,
+    "unique_words_ratio": 0.7307692307692307,
+    "iteration": 1,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.025790069158717593,
+    "shannon_entropy": 4.547255215577015,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.8205128205128205,
+    "iteration": 2,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.020017191387801028,
+    "shannon_entropy": 4.432464611791379,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7973856209150327,
+    "iteration": 3,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.024933263427729068,
+    "shannon_entropy": 4.430367803616335,
+    "trigram_diversity": 0.9849624060150376,
+    "unique_words_ratio": 0.7333333333333333,
+    "iteration": 4,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.025382486200987854,
+    "shannon_entropy": 4.380677429446925,
+    "trigram_diversity": 0.9921259842519685,
+    "unique_words_ratio": 0.7054263565891473,
+    "iteration": 5,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.022123239875639234,
+    "shannon_entropy": 4.4884365024804325,
+    "trigram_diversity": 0.8838709677419355,
+    "unique_words_ratio": 0.6178343949044586,
+    "iteration": 6,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02298939445182021,
+    "shannon_entropy": 4.3841221632957,
+    "trigram_diversity": 0.9929577464788732,
+    "unique_words_ratio": 0.7291666666666666,
+    "iteration": 7,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02845575615117095,
+    "shannon_entropy": 4.4783569993120675,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7589285714285714,
+    "iteration": 8,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.026029350467722125,
+    "shannon_entropy": 4.334067179693575,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.75,
+    "iteration": 9,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.021975111883229384,
+    "shannon_entropy": 4.37430398805648,
+    "trigram_diversity": 0.9858156028368794,
+    "unique_words_ratio": 0.7482517482517482,
+    "iteration": 10,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.025268558758218578,
+    "shannon_entropy": 4.331491958456896,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.768595041322314,
+    "iteration": 11,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.0221019478296953,
+    "shannon_entropy": 4.403322374662624,
+    "trigram_diversity": 0.9854014598540146,
+    "unique_words_ratio": 0.7050359712230215,
+    "iteration": 12,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.019038914281695823,
+    "shannon_entropy": 4.358844862725603,
+    "trigram_diversity": 0.9940476190476191,
+    "unique_words_ratio": 0.6764705882352942,
+    "iteration": 13,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.01876502210765428,
+    "shannon_entropy": 4.394017542756542,
+    "trigram_diversity": 0.9941860465116279,
+    "unique_words_ratio": 0.6954022988505747,
+    "iteration": 14,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.025730984432674315,
+    "shannon_entropy": 4.409542718171743,
+    "trigram_diversity": 0.9831932773109243,
+    "unique_words_ratio": 0.743801652892562,
+    "iteration": 15,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.022469993939733948,
+    "shannon_entropy": 4.409636091578231,
+    "trigram_diversity": 0.9568345323741008,
+    "unique_words_ratio": 0.7021276595744681,
+    "iteration": 16,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.024607371928660637,
+    "shannon_entropy": 4.355140494386492,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7333333333333333,
+    "iteration": 17,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.02405849981659581,
+    "shannon_entropy": 4.46515153838412,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.7481481481481481,
+    "iteration": 18,
+    "seed": 2,
+    "condition": "exogenous"
+  },
+  {
+    "lz_complexity": 0.021891417236735725,
+    "shannon_entropy": 4.376114681875015,
+    "trigram_diversity": 1.0,
+    "unique_words_ratio": 0.75,
+    "iteration": 19,
+    "seed": 2,
+    "condition": "exogenous"
+  }
+]

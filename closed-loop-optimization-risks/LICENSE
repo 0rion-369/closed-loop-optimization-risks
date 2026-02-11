@@ -1,0 +1,145 @@
+# Analysis of Compressibility Metrics and Visualizations
+
+## Overview
+
+This document provides a detailed technical analysis of the metrics and visualization choices in the compressibility divergence experiment. It is intended for readers interested in the methodological underpinnings of the illustrative results.
+
+## 1. Metric Selection Justification
+
+### 1.1 Lempel-Ziv Complexity
+- **Theoretical basis**: Algorithmic information theory
+- **Implementation**: LZ-76 complexity normalized by length
+- **Interpretation**: Higher values indicate less compressible, more complex sequences
+- **Advantage**: Length-invariant comparison across iterations
+
+### 1.2 Shannon Entropy
+- **Definition**: H = -Σ p(x) log₂ p(x) (bits per character)
+- **Complementarity**: Captures local unpredictability vs LZ's structural complexity
+- **Limitation**: Character-level only, misses higher-order patterns
+
+### 1.3 N-gram Diversity
+- **Type-token ratio**: |unique n-grams| / |total n-grams|
+- **Trigrams chosen**: Balance between sensitivity and stability
+- **Interpretation**: Measures lexical novelty at syntactic scale
+
+### 1.4 Unique Words Ratio
+- **Simple measure**: |unique words| / |total words|
+- **Advantage**: Intuitive interpretation of vocabulary diversity
+- **Bias**: Affected by text length (Zipf's law)
+
+## 2. Experimental Design Considerations
+
+### 2.1 Conditions
+**Closed-loop (A)**:
+- Pure self-referential feedback
+- Output → next prompt (truncated to 500 chars)
+
+**Exogenous injection (B)**:
+- 50/50 mix of model output and human-written text
+- Human text from curated diverse passages
+- Prompt structure encourages connection-making
+
+### 2.2 Parameter Choices
+- **Temperature**: 0.8 (balances creativity and coherence)
+- **Top-p**: 0.9 (nucleus sampling for diversity)
+- **Max tokens**: 500 (sufficient for paragraph generation)
+- **Iterations**: 30 (balance between effect visibility and runtime)
+
+## 3. Visualization Design
+
+### 3.1 Layout
+- **2×2 grid**: Logical grouping of related metrics
+- **Top row**: Information theory metrics (LZ, Shannon)
+- **Bottom row**: Linguistic metrics (trigram diversity, unique words)
+- **Shared x-axis**: Iteration number for temporal comparison
+
+### 3.2 Visual Encoding
+- **Colors**: Red (#d62728) for closed-loop, green (#2ca02c) for exogenous
+- **Markers**: Circles (condition A), squares (condition B)
+- **Trend lines**: Linear regression (dashed) to highlight directionality
+- **Grid**: Subtle gray for value reading
+
+### 3.3 Interpretative Elements
+- **Titles**: Metric name + brief interpretation
+- **Subtitle**: Explains what high/low values mean
+- **Legend**: Clear condition labeling
+- **Trend slopes**: Visual emphasis on direction of change
+
+## 4. Statistical Interpretation
+
+### 4.1 Expected Patterns
+**If framework is consistent**:
+- Condition A: Negative trend across metrics
+- Condition B: No trend or slight positive trend
+- Divergence: Gap widens over iterations
+
+**Alternative patterns of interest**:
+- Intermittent collapses vs smooth decline
+- Delayed onset of degradation
+- Recovery periods (metacognitive rebound)
+
+### 4.2 Limitations of Current Visualization
+- **Single run**: No confidence intervals
+- **Fixed parameters**: One temperature, one model size
+- **Prompt sensitivity**: Single seed prompt
+- **Time scale**: 30 iterations may not show long-term equilibria
+
+## 5. Methodological Alternatives Considered
+
+### 5.1 Metrics Not Used
+- **KL divergence**: Requires reference distribution
+- **Embedding distances**: Model-dependent, less interpretable
+- **Compression ratios**: Gzip/bzip2, but implementation-dependent
+
+### 5.2 Experimental Variations
+- **Temperature sweeps**: 0.5 to 1.5
+- **Model size scaling**: 1.5B to 70B parameters
+- **Injection ratios**: 0% to 100% exogenous
+- **Task variation**: Code generation, reasoning, creative writing
+
+### 5.3 Statistical Tests
+- **Stationarity tests**: Augmented Dickey-Fuller
+- **Trend significance**: Mann-Kendall test
+- **Difference detection**: ANOVA with repeated measures
+- **Breakpoint analysis**: PELT algorithm for changepoints
+
+## 6. Relation to Formal Model
+
+The experiment tests **Prediction 2** from the minimal mathematical model:
+
+> "The compressibility of the system's output stream should increase over time in closed-loop systems, but stabilize in systems with exogenous input."
+
+**Correspondence**:
+- LZ complexity ↔ Output stream compressibility
+- Iterations ↔ Time variable t
+- Exogenous injection ↔ Xₜ with broad support
+
+## 7. Recommendations for Further Research
+
+### 7.1 Extensions
+- **Multiple runs**: 10+ seeds for statistical power
+- **Longer horizons**: 100-1000 iterations
+- **Fine-tuning experiments**: True model collapse (Shumailov et al.)
+- **Multi-agent systems**: Echo chambers and diversity collapse
+
+### 7.2 Improved Metrics
+- **Algorithmic complexity**: Approximate Kolmogorov complexity
+- **Semantic diversity**: Embedding-based novelty measures
+- **Temporal patterns**: Autocorrelation, periodicity detection
+- **Distribution metrics**: Wasserstein distance between outputs
+
+### 7.3 Visualization Enhancements
+- **Confidence bands**: From multiple runs
+- **Interactive versions**: Hover details, parameter adjustment
+- **Comparative baselines**: Random text, human-written corpora
+- **Multidimensional reduction**: t-SNE/PCA of output embeddings
+
+## 8. Conclusion
+
+This analysis demonstrates that the compressibility divergence experiment provides consistent, interpretable metrics for tracking exploratory capacity in self-referential systems. While not a formal proof, the patterns observed are consistent with the theoretical framework's predictions.
+
+The visualization effectively communicates the core dynamic: closed-loop optimization tends to reduce complexity and diversity, while exogenous input helps maintain exploratory capacity.
+
+---
+
+*Note: This analysis represents a single illustrative run. For statistically validated claims, multiple replications and formal hypothesis testing would be required.*
