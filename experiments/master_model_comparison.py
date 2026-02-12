@@ -9,13 +9,15 @@ def shannon_entropy(text):
     prob = [n/len(text) for n in Counter(text).values()]
     return -sum(p * np.log2(p) for p in prob)
 
-def get_entropy_curve(file_path, condition='closed_loop'):
+def get_entropy_curve(file_path):
     with open(file_path, 'r') as f:
         data = json.load(f)
     iters = sorted(list(set(d['iteration'] for d in data)))
     curve = []
+    # On ne prend que la boucle fermée pour la comparaison master
+    closed_data = [d for d in data if d.get('condition', 'closed_loop') == 'closed_loop']
     for i in iters:
-        batch = [d for d in data if d['iteration'] == i and d.get('condition', 'closed_loop') == condition]
+        batch = [d for d in closed_data if d['iteration'] == i]
         if not batch: continue
         if 'shannon_entropy' in batch[0]:
             curve.append(np.mean([d['shannon_entropy'] for d in batch]))
@@ -38,9 +40,10 @@ for label, (path, color) in files.items():
     if os.path.exists(path):
         x, y = get_entropy_curve(path)
         plt.plot(x, y, label=label, color=color, linewidth=2.5)
+        print(f"✅ {label} ajouté au Master Graph.")
 
-plt.title('Comparaison de l\'Effondrement Entropique entre Modèles (Closed-Loop)')
-plt.xlabel('Itérations')
+plt.title('Comparaison de l\'Effondrement Entropique : Sonnet vs Haiku vs Grok')
+plt.xlabel('Itérations (Boucle Fermée)')
 plt.ylabel('Entropie de Shannon (Bits)')
 plt.legend()
 plt.grid(True, alpha=0.3)
