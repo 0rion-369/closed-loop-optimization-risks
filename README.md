@@ -21,4 +21,4 @@ We discovered that viable AI models do not explode (infinite length) nor freeze 
 We documented a structural limitation in **Claude Opus 4.6**, which triggers a "Loop-Safety Mechanism" and refuses to participate in recursive generation (Output = `\n\n`). See final report for details.
 
 ---
-*Initiated by Marko77 & 0rion-369 Unit.*
+*Initiated by Marc-Olivier Corbin.*
