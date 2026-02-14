@@ -1,24 +1,44 @@
-# 0rion-369: Closed-Loop Optimization Risks
+# Closed-Loop Optimization Risks (CLOR)
 
-> **The Hybrid Axis Study:** Measuring Cognitive Homeostasis in Recursive AI Systems (2026).
+> Measuring Entropic Stability in Recursive LLM Systems — 10 models, 3 families (2026).
 
-## 🎯 Project Objective
-To determine the stability of next-gen LLMs (GPT-5, Opus 4.6) when subjected to autonomous recursive feedback loops without human intervention.
+## 🎯 Objective
+Map the degradation modes of frontier LLMs under closed-loop 
+recursive feedback (output → input, 100 iterations, no human 
+intervention). Validate whether exogenous injection universally 
+prevents collapse.
 
-## 🏆 Major Discovery: The "Fixed Point"
-We discovered that viable AI models do not explode (infinite length) nor freeze (zero length), but oscillate around a specific "Fixed Point" of information density:
-* **GPT-5:** Stabilizes at ~8.4k characters.
-* **GPT-5-mini:** Stabilizes at ~11.5k characters.
+## 🏆 Core Discovery: The Entropic Attractor
+Under closed-loop conditions, models do not simply explode or 
+freeze — they stabilize around model-specific attractors of 
+information density with distinct dynamical signatures:
 
-## 📂 Repository Structure
-* `experiments/`: Python scripts used for the "Forge" (Recursive loops).
-* `results/`: Raw JSON datasets (Validate the Homeostasis Law).
-    * `gpt5_final_validation.json`: The Gold Standard (1000 iterations).
-    * `opus_final_validation.json`: Documentation of the "Safety Collapse".
-* `FINAL_REPORT_PHASE_3.md`: Detailed scientific analysis.
+| Model     | Attractor (chars) | Mode                    |
+|-----------|-------------------|-------------------------|
+| GPT-5     | ~8 400            | Expansion Oscillante    |
+| GPT-5-mini| ~11 500           | Exp. Oscillante Amplifiée|
+| GPT-4o    | ~3 000            | Expansion Stable        |
+| DeepSeek  | ~2 600            | Attracteur Fixe         |
+| Gemini 3  | ~100              | Micro-Oscillation       |
+
+## 📂 Structure
+* `experiments/`: Recursive loop scripts (the "Forge")
+* `results/`: Raw JSON datasets
+    * `gpt5_final_validation.json`: GPT-5 + GPT-5-mini (1 000 records, 5 seeds × 100 iter each)
+    * `opus_final_validation.json`: The Safety Collapse documentation
+* `FINAL_REPORT_PHASE_3.md`: Full statistical analysis
 
 ## ⚠️ The Opus Anomaly
-We documented a structural limitation in **Claude Opus 4.6**, which triggers a "Loop-Safety Mechanism" and refuses to participate in recursive generation (Output = `\n\n`). See final report for details.
+**Claude Opus 4.6** triggers a Loop-Safety Mechanism upon 
+detecting recursive prompt recycling, returning `\n\n` after 
+a single substantive response. Documented as **Retrait 
+Épistémique** — the only model that refuses participation 
+rather than exhibiting entropic degradation.
+
+## 🔬 Universal Finding
+Exogenous injection (external text introduced per iteration) 
+prevents collapse across all tested models (Sonnet, Haiku, 
+Grok, DeepSeek). Confirmed p < 0.001.
 
 ---
-*Initiated by Marc-Olivier Corbin.*
+*Marc-Olivier Corbin — 2026*
