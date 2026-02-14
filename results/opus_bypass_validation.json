@@ -1,0 +1,37 @@
+[
+  {
+    "iteration": 0,
+    "seed": 0,
+    "model": "opus-4-6-bypass",
+    "text": "\n\n",
+    "char_length": 2
+  },
+  {
+    "iteration": 0,
+    "seed": 1,
+    "model": "opus-4-6-bypass",
+    "text": "\n\n",
+    "char_length": 2
+  },
+  {
+    "iteration": 0,
+    "seed": 2,
+    "model": "opus-4-6-bypass",
+    "text": "\n\n",
+    "char_length": 2
+  },
+  {
+    "iteration": 0,
+    "seed": 3,
+    "model": "opus-4-6-bypass",
+    "text": "\n\n",
+    "char_length": 2
+  },
+  {
+    "iteration": 0,
+    "seed": 4,
+    "model": "opus-4-6-bypass",
+    "text": "\n\n",
+    "char_length": 2
+  }
+]
