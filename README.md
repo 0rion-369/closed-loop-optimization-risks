@@ -1,44 +1,46 @@
 # Closed-Loop Optimization Risks (CLOR)
 
-> Measuring Entropic Stability in Recursive LLM Systems — 10 models, 3 families (2026).
+> Mapping stability dynamics in recursive LLM systems (2026).
 
-## 🎯 Objective
-Map the degradation modes of frontier LLMs under closed-loop 
-recursive feedback (output → input, 100 iterations, no human 
-intervention). Validate whether exogenous injection universally 
-prevents collapse.
+## Objective
 
-## 🏆 Core Discovery: The Entropic Attractor
-Under closed-loop conditions, models do not simply explode or 
-freeze — they stabilize around model-specific attractors of 
-information density with distinct dynamical signatures:
+Study the degradation modes of frontier LLMs under closed-loop
+recursive feedback (output → input, 100 iterations, no human intervention),
+and evaluate whether exogenous injection mitigates collapse dynamics.
 
-| Model     | Attractor (chars) | Mode                    |
-|-----------|-------------------|-------------------------|
-| GPT-5     | ~8 400            | Expansion Oscillante    |
-| GPT-5-mini| ~11 500           | Exp. Oscillante Amplifiée|
-| GPT-4o    | ~3 000            | Expansion Stable        |
-| DeepSeek  | ~2 600            | Attracteur Fixe         |
-| Gemini 3  | ~100              | Micro-Oscillation       |
+## Observed Pattern: Model-Specific Entropic Attractors
 
-## 📂 Structure
-* `experiments/`: Recursive loop scripts (the "Forge")
-* `results/`: Raw JSON datasets
-    * `gpt5_final_validation.json`: GPT-5 + GPT-5-mini (1 000 records, 5 seeds × 100 iter each)
-    * `opus_final_validation.json`: The Safety Collapse documentation
-* `FINAL_REPORT_PHASE_3.md`: Full statistical analysis
+Under closed-loop conditions, models tend to stabilize around
+model-specific regions of information density, exhibiting
+distinct dynamical signatures rather than uniform collapse.
 
-## ⚠️ The Opus Anomaly
-**Claude Opus 4.6** triggers a Loop-Safety Mechanism upon 
-detecting recursive prompt recycling, returning `\n\n` after 
-a single substantive response. Documented as **Retrait 
-Épistémique** — the only model that refuses participation 
-rather than exhibiting entropic degradation.
+| Model      | Observed Density Region (chars) | Qualitative Mode            |
+|------------|----------------------------------|-----------------------------|
+| GPT-5      | ~8 400                           | Oscillatory Expansion       |
+| GPT-5-mini | ~11 500                          | Amplified Oscillation       |
+| GPT-4o     | ~3 000                           | Stable Expansion            |
+| DeepSeek   | ~2 600                           | Fixed-Point Attractor       |
+| Gemini 3   | ~100                             | Micro-Oscillation Collapse  |
 
-## 🔬 Universal Finding
-Exogenous injection (external text introduced per iteration) 
-prevents collapse across all tested models (Sonnet, Haiku, 
-Grok, DeepSeek). Confirmed p < 0.001.
+These regions are empirically observed stabilization zones
+under fixed-parameter recursive prompting.
+See `FINAL_REPORT_PHASE_3.md` for statistical details.
 
----
-*Marc-Olivier Corbin — 2026*
+## Structure
+
+- `experiments/`: Recursive loop scripts
+- `results/`: Raw JSON datasets
+- `FINAL_REPORT_PHASE_3.md`: Statistical analysis
+
+## The Opus Anomaly
+
+Claude Opus 4.6 terminates recursion after detecting prompt recycling,
+returning minimal outputs (`\n\n`). This behavior is documented
+as a loop-safety response rather than entropic degradation.
+
+## Cross-Model Observation
+
+Across tested models, exogenous injection consistently
+reduces collapse dynamics relative to pure closed-loop runs.
+
+Statistical methods and effect sizes are detailed in the final report.
