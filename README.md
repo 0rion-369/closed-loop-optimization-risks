@@ -127,3 +127,11 @@ Exploratory empirical study.
 All claims are subject to revision under replication and extended testing.
 
 ---
+
+## 📅 Update: Phase 3.1 (February 2026)
+**Robustness & Recovery Analysis**
+New experiments focus on Temperature sensitivity (T=1.0) and the "Lazare Protocol" for system recovery.
+
+* **Report:** [reports/phase_3/PHASE_3_1_ROBUSTNESS_REPORT.md](reports/phase_3/PHASE_3_1_ROBUSTNESS_REPORT.md)
+* **Key Finding:** Exogenous injection is *prophylactic*, not *therapeutic*. Once semantic collapse sets in (approx iteration 4), the system cannot be recovered even with active injection.
+* **New Mode:** "Semantic Implosion" identified in Creative prompts at high temperatures.
