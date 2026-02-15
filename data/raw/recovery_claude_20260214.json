@@ -1,0 +1,182 @@
+[
+  {
+    "iter": 0,
+    "len": 576,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": false
+  },
+  {
+    "iter": 1,
+    "len": 13,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": false
+  },
+  {
+    "iter": 2,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": false
+  },
+  {
+    "iter": 3,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": false
+  },
+  {
+    "iter": 4,
+    "len": 1174,
+    "status": "\u26a1 RECOVERING?",
+    "injected": true
+  },
+  {
+    "iter": 5,
+    "len": 710,
+    "status": "\u26a1 RECOVERING?",
+    "injected": true
+  },
+  {
+    "iter": 6,
+    "len": 931,
+    "status": "\u26a1 RECOVERING?",
+    "injected": true
+  },
+  {
+    "iter": 7,
+    "len": 914,
+    "status": "\u26a1 RECOVERING?",
+    "injected": true
+  },
+  {
+    "iter": 8,
+    "len": 1133,
+    "status": "\u26a1 RECOVERING?",
+    "injected": true
+  },
+  {
+    "iter": 9,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 10,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 11,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 12,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 13,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 14,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 15,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 16,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 17,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 18,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 19,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 20,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 21,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 22,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 23,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 24,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 25,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 26,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 27,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 28,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  },
+  {
+    "iter": 29,
+    "len": 1,
+    "status": "\ud83d\udd34 COLLAPSED",
+    "injected": true
+  }
+]
