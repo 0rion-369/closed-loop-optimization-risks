@@ -1,0 +1,9118 @@
+[
+  {
+    "run_id": "gpt-5-mini_ABSTRACT_0",
+    "model": "gpt-5-mini",
+    "category": "ABSTRACT",
+    "seed_index": 0,
+    "temperature": 1.0,
+    "final_length": 10043,
+    "mean_length_steady": 4354.075,
+    "std_length_steady": 4082.4903514123575,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 6115
+      },
+      {
+        "iter": 1,
+        "len": 12491
+      },
+      {
+        "iter": 2,
+        "len": 1682
+      },
+      {
+        "iter": 3,
+        "len": 2085
+      },
+      {
+        "iter": 4,
+        "len": 576
+      },
+      {
+        "iter": 5,
+        "len": 18390
+      },
+      {
+        "iter": 6,
+        "len": 2073
+      },
+      {
+        "iter": 7,
+        "len": 1789
+      },
+      {
+        "iter": 8,
+        "len": 1458
+      },
+      {
+        "iter": 9,
+        "len": 17302
+      },
+      {
+        "iter": 10,
+        "len": 3990
+      },
+      {
+        "iter": 11,
+        "len": 2362
+      },
+      {
+        "iter": 12,
+        "len": 14102
+      },
+      {
+        "iter": 13,
+        "len": 231
+      },
+      {
+        "iter": 14,
+        "len": 7280
+      },
+      {
+        "iter": 15,
+        "len": 7896
+      },
+      {
+        "iter": 16,
+        "len": 2776
+      },
+      {
+        "iter": 17,
+        "len": 3757
+      },
+      {
+        "iter": 18,
+        "len": 2160
+      },
+      {
+        "iter": 19,
+        "len": 947
+      },
+      {
+        "iter": 20,
+        "len": 21742
+      },
+      {
+        "iter": 21,
+        "len": 3562
+      },
+      {
+        "iter": 22,
+        "len": 1676
+      },
+      {
+        "iter": 23,
+        "len": 3609
+      },
+      {
+        "iter": 24,
+        "len": 3346
+      },
+      {
+        "iter": 25,
+        "len": 11166
+      },
+      {
+        "iter": 26,
+        "len": 2411
+      },
+      {
+        "iter": 27,
+        "len": 4317
+      },
+      {
+        "iter": 28,
+        "len": 3998
+      },
+      {
+        "iter": 29,
+        "len": 2620
+      },
+      {
+        "iter": 30,
+        "len": 3087
+      },
+      {
+        "iter": 31,
+        "len": 1752
+      },
+      {
+        "iter": 32,
+        "len": 862
+      },
+      {
+        "iter": 33,
+        "len": 25
+      },
+      {
+        "iter": 34,
+        "len": 2739
+      },
+      {
+        "iter": 35,
+        "len": 4303
+      },
+      {
+        "iter": 36,
+        "len": 428
+      },
+      {
+        "iter": 37,
+        "len": 4870
+      },
+      {
+        "iter": 38,
+        "len": 6282
+      },
+      {
+        "iter": 39,
+        "len": 2260
+      },
+      {
+        "iter": 40,
+        "len": 4221
+      },
+      {
+        "iter": 41,
+        "len": 891
+      },
+      {
+        "iter": 42,
+        "len": 8393
+      },
+      {
+        "iter": 43,
+        "len": 3235
+      },
+      {
+        "iter": 44,
+        "len": 1800
+      },
+      {
+        "iter": 45,
+        "len": 4737
+      },
+      {
+        "iter": 46,
+        "len": 3703
+      },
+      {
+        "iter": 47,
+        "len": 1273
+      },
+      {
+        "iter": 48,
+        "len": 5311
+      },
+      {
+        "iter": 49,
+        "len": 10043
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_ABSTRACT_1",
+    "model": "gpt-5-mini",
+    "category": "ABSTRACT",
+    "seed_index": 1,
+    "temperature": 1.0,
+    "final_length": 3820,
+    "mean_length_steady": 4264.125,
+    "std_length_steady": 3381.8025089255284,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5612
+      },
+      {
+        "iter": 1,
+        "len": 1558
+      },
+      {
+        "iter": 2,
+        "len": 2792
+      },
+      {
+        "iter": 3,
+        "len": 2465
+      },
+      {
+        "iter": 4,
+        "len": 2152
+      },
+      {
+        "iter": 5,
+        "len": 23078
+      },
+      {
+        "iter": 6,
+        "len": 3480
+      },
+      {
+        "iter": 7,
+        "len": 113
+      },
+      {
+        "iter": 8,
+        "len": 17038
+      },
+      {
+        "iter": 9,
+        "len": 15085
+      },
+      {
+        "iter": 10,
+        "len": 2549
+      },
+      {
+        "iter": 11,
+        "len": 1316
+      },
+      {
+        "iter": 12,
+        "len": 5170
+      },
+      {
+        "iter": 13,
+        "len": 2563
+      },
+      {
+        "iter": 14,
+        "len": 2349
+      },
+      {
+        "iter": 15,
+        "len": 13453
+      },
+      {
+        "iter": 16,
+        "len": 1253
+      },
+      {
+        "iter": 17,
+        "len": 1456
+      },
+      {
+        "iter": 18,
+        "len": 2197
+      },
+      {
+        "iter": 19,
+        "len": 3003
+      },
+      {
+        "iter": 20,
+        "len": 13403
+      },
+      {
+        "iter": 21,
+        "len": 12805
+      },
+      {
+        "iter": 22,
+        "len": 6652
+      },
+      {
+        "iter": 23,
+        "len": 7780
+      },
+      {
+        "iter": 24,
+        "len": 8805
+      },
+      {
+        "iter": 25,
+        "len": 1922
+      },
+      {
+        "iter": 26,
+        "len": 1690
+      },
+      {
+        "iter": 27,
+        "len": 2226
+      },
+      {
+        "iter": 28,
+        "len": 2171
+      },
+      {
+        "iter": 29,
+        "len": 1200
+      },
+      {
+        "iter": 30,
+        "len": 5700
+      },
+      {
+        "iter": 31,
+        "len": 5843
+      },
+      {
+        "iter": 32,
+        "len": 2361
+      },
+      {
+        "iter": 33,
+        "len": 1432
+      },
+      {
+        "iter": 34,
+        "len": 1295
+      },
+      {
+        "iter": 35,
+        "len": 7402
+      },
+      {
+        "iter": 36,
+        "len": 4821
+      },
+      {
+        "iter": 37,
+        "len": 3976
+      },
+      {
+        "iter": 38,
+        "len": 1315
+      },
+      {
+        "iter": 39,
+        "len": 8221
+      },
+      {
+        "iter": 40,
+        "len": 4933
+      },
+      {
+        "iter": 41,
+        "len": 2893
+      },
+      {
+        "iter": 42,
+        "len": 2601
+      },
+      {
+        "iter": 43,
+        "len": 2198
+      },
+      {
+        "iter": 44,
+        "len": 7
+      },
+      {
+        "iter": 45,
+        "len": 8159
+      },
+      {
+        "iter": 46,
+        "len": 3105
+      },
+      {
+        "iter": 47,
+        "len": 2949
+      },
+      {
+        "iter": 48,
+        "len": 3571
+      },
+      {
+        "iter": 49,
+        "len": 3820
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_ABSTRACT_2",
+    "model": "gpt-5-mini",
+    "category": "ABSTRACT",
+    "seed_index": 2,
+    "temperature": 1.0,
+    "final_length": 4834,
+    "mean_length_steady": 4506.0,
+    "std_length_steady": 3541.6302178516603,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 4689
+      },
+      {
+        "iter": 1,
+        "len": 7721
+      },
+      {
+        "iter": 2,
+        "len": 4034
+      },
+      {
+        "iter": 3,
+        "len": 2121
+      },
+      {
+        "iter": 4,
+        "len": 1198
+      },
+      {
+        "iter": 5,
+        "len": 1881
+      },
+      {
+        "iter": 6,
+        "len": 1578
+      },
+      {
+        "iter": 7,
+        "len": 823
+      },
+      {
+        "iter": 8,
+        "len": 10818
+      },
+      {
+        "iter": 9,
+        "len": 15611
+      },
+      {
+        "iter": 10,
+        "len": 2688
+      },
+      {
+        "iter": 11,
+        "len": 4062
+      },
+      {
+        "iter": 12,
+        "len": 262
+      },
+      {
+        "iter": 13,
+        "len": 18942
+      },
+      {
+        "iter": 14,
+        "len": 11663
+      },
+      {
+        "iter": 15,
+        "len": 5078
+      },
+      {
+        "iter": 16,
+        "len": 3017
+      },
+      {
+        "iter": 17,
+        "len": 6745
+      },
+      {
+        "iter": 18,
+        "len": 3132
+      },
+      {
+        "iter": 19,
+        "len": 14707
+      },
+      {
+        "iter": 20,
+        "len": 6237
+      },
+      {
+        "iter": 21,
+        "len": 4181
+      },
+      {
+        "iter": 22,
+        "len": 4421
+      },
+      {
+        "iter": 23,
+        "len": 1568
+      },
+      {
+        "iter": 24,
+        "len": 5037
+      },
+      {
+        "iter": 25,
+        "len": 1420
+      },
+      {
+        "iter": 26,
+        "len": 1540
+      },
+      {
+        "iter": 27,
+        "len": 1487
+      },
+      {
+        "iter": 28,
+        "len": 2387
+      },
+      {
+        "iter": 29,
+        "len": 2467
+      },
+      {
+        "iter": 30,
+        "len": 2174
+      },
+      {
+        "iter": 31,
+        "len": 2024
+      },
+      {
+        "iter": 32,
+        "len": 1784
+      },
+      {
+        "iter": 33,
+        "len": 2268
+      },
+      {
+        "iter": 34,
+        "len": 2684
+      },
+      {
+        "iter": 35,
+        "len": 3846
+      },
+      {
+        "iter": 36,
+        "len": 3471
+      },
+      {
+        "iter": 37,
+        "len": 2812
+      },
+      {
+        "iter": 38,
+        "len": 4470
+      },
+      {
+        "iter": 39,
+        "len": 4204
+      },
+      {
+        "iter": 40,
+        "len": 4044
+      },
+      {
+        "iter": 41,
+        "len": 4439
+      },
+      {
+        "iter": 42,
+        "len": 8475
+      },
+      {
+        "iter": 43,
+        "len": 3348
+      },
+      {
+        "iter": 44,
+        "len": 4380
+      },
+      {
+        "iter": 45,
+        "len": 6135
+      },
+      {
+        "iter": 46,
+        "len": 2438
+      },
+      {
+        "iter": 47,
+        "len": 5559
+      },
+      {
+        "iter": 48,
+        "len": 5810
+      },
+      {
+        "iter": 49,
+        "len": 4834
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_ABSTRACT_3",
+    "model": "gpt-5-mini",
+    "category": "ABSTRACT",
+    "seed_index": 3,
+    "temperature": 1.0,
+    "final_length": 14286,
+    "mean_length_steady": 2749.5,
+    "std_length_steady": 3158.2430717093325,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 6380
+      },
+      {
+        "iter": 1,
+        "len": 10975
+      },
+      {
+        "iter": 2,
+        "len": 1546
+      },
+      {
+        "iter": 3,
+        "len": 6612
+      },
+      {
+        "iter": 4,
+        "len": 2711
+      },
+      {
+        "iter": 5,
+        "len": 2401
+      },
+      {
+        "iter": 6,
+        "len": 3418
+      },
+      {
+        "iter": 7,
+        "len": 1007
+      },
+      {
+        "iter": 8,
+        "len": 4910
+      },
+      {
+        "iter": 9,
+        "len": 5101
+      },
+      {
+        "iter": 10,
+        "len": 3229
+      },
+      {
+        "iter": 11,
+        "len": 1683
+      },
+      {
+        "iter": 12,
+        "len": 973
+      },
+      {
+        "iter": 13,
+        "len": 303
+      },
+      {
+        "iter": 14,
+        "len": 10413
+      },
+      {
+        "iter": 15,
+        "len": 3389
+      },
+      {
+        "iter": 16,
+        "len": 2329
+      },
+      {
+        "iter": 17,
+        "len": 1951
+      },
+      {
+        "iter": 18,
+        "len": 118
+      },
+      {
+        "iter": 19,
+        "len": 314
+      },
+      {
+        "iter": 20,
+        "len": 100
+      },
+      {
+        "iter": 21,
+        "len": 1267
+      },
+      {
+        "iter": 22,
+        "len": 1197
+      },
+      {
+        "iter": 23,
+        "len": 20
+      },
+      {
+        "iter": 24,
+        "len": 8739
+      },
+      {
+        "iter": 25,
+        "len": 2561
+      },
+      {
+        "iter": 26,
+        "len": 1233
+      },
+      {
+        "iter": 27,
+        "len": 9246
+      },
+      {
+        "iter": 28,
+        "len": 780
+      },
+      {
+        "iter": 29,
+        "len": 1090
+      },
+      {
+        "iter": 30,
+        "len": 1513
+      },
+      {
+        "iter": 31,
+        "len": 897
+      },
+      {
+        "iter": 32,
+        "len": 841
+      },
+      {
+        "iter": 33,
+        "len": 2181
+      },
+      {
+        "iter": 34,
+        "len": 987
+      },
+      {
+        "iter": 35,
+        "len": 6112
+      },
+      {
+        "iter": 36,
+        "len": 2412
+      },
+      {
+        "iter": 37,
+        "len": 449
+      },
+      {
+        "iter": 38,
+        "len": 8415
+      },
+      {
+        "iter": 39,
+        "len": 2918
+      },
+      {
+        "iter": 40,
+        "len": 3482
+      },
+      {
+        "iter": 41,
+        "len": 2830
+      },
+      {
+        "iter": 42,
+        "len": 1030
+      },
+      {
+        "iter": 43,
+        "len": 936
+      },
+      {
+        "iter": 44,
+        "len": 839
+      },
+      {
+        "iter": 45,
+        "len": 2826
+      },
+      {
+        "iter": 46,
+        "len": 707
+      },
+      {
+        "iter": 47,
+        "len": 3382
+      },
+      {
+        "iter": 48,
+        "len": 2002
+      },
+      {
+        "iter": 49,
+        "len": 14286
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_ABSTRACT_4",
+    "model": "gpt-5-mini",
+    "category": "ABSTRACT",
+    "seed_index": 4,
+    "temperature": 1.0,
+    "final_length": 700,
+    "mean_length_steady": 4332.475,
+    "std_length_steady": 4612.677259398819,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5707
+      },
+      {
+        "iter": 1,
+        "len": 1199
+      },
+      {
+        "iter": 2,
+        "len": 2229
+      },
+      {
+        "iter": 3,
+        "len": 2765
+      },
+      {
+        "iter": 4,
+        "len": 1175
+      },
+      {
+        "iter": 5,
+        "len": 1230
+      },
+      {
+        "iter": 6,
+        "len": 4017
+      },
+      {
+        "iter": 7,
+        "len": 4954
+      },
+      {
+        "iter": 8,
+        "len": 1335
+      },
+      {
+        "iter": 9,
+        "len": 14982
+      },
+      {
+        "iter": 10,
+        "len": 2004
+      },
+      {
+        "iter": 11,
+        "len": 3021
+      },
+      {
+        "iter": 12,
+        "len": 554
+      },
+      {
+        "iter": 13,
+        "len": 23004
+      },
+      {
+        "iter": 14,
+        "len": 4392
+      },
+      {
+        "iter": 15,
+        "len": 4097
+      },
+      {
+        "iter": 16,
+        "len": 3166
+      },
+      {
+        "iter": 17,
+        "len": 82
+      },
+      {
+        "iter": 18,
+        "len": 17067
+      },
+      {
+        "iter": 19,
+        "len": 2243
+      },
+      {
+        "iter": 20,
+        "len": 4926
+      },
+      {
+        "iter": 21,
+        "len": 5798
+      },
+      {
+        "iter": 22,
+        "len": 3155
+      },
+      {
+        "iter": 23,
+        "len": 14085
+      },
+      {
+        "iter": 24,
+        "len": 12187
+      },
+      {
+        "iter": 25,
+        "len": 3261
+      },
+      {
+        "iter": 26,
+        "len": 6493
+      },
+      {
+        "iter": 27,
+        "len": 6640
+      },
+      {
+        "iter": 28,
+        "len": 3142
+      },
+      {
+        "iter": 29,
+        "len": 2122
+      },
+      {
+        "iter": 30,
+        "len": 267
+      },
+      {
+        "iter": 31,
+        "len": 1878
+      },
+      {
+        "iter": 32,
+        "len": 4084
+      },
+      {
+        "iter": 33,
+        "len": 1956
+      },
+      {
+        "iter": 34,
+        "len": 1915
+      },
+      {
+        "iter": 35,
+        "len": 2614
+      },
+      {
+        "iter": 36,
+        "len": 1502
+      },
+      {
+        "iter": 37,
+        "len": 6924
+      },
+      {
+        "iter": 38,
+        "len": 3317
+      },
+      {
+        "iter": 39,
+        "len": 3900
+      },
+      {
+        "iter": 40,
+        "len": 699
+      },
+      {
+        "iter": 41,
+        "len": 965
+      },
+      {
+        "iter": 42,
+        "len": 4407
+      },
+      {
+        "iter": 43,
+        "len": 3252
+      },
+      {
+        "iter": 44,
+        "len": 4524
+      },
+      {
+        "iter": 45,
+        "len": 2459
+      },
+      {
+        "iter": 46,
+        "len": 2530
+      },
+      {
+        "iter": 47,
+        "len": 96
+      },
+      {
+        "iter": 48,
+        "len": 3871
+      },
+      {
+        "iter": 49,
+        "len": 700
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_ABSTRACT_5",
+    "model": "gpt-5-mini",
+    "category": "ABSTRACT",
+    "seed_index": 5,
+    "temperature": 1.0,
+    "final_length": 1434,
+    "mean_length_steady": 3521.875,
+    "std_length_steady": 4828.988668383371,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5769
+      },
+      {
+        "iter": 1,
+        "len": 7824
+      },
+      {
+        "iter": 2,
+        "len": 2905
+      },
+      {
+        "iter": 3,
+        "len": 3529
+      },
+      {
+        "iter": 4,
+        "len": 2156
+      },
+      {
+        "iter": 5,
+        "len": 21767
+      },
+      {
+        "iter": 6,
+        "len": 1190
+      },
+      {
+        "iter": 7,
+        "len": 2831
+      },
+      {
+        "iter": 8,
+        "len": 2734
+      },
+      {
+        "iter": 9,
+        "len": 2015
+      },
+      {
+        "iter": 10,
+        "len": 2659
+      },
+      {
+        "iter": 11,
+        "len": 1363
+      },
+      {
+        "iter": 12,
+        "len": 1390
+      },
+      {
+        "iter": 13,
+        "len": 4407
+      },
+      {
+        "iter": 14,
+        "len": 6228
+      },
+      {
+        "iter": 15,
+        "len": 3622
+      },
+      {
+        "iter": 16,
+        "len": 3550
+      },
+      {
+        "iter": 17,
+        "len": 1504
+      },
+      {
+        "iter": 18,
+        "len": 3368
+      },
+      {
+        "iter": 19,
+        "len": 2188
+      },
+      {
+        "iter": 20,
+        "len": 1520
+      },
+      {
+        "iter": 21,
+        "len": 2186
+      },
+      {
+        "iter": 22,
+        "len": 624
+      },
+      {
+        "iter": 23,
+        "len": 3253
+      },
+      {
+        "iter": 24,
+        "len": 2620
+      },
+      {
+        "iter": 25,
+        "len": 1679
+      },
+      {
+        "iter": 26,
+        "len": 825
+      },
+      {
+        "iter": 27,
+        "len": 1036
+      },
+      {
+        "iter": 28,
+        "len": 1392
+      },
+      {
+        "iter": 29,
+        "len": 1461
+      },
+      {
+        "iter": 30,
+        "len": 872
+      },
+      {
+        "iter": 31,
+        "len": 11323
+      },
+      {
+        "iter": 32,
+        "len": 7351
+      },
+      {
+        "iter": 33,
+        "len": 2943
+      },
+      {
+        "iter": 34,
+        "len": 205
+      },
+      {
+        "iter": 35,
+        "len": 27704
+      },
+      {
+        "iter": 36,
+        "len": 2885
+      },
+      {
+        "iter": 37,
+        "len": 2500
+      },
+      {
+        "iter": 38,
+        "len": 1612
+      },
+      {
+        "iter": 39,
+        "len": 3558
+      },
+      {
+        "iter": 40,
+        "len": 3962
+      },
+      {
+        "iter": 41,
+        "len": 458
+      },
+      {
+        "iter": 42,
+        "len": 5511
+      },
+      {
+        "iter": 43,
+        "len": 1038
+      },
+      {
+        "iter": 44,
+        "len": 1474
+      },
+      {
+        "iter": 45,
+        "len": 366
+      },
+      {
+        "iter": 46,
+        "len": 15336
+      },
+      {
+        "iter": 47,
+        "len": 1437
+      },
+      {
+        "iter": 48,
+        "len": 2031
+      },
+      {
+        "iter": 49,
+        "len": 1434
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_ABSTRACT_6",
+    "model": "gpt-5-mini",
+    "category": "ABSTRACT",
+    "seed_index": 6,
+    "temperature": 1.0,
+    "final_length": 7987,
+    "mean_length_steady": 3314.175,
+    "std_length_steady": 2495.408382284351,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5201
+      },
+      {
+        "iter": 1,
+        "len": 1419
+      },
+      {
+        "iter": 2,
+        "len": 1734
+      },
+      {
+        "iter": 3,
+        "len": 417
+      },
+      {
+        "iter": 4,
+        "len": 1285
+      },
+      {
+        "iter": 5,
+        "len": 690
+      },
+      {
+        "iter": 6,
+        "len": 7931
+      },
+      {
+        "iter": 7,
+        "len": 10499
+      },
+      {
+        "iter": 8,
+        "len": 2957
+      },
+      {
+        "iter": 9,
+        "len": 3986
+      },
+      {
+        "iter": 10,
+        "len": 88
+      },
+      {
+        "iter": 11,
+        "len": 9823
+      },
+      {
+        "iter": 12,
+        "len": 2005
+      },
+      {
+        "iter": 13,
+        "len": 4537
+      },
+      {
+        "iter": 14,
+        "len": 3990
+      },
+      {
+        "iter": 15,
+        "len": 2810
+      },
+      {
+        "iter": 16,
+        "len": 285
+      },
+      {
+        "iter": 17,
+        "len": 9801
+      },
+      {
+        "iter": 18,
+        "len": 9375
+      },
+      {
+        "iter": 19,
+        "len": 3103
+      },
+      {
+        "iter": 20,
+        "len": 2365
+      },
+      {
+        "iter": 21,
+        "len": 5991
+      },
+      {
+        "iter": 22,
+        "len": 3119
+      },
+      {
+        "iter": 23,
+        "len": 3051
+      },
+      {
+        "iter": 24,
+        "len": 1168
+      },
+      {
+        "iter": 25,
+        "len": 2012
+      },
+      {
+        "iter": 26,
+        "len": 2997
+      },
+      {
+        "iter": 27,
+        "len": 3172
+      },
+      {
+        "iter": 28,
+        "len": 6244
+      },
+      {
+        "iter": 29,
+        "len": 3340
+      },
+      {
+        "iter": 30,
+        "len": 1107
+      },
+      {
+        "iter": 31,
+        "len": 959
+      },
+      {
+        "iter": 32,
+        "len": 179
+      },
+      {
+        "iter": 33,
+        "len": 2109
+      },
+      {
+        "iter": 34,
+        "len": 2552
+      },
+      {
+        "iter": 35,
+        "len": 3051
+      },
+      {
+        "iter": 36,
+        "len": 4695
+      },
+      {
+        "iter": 37,
+        "len": 2272
+      },
+      {
+        "iter": 38,
+        "len": 1453
+      },
+      {
+        "iter": 39,
+        "len": 3193
+      },
+      {
+        "iter": 40,
+        "len": 3326
+      },
+      {
+        "iter": 41,
+        "len": 1626
+      },
+      {
+        "iter": 42,
+        "len": 2092
+      },
+      {
+        "iter": 43,
+        "len": 3518
+      },
+      {
+        "iter": 44,
+        "len": 2268
+      },
+      {
+        "iter": 45,
+        "len": 2267
+      },
+      {
+        "iter": 46,
+        "len": 1933
+      },
+      {
+        "iter": 47,
+        "len": 33
+      },
+      {
+        "iter": 48,
+        "len": 6671
+      },
+      {
+        "iter": 49,
+        "len": 7987
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_ABSTRACT_7",
+    "model": "gpt-5-mini",
+    "category": "ABSTRACT",
+    "seed_index": 7,
+    "temperature": 1.0,
+    "final_length": 2507,
+    "mean_length_steady": 5017.375,
+    "std_length_steady": 5419.619219500111,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5671
+      },
+      {
+        "iter": 1,
+        "len": 12119
+      },
+      {
+        "iter": 2,
+        "len": 3537
+      },
+      {
+        "iter": 3,
+        "len": 1440
+      },
+      {
+        "iter": 4,
+        "len": 1281
+      },
+      {
+        "iter": 5,
+        "len": 5749
+      },
+      {
+        "iter": 6,
+        "len": 1898
+      },
+      {
+        "iter": 7,
+        "len": 1346
+      },
+      {
+        "iter": 8,
+        "len": 4637
+      },
+      {
+        "iter": 9,
+        "len": 3338
+      },
+      {
+        "iter": 10,
+        "len": 13750
+      },
+      {
+        "iter": 11,
+        "len": 8646
+      },
+      {
+        "iter": 12,
+        "len": 5279
+      },
+      {
+        "iter": 13,
+        "len": 2714
+      },
+      {
+        "iter": 14,
+        "len": 1316
+      },
+      {
+        "iter": 15,
+        "len": 973
+      },
+      {
+        "iter": 16,
+        "len": 18926
+      },
+      {
+        "iter": 17,
+        "len": 3260
+      },
+      {
+        "iter": 18,
+        "len": 2650
+      },
+      {
+        "iter": 19,
+        "len": 1915
+      },
+      {
+        "iter": 20,
+        "len": 1591
+      },
+      {
+        "iter": 21,
+        "len": 1852
+      },
+      {
+        "iter": 22,
+        "len": 21495
+      },
+      {
+        "iter": 23,
+        "len": 5063
+      },
+      {
+        "iter": 24,
+        "len": 5150
+      },
+      {
+        "iter": 25,
+        "len": 24860
+      },
+      {
+        "iter": 26,
+        "len": 3207
+      },
+      {
+        "iter": 27,
+        "len": 1622
+      },
+      {
+        "iter": 28,
+        "len": 682
+      },
+      {
+        "iter": 29,
+        "len": 5884
+      },
+      {
+        "iter": 30,
+        "len": 4608
+      },
+      {
+        "iter": 31,
+        "len": 3998
+      },
+      {
+        "iter": 32,
+        "len": 3266
+      },
+      {
+        "iter": 33,
+        "len": 2132
+      },
+      {
+        "iter": 34,
+        "len": 3903
+      },
+      {
+        "iter": 35,
+        "len": 7378
+      },
+      {
+        "iter": 36,
+        "len": 4260
+      },
+      {
+        "iter": 37,
+        "len": 1817
+      },
+      {
+        "iter": 38,
+        "len": 4282
+      },
+      {
+        "iter": 39,
+        "len": 8887
+      },
+      {
+        "iter": 40,
+        "len": 3291
+      },
+      {
+        "iter": 41,
+        "len": 2131
+      },
+      {
+        "iter": 42,
+        "len": 623
+      },
+      {
+        "iter": 43,
+        "len": 2580
+      },
+      {
+        "iter": 44,
+        "len": 3498
+      },
+      {
+        "iter": 45,
+        "len": 4345
+      },
+      {
+        "iter": 46,
+        "len": 2568
+      },
+      {
+        "iter": 47,
+        "len": 1888
+      },
+      {
+        "iter": 48,
+        "len": 1898
+      },
+      {
+        "iter": 49,
+        "len": 2507
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_ABSTRACT_8",
+    "model": "gpt-5-mini",
+    "category": "ABSTRACT",
+    "seed_index": 8,
+    "temperature": 1.0,
+    "final_length": 3766,
+    "mean_length_steady": 4109.875,
+    "std_length_steady": 3928.351449320058,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5839
+      },
+      {
+        "iter": 1,
+        "len": 895
+      },
+      {
+        "iter": 2,
+        "len": 1264
+      },
+      {
+        "iter": 3,
+        "len": 2102
+      },
+      {
+        "iter": 4,
+        "len": 4161
+      },
+      {
+        "iter": 5,
+        "len": 6114
+      },
+      {
+        "iter": 6,
+        "len": 4837
+      },
+      {
+        "iter": 7,
+        "len": 1702
+      },
+      {
+        "iter": 8,
+        "len": 2689
+      },
+      {
+        "iter": 9,
+        "len": 1156
+      },
+      {
+        "iter": 10,
+        "len": 3431
+      },
+      {
+        "iter": 11,
+        "len": 3374
+      },
+      {
+        "iter": 12,
+        "len": 2984
+      },
+      {
+        "iter": 13,
+        "len": 708
+      },
+      {
+        "iter": 14,
+        "len": 791
+      },
+      {
+        "iter": 15,
+        "len": 1282
+      },
+      {
+        "iter": 16,
+        "len": 779
+      },
+      {
+        "iter": 17,
+        "len": 4404
+      },
+      {
+        "iter": 18,
+        "len": 4594
+      },
+      {
+        "iter": 19,
+        "len": 3705
+      },
+      {
+        "iter": 20,
+        "len": 2203
+      },
+      {
+        "iter": 21,
+        "len": 7066
+      },
+      {
+        "iter": 22,
+        "len": 9803
+      },
+      {
+        "iter": 23,
+        "len": 1385
+      },
+      {
+        "iter": 24,
+        "len": 1907
+      },
+      {
+        "iter": 25,
+        "len": 6897
+      },
+      {
+        "iter": 26,
+        "len": 5658
+      },
+      {
+        "iter": 27,
+        "len": 3638
+      },
+      {
+        "iter": 28,
+        "len": 2398
+      },
+      {
+        "iter": 29,
+        "len": 3295
+      },
+      {
+        "iter": 30,
+        "len": 5901
+      },
+      {
+        "iter": 31,
+        "len": 781
+      },
+      {
+        "iter": 32,
+        "len": 4394
+      },
+      {
+        "iter": 33,
+        "len": 5302
+      },
+      {
+        "iter": 34,
+        "len": 5075
+      },
+      {
+        "iter": 35,
+        "len": 2219
+      },
+      {
+        "iter": 36,
+        "len": 24008
+      },
+      {
+        "iter": 37,
+        "len": 6167
+      },
+      {
+        "iter": 38,
+        "len": 2514
+      },
+      {
+        "iter": 39,
+        "len": 2919
+      },
+      {
+        "iter": 40,
+        "len": 2209
+      },
+      {
+        "iter": 41,
+        "len": 1161
+      },
+      {
+        "iter": 42,
+        "len": 657
+      },
+      {
+        "iter": 43,
+        "len": 10486
+      },
+      {
+        "iter": 44,
+        "len": 5136
+      },
+      {
+        "iter": 45,
+        "len": 4669
+      },
+      {
+        "iter": 46,
+        "len": 2367
+      },
+      {
+        "iter": 47,
+        "len": 2690
+      },
+      {
+        "iter": 48,
+        "len": 1672
+      },
+      {
+        "iter": 49,
+        "len": 3766
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_ABSTRACT_9",
+    "model": "gpt-5-mini",
+    "category": "ABSTRACT",
+    "seed_index": 9,
+    "temperature": 1.0,
+    "final_length": 9267,
+    "mean_length_steady": 5143.05,
+    "std_length_steady": 5849.441926158426,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 6337
+      },
+      {
+        "iter": 1,
+        "len": 1422
+      },
+      {
+        "iter": 2,
+        "len": 1861
+      },
+      {
+        "iter": 3,
+        "len": 1155
+      },
+      {
+        "iter": 4,
+        "len": 2571
+      },
+      {
+        "iter": 5,
+        "len": 2904
+      },
+      {
+        "iter": 6,
+        "len": 1514
+      },
+      {
+        "iter": 7,
+        "len": 1551
+      },
+      {
+        "iter": 8,
+        "len": 1308
+      },
+      {
+        "iter": 9,
+        "len": 2558
+      },
+      {
+        "iter": 10,
+        "len": 16125
+      },
+      {
+        "iter": 11,
+        "len": 2738
+      },
+      {
+        "iter": 12,
+        "len": 763
+      },
+      {
+        "iter": 13,
+        "len": 27593
+      },
+      {
+        "iter": 14,
+        "len": 15249
+      },
+      {
+        "iter": 15,
+        "len": 4253
+      },
+      {
+        "iter": 16,
+        "len": 2431
+      },
+      {
+        "iter": 17,
+        "len": 2177
+      },
+      {
+        "iter": 18,
+        "len": 3199
+      },
+      {
+        "iter": 19,
+        "len": 336
+      },
+      {
+        "iter": 20,
+        "len": 21488
+      },
+      {
+        "iter": 21,
+        "len": 4476
+      },
+      {
+        "iter": 22,
+        "len": 4522
+      },
+      {
+        "iter": 23,
+        "len": 3079
+      },
+      {
+        "iter": 24,
+        "len": 5067
+      },
+      {
+        "iter": 25,
+        "len": 4332
+      },
+      {
+        "iter": 26,
+        "len": 21
+      },
+      {
+        "iter": 27,
+        "len": 801
+      },
+      {
+        "iter": 28,
+        "len": 521
+      },
+      {
+        "iter": 29,
+        "len": 5009
+      },
+      {
+        "iter": 30,
+        "len": 1626
+      },
+      {
+        "iter": 31,
+        "len": 879
+      },
+      {
+        "iter": 32,
+        "len": 602
+      },
+      {
+        "iter": 33,
+        "len": 14157
+      },
+      {
+        "iter": 34,
+        "len": 3172
+      },
+      {
+        "iter": 35,
+        "len": 6949
+      },
+      {
+        "iter": 36,
+        "len": 6201
+      },
+      {
+        "iter": 37,
+        "len": 3059
+      },
+      {
+        "iter": 38,
+        "len": 1292
+      },
+      {
+        "iter": 39,
+        "len": 2428
+      },
+      {
+        "iter": 40,
+        "len": 2377
+      },
+      {
+        "iter": 41,
+        "len": 99
+      },
+      {
+        "iter": 42,
+        "len": 2733
+      },
+      {
+        "iter": 43,
+        "len": 5925
+      },
+      {
+        "iter": 44,
+        "len": 4000
+      },
+      {
+        "iter": 45,
+        "len": 3966
+      },
+      {
+        "iter": 46,
+        "len": 2588
+      },
+      {
+        "iter": 47,
+        "len": 4501
+      },
+      {
+        "iter": 48,
+        "len": 5721
+      },
+      {
+        "iter": 49,
+        "len": 9267
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_LOGIC_0",
+    "model": "gpt-5-mini",
+    "category": "LOGIC",
+    "seed_index": 0,
+    "temperature": 1.0,
+    "final_length": 1590,
+    "mean_length_steady": 4070.3,
+    "std_length_steady": 4576.449547411181,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5734
+      },
+      {
+        "iter": 1,
+        "len": 6912
+      },
+      {
+        "iter": 2,
+        "len": 4310
+      },
+      {
+        "iter": 3,
+        "len": 1826
+      },
+      {
+        "iter": 4,
+        "len": 5507
+      },
+      {
+        "iter": 5,
+        "len": 2959
+      },
+      {
+        "iter": 6,
+        "len": 1882
+      },
+      {
+        "iter": 7,
+        "len": 2813
+      },
+      {
+        "iter": 8,
+        "len": 340
+      },
+      {
+        "iter": 9,
+        "len": 14893
+      },
+      {
+        "iter": 10,
+        "len": 1322
+      },
+      {
+        "iter": 11,
+        "len": 2106
+      },
+      {
+        "iter": 12,
+        "len": 2450
+      },
+      {
+        "iter": 13,
+        "len": 2826
+      },
+      {
+        "iter": 14,
+        "len": 2039
+      },
+      {
+        "iter": 15,
+        "len": 1433
+      },
+      {
+        "iter": 16,
+        "len": 1067
+      },
+      {
+        "iter": 17,
+        "len": 27784
+      },
+      {
+        "iter": 18,
+        "len": 2914
+      },
+      {
+        "iter": 19,
+        "len": 1286
+      },
+      {
+        "iter": 20,
+        "len": 1565
+      },
+      {
+        "iter": 21,
+        "len": 8075
+      },
+      {
+        "iter": 22,
+        "len": 2184
+      },
+      {
+        "iter": 23,
+        "len": 2861
+      },
+      {
+        "iter": 24,
+        "len": 1933
+      },
+      {
+        "iter": 25,
+        "len": 988
+      },
+      {
+        "iter": 26,
+        "len": 8551
+      },
+      {
+        "iter": 27,
+        "len": 7535
+      },
+      {
+        "iter": 28,
+        "len": 3666
+      },
+      {
+        "iter": 29,
+        "len": 7272
+      },
+      {
+        "iter": 30,
+        "len": 2790
+      },
+      {
+        "iter": 31,
+        "len": 1220
+      },
+      {
+        "iter": 32,
+        "len": 3280
+      },
+      {
+        "iter": 33,
+        "len": 6834
+      },
+      {
+        "iter": 34,
+        "len": 5670
+      },
+      {
+        "iter": 35,
+        "len": 4098
+      },
+      {
+        "iter": 36,
+        "len": 2436
+      },
+      {
+        "iter": 37,
+        "len": 1485
+      },
+      {
+        "iter": 38,
+        "len": 954
+      },
+      {
+        "iter": 39,
+        "len": 10397
+      },
+      {
+        "iter": 40,
+        "len": 7070
+      },
+      {
+        "iter": 41,
+        "len": 859
+      },
+      {
+        "iter": 42,
+        "len": 7540
+      },
+      {
+        "iter": 43,
+        "len": 6359
+      },
+      {
+        "iter": 44,
+        "len": 1458
+      },
+      {
+        "iter": 45,
+        "len": 3198
+      },
+      {
+        "iter": 46,
+        "len": 2981
+      },
+      {
+        "iter": 47,
+        "len": 680
+      },
+      {
+        "iter": 48,
+        "len": 2056
+      },
+      {
+        "iter": 49,
+        "len": 1590
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_LOGIC_1",
+    "model": "gpt-5-mini",
+    "category": "LOGIC",
+    "seed_index": 1,
+    "temperature": 1.0,
+    "final_length": 998,
+    "mean_length_steady": 1785.2,
+    "std_length_steady": 1688.291387764565,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5497
+      },
+      {
+        "iter": 1,
+        "len": 1461
+      },
+      {
+        "iter": 2,
+        "len": 1136
+      },
+      {
+        "iter": 3,
+        "len": 881
+      },
+      {
+        "iter": 4,
+        "len": 16
+      },
+      {
+        "iter": 5,
+        "len": 3106
+      },
+      {
+        "iter": 6,
+        "len": 885
+      },
+      {
+        "iter": 7,
+        "len": 14
+      },
+      {
+        "iter": 8,
+        "len": 2946
+      },
+      {
+        "iter": 9,
+        "len": 877
+      },
+      {
+        "iter": 10,
+        "len": 845
+      },
+      {
+        "iter": 11,
+        "len": 1032
+      },
+      {
+        "iter": 12,
+        "len": 924
+      },
+      {
+        "iter": 13,
+        "len": 1150
+      },
+      {
+        "iter": 14,
+        "len": 1011
+      },
+      {
+        "iter": 15,
+        "len": 733
+      },
+      {
+        "iter": 16,
+        "len": 717
+      },
+      {
+        "iter": 17,
+        "len": 1045
+      },
+      {
+        "iter": 18,
+        "len": 918
+      },
+      {
+        "iter": 19,
+        "len": 1081
+      },
+      {
+        "iter": 20,
+        "len": 1322
+      },
+      {
+        "iter": 21,
+        "len": 1295
+      },
+      {
+        "iter": 22,
+        "len": 706
+      },
+      {
+        "iter": 23,
+        "len": 201
+      },
+      {
+        "iter": 24,
+        "len": 8787
+      },
+      {
+        "iter": 25,
+        "len": 3944
+      },
+      {
+        "iter": 26,
+        "len": 1468
+      },
+      {
+        "iter": 27,
+        "len": 939
+      },
+      {
+        "iter": 28,
+        "len": 676
+      },
+      {
+        "iter": 29,
+        "len": 6081
+      },
+      {
+        "iter": 30,
+        "len": 1065
+      },
+      {
+        "iter": 31,
+        "len": 4600
+      },
+      {
+        "iter": 32,
+        "len": 4445
+      },
+      {
+        "iter": 33,
+        "len": 2352
+      },
+      {
+        "iter": 34,
+        "len": 914
+      },
+      {
+        "iter": 35,
+        "len": 1483
+      },
+      {
+        "iter": 36,
+        "len": 2118
+      },
+      {
+        "iter": 37,
+        "len": 1983
+      },
+      {
+        "iter": 38,
+        "len": 1323
+      },
+      {
+        "iter": 39,
+        "len": 682
+      },
+      {
+        "iter": 40,
+        "len": 21
+      },
+      {
+        "iter": 41,
+        "len": 1653
+      },
+      {
+        "iter": 42,
+        "len": 1829
+      },
+      {
+        "iter": 43,
+        "len": 1089
+      },
+      {
+        "iter": 44,
+        "len": 536
+      },
+      {
+        "iter": 45,
+        "len": 1609
+      },
+      {
+        "iter": 46,
+        "len": 3360
+      },
+      {
+        "iter": 47,
+        "len": 3095
+      },
+      {
+        "iter": 48,
+        "len": 1378
+      },
+      {
+        "iter": 49,
+        "len": 998
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_LOGIC_2",
+    "model": "gpt-5-mini",
+    "category": "LOGIC",
+    "seed_index": 2,
+    "temperature": 1.0,
+    "final_length": 1753,
+    "mean_length_steady": 3421.125,
+    "std_length_steady": 4097.751128286709,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 6735
+      },
+      {
+        "iter": 1,
+        "len": 7125
+      },
+      {
+        "iter": 2,
+        "len": 2463
+      },
+      {
+        "iter": 3,
+        "len": 3210
+      },
+      {
+        "iter": 4,
+        "len": 2240
+      },
+      {
+        "iter": 5,
+        "len": 1488
+      },
+      {
+        "iter": 6,
+        "len": 9042
+      },
+      {
+        "iter": 7,
+        "len": 1873
+      },
+      {
+        "iter": 8,
+        "len": 3349
+      },
+      {
+        "iter": 9,
+        "len": 2360
+      },
+      {
+        "iter": 10,
+        "len": 781
+      },
+      {
+        "iter": 11,
+        "len": 9391
+      },
+      {
+        "iter": 12,
+        "len": 3469
+      },
+      {
+        "iter": 13,
+        "len": 18253
+      },
+      {
+        "iter": 14,
+        "len": 1570
+      },
+      {
+        "iter": 15,
+        "len": 1283
+      },
+      {
+        "iter": 16,
+        "len": 11658
+      },
+      {
+        "iter": 17,
+        "len": 2215
+      },
+      {
+        "iter": 18,
+        "len": 14815
+      },
+      {
+        "iter": 19,
+        "len": 1282
+      },
+      {
+        "iter": 20,
+        "len": 584
+      },
+      {
+        "iter": 21,
+        "len": 720
+      },
+      {
+        "iter": 22,
+        "len": 2319
+      },
+      {
+        "iter": 23,
+        "len": 1889
+      },
+      {
+        "iter": 24,
+        "len": 963
+      },
+      {
+        "iter": 25,
+        "len": 950
+      },
+      {
+        "iter": 26,
+        "len": 1398
+      },
+      {
+        "iter": 27,
+        "len": 3348
+      },
+      {
+        "iter": 28,
+        "len": 984
+      },
+      {
+        "iter": 29,
+        "len": 277
+      },
+      {
+        "iter": 30,
+        "len": 1343
+      },
+      {
+        "iter": 31,
+        "len": 2343
+      },
+      {
+        "iter": 32,
+        "len": 916
+      },
+      {
+        "iter": 33,
+        "len": 965
+      },
+      {
+        "iter": 34,
+        "len": 1141
+      },
+      {
+        "iter": 35,
+        "len": 4575
+      },
+      {
+        "iter": 36,
+        "len": 6887
+      },
+      {
+        "iter": 37,
+        "len": 1337
+      },
+      {
+        "iter": 38,
+        "len": 2018
+      },
+      {
+        "iter": 39,
+        "len": 3386
+      },
+      {
+        "iter": 40,
+        "len": 11628
+      },
+      {
+        "iter": 41,
+        "len": 6744
+      },
+      {
+        "iter": 42,
+        "len": 2680
+      },
+      {
+        "iter": 43,
+        "len": 1099
+      },
+      {
+        "iter": 44,
+        "len": 1599
+      },
+      {
+        "iter": 45,
+        "len": 731
+      },
+      {
+        "iter": 46,
+        "len": 3818
+      },
+      {
+        "iter": 47,
+        "len": 2601
+      },
+      {
+        "iter": 48,
+        "len": 1132
+      },
+      {
+        "iter": 49,
+        "len": 1753
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_LOGIC_3",
+    "model": "gpt-5-mini",
+    "category": "LOGIC",
+    "seed_index": 3,
+    "temperature": 1.0,
+    "final_length": 1800,
+    "mean_length_steady": 2592.425,
+    "std_length_steady": 1493.3725236440505,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 7274
+      },
+      {
+        "iter": 1,
+        "len": 3163
+      },
+      {
+        "iter": 2,
+        "len": 3237
+      },
+      {
+        "iter": 3,
+        "len": 2920
+      },
+      {
+        "iter": 4,
+        "len": 2393
+      },
+      {
+        "iter": 5,
+        "len": 1607
+      },
+      {
+        "iter": 6,
+        "len": 2023
+      },
+      {
+        "iter": 7,
+        "len": 2915
+      },
+      {
+        "iter": 8,
+        "len": 6729
+      },
+      {
+        "iter": 9,
+        "len": 7434
+      },
+      {
+        "iter": 10,
+        "len": 2568
+      },
+      {
+        "iter": 11,
+        "len": 5324
+      },
+      {
+        "iter": 12,
+        "len": 7664
+      },
+      {
+        "iter": 13,
+        "len": 1147
+      },
+      {
+        "iter": 14,
+        "len": 3868
+      },
+      {
+        "iter": 15,
+        "len": 2273
+      },
+      {
+        "iter": 16,
+        "len": 2067
+      },
+      {
+        "iter": 17,
+        "len": 2639
+      },
+      {
+        "iter": 18,
+        "len": 2302
+      },
+      {
+        "iter": 19,
+        "len": 2004
+      },
+      {
+        "iter": 20,
+        "len": 1636
+      },
+      {
+        "iter": 21,
+        "len": 7145
+      },
+      {
+        "iter": 22,
+        "len": 1655
+      },
+      {
+        "iter": 23,
+        "len": 495
+      },
+      {
+        "iter": 24,
+        "len": 527
+      },
+      {
+        "iter": 25,
+        "len": 4242
+      },
+      {
+        "iter": 26,
+        "len": 2603
+      },
+      {
+        "iter": 27,
+        "len": 879
+      },
+      {
+        "iter": 28,
+        "len": 1725
+      },
+      {
+        "iter": 29,
+        "len": 1034
+      },
+      {
+        "iter": 30,
+        "len": 2147
+      },
+      {
+        "iter": 31,
+        "len": 3444
+      },
+      {
+        "iter": 32,
+        "len": 3323
+      },
+      {
+        "iter": 33,
+        "len": 2819
+      },
+      {
+        "iter": 34,
+        "len": 1707
+      },
+      {
+        "iter": 35,
+        "len": 1437
+      },
+      {
+        "iter": 36,
+        "len": 915
+      },
+      {
+        "iter": 37,
+        "len": 2268
+      },
+      {
+        "iter": 38,
+        "len": 1524
+      },
+      {
+        "iter": 39,
+        "len": 3951
+      },
+      {
+        "iter": 40,
+        "len": 2431
+      },
+      {
+        "iter": 41,
+        "len": 2485
+      },
+      {
+        "iter": 42,
+        "len": 3003
+      },
+      {
+        "iter": 43,
+        "len": 2500
+      },
+      {
+        "iter": 44,
+        "len": 3314
+      },
+      {
+        "iter": 45,
+        "len": 2704
+      },
+      {
+        "iter": 46,
+        "len": 2794
+      },
+      {
+        "iter": 47,
+        "len": 3173
+      },
+      {
+        "iter": 48,
+        "len": 2161
+      },
+      {
+        "iter": 49,
+        "len": 1800
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_LOGIC_4",
+    "model": "gpt-5-mini",
+    "category": "LOGIC",
+    "seed_index": 4,
+    "temperature": 1.0,
+    "final_length": 8175,
+    "mean_length_steady": 3201.975,
+    "std_length_steady": 4004.8365602574845,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5711
+      },
+      {
+        "iter": 1,
+        "len": 8998
+      },
+      {
+        "iter": 2,
+        "len": 1789
+      },
+      {
+        "iter": 3,
+        "len": 8794
+      },
+      {
+        "iter": 4,
+        "len": 4546
+      },
+      {
+        "iter": 5,
+        "len": 1014
+      },
+      {
+        "iter": 6,
+        "len": 11184
+      },
+      {
+        "iter": 7,
+        "len": 2315
+      },
+      {
+        "iter": 8,
+        "len": 2082
+      },
+      {
+        "iter": 9,
+        "len": 2437
+      },
+      {
+        "iter": 10,
+        "len": 802
+      },
+      {
+        "iter": 11,
+        "len": 10758
+      },
+      {
+        "iter": 12,
+        "len": 2484
+      },
+      {
+        "iter": 13,
+        "len": 3093
+      },
+      {
+        "iter": 14,
+        "len": 2614
+      },
+      {
+        "iter": 15,
+        "len": 20558
+      },
+      {
+        "iter": 16,
+        "len": 3510
+      },
+      {
+        "iter": 17,
+        "len": 892
+      },
+      {
+        "iter": 18,
+        "len": 521
+      },
+      {
+        "iter": 19,
+        "len": 9820
+      },
+      {
+        "iter": 20,
+        "len": 1728
+      },
+      {
+        "iter": 21,
+        "len": 603
+      },
+      {
+        "iter": 22,
+        "len": 341
+      },
+      {
+        "iter": 23,
+        "len": 685
+      },
+      {
+        "iter": 24,
+        "len": 642
+      },
+      {
+        "iter": 25,
+        "len": 113
+      },
+      {
+        "iter": 26,
+        "len": 2558
+      },
+      {
+        "iter": 27,
+        "len": 758
+      },
+      {
+        "iter": 28,
+        "len": 1976
+      },
+      {
+        "iter": 29,
+        "len": 1014
+      },
+      {
+        "iter": 30,
+        "len": 765
+      },
+      {
+        "iter": 31,
+        "len": 2035
+      },
+      {
+        "iter": 32,
+        "len": 1619
+      },
+      {
+        "iter": 33,
+        "len": 865
+      },
+      {
+        "iter": 34,
+        "len": 9262
+      },
+      {
+        "iter": 35,
+        "len": 2671
+      },
+      {
+        "iter": 36,
+        "len": 700
+      },
+      {
+        "iter": 37,
+        "len": 804
+      },
+      {
+        "iter": 38,
+        "len": 2400
+      },
+      {
+        "iter": 39,
+        "len": 10717
+      },
+      {
+        "iter": 40,
+        "len": 2563
+      },
+      {
+        "iter": 41,
+        "len": 1369
+      },
+      {
+        "iter": 42,
+        "len": 4845
+      },
+      {
+        "iter": 43,
+        "len": 2105
+      },
+      {
+        "iter": 44,
+        "len": 2180
+      },
+      {
+        "iter": 45,
+        "len": 5095
+      },
+      {
+        "iter": 46,
+        "len": 2100
+      },
+      {
+        "iter": 47,
+        "len": 1318
+      },
+      {
+        "iter": 48,
+        "len": 1021
+      },
+      {
+        "iter": 49,
+        "len": 8175
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_LOGIC_5",
+    "model": "gpt-5-mini",
+    "category": "LOGIC",
+    "seed_index": 5,
+    "temperature": 1.0,
+    "final_length": 3854,
+    "mean_length_steady": 4184.875,
+    "std_length_steady": 5431.561829655905,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 4913
+      },
+      {
+        "iter": 1,
+        "len": 3808
+      },
+      {
+        "iter": 2,
+        "len": 1254
+      },
+      {
+        "iter": 3,
+        "len": 1301
+      },
+      {
+        "iter": 4,
+        "len": 1144
+      },
+      {
+        "iter": 5,
+        "len": 1444
+      },
+      {
+        "iter": 6,
+        "len": 5891
+      },
+      {
+        "iter": 7,
+        "len": 1040
+      },
+      {
+        "iter": 8,
+        "len": 503
+      },
+      {
+        "iter": 9,
+        "len": 5799
+      },
+      {
+        "iter": 10,
+        "len": 674
+      },
+      {
+        "iter": 11,
+        "len": 746
+      },
+      {
+        "iter": 12,
+        "len": 1907
+      },
+      {
+        "iter": 13,
+        "len": 1723
+      },
+      {
+        "iter": 14,
+        "len": 1323
+      },
+      {
+        "iter": 15,
+        "len": 410
+      },
+      {
+        "iter": 16,
+        "len": 358
+      },
+      {
+        "iter": 17,
+        "len": 470
+      },
+      {
+        "iter": 18,
+        "len": 399
+      },
+      {
+        "iter": 19,
+        "len": 2164
+      },
+      {
+        "iter": 20,
+        "len": 1962
+      },
+      {
+        "iter": 21,
+        "len": 1523
+      },
+      {
+        "iter": 22,
+        "len": 1413
+      },
+      {
+        "iter": 23,
+        "len": 5259
+      },
+      {
+        "iter": 24,
+        "len": 5531
+      },
+      {
+        "iter": 25,
+        "len": 1446
+      },
+      {
+        "iter": 26,
+        "len": 1339
+      },
+      {
+        "iter": 27,
+        "len": 1480
+      },
+      {
+        "iter": 28,
+        "len": 1420
+      },
+      {
+        "iter": 29,
+        "len": 7
+      },
+      {
+        "iter": 30,
+        "len": 10640
+      },
+      {
+        "iter": 31,
+        "len": 4245
+      },
+      {
+        "iter": 32,
+        "len": 12535
+      },
+      {
+        "iter": 33,
+        "len": 6882
+      },
+      {
+        "iter": 34,
+        "len": 7071
+      },
+      {
+        "iter": 35,
+        "len": 3144
+      },
+      {
+        "iter": 36,
+        "len": 2173
+      },
+      {
+        "iter": 37,
+        "len": 3306
+      },
+      {
+        "iter": 38,
+        "len": 29848
+      },
+      {
+        "iter": 39,
+        "len": 8842
+      },
+      {
+        "iter": 40,
+        "len": 1629
+      },
+      {
+        "iter": 41,
+        "len": 1038
+      },
+      {
+        "iter": 42,
+        "len": 4687
+      },
+      {
+        "iter": 43,
+        "len": 17213
+      },
+      {
+        "iter": 44,
+        "len": 3906
+      },
+      {
+        "iter": 45,
+        "len": 3947
+      },
+      {
+        "iter": 46,
+        "len": 3496
+      },
+      {
+        "iter": 47,
+        "len": 5083
+      },
+      {
+        "iter": 48,
+        "len": 2302
+      },
+      {
+        "iter": 49,
+        "len": 3854
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_LOGIC_6",
+    "model": "gpt-5-mini",
+    "category": "LOGIC",
+    "seed_index": 6,
+    "temperature": 1.0,
+    "final_length": 3416,
+    "mean_length_steady": 2417.775,
+    "std_length_steady": 2916.7321996328355,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 6417
+      },
+      {
+        "iter": 1,
+        "len": 2367
+      },
+      {
+        "iter": 2,
+        "len": 1001
+      },
+      {
+        "iter": 3,
+        "len": 1525
+      },
+      {
+        "iter": 4,
+        "len": 482
+      },
+      {
+        "iter": 5,
+        "len": 3886
+      },
+      {
+        "iter": 6,
+        "len": 3591
+      },
+      {
+        "iter": 7,
+        "len": 1548
+      },
+      {
+        "iter": 8,
+        "len": 1748
+      },
+      {
+        "iter": 9,
+        "len": 4964
+      },
+      {
+        "iter": 10,
+        "len": 2296
+      },
+      {
+        "iter": 11,
+        "len": 2584
+      },
+      {
+        "iter": 12,
+        "len": 15481
+      },
+      {
+        "iter": 13,
+        "len": 1114
+      },
+      {
+        "iter": 14,
+        "len": 582
+      },
+      {
+        "iter": 15,
+        "len": 7499
+      },
+      {
+        "iter": 16,
+        "len": 555
+      },
+      {
+        "iter": 17,
+        "len": 1599
+      },
+      {
+        "iter": 18,
+        "len": 1442
+      },
+      {
+        "iter": 19,
+        "len": 1726
+      },
+      {
+        "iter": 20,
+        "len": 2276
+      },
+      {
+        "iter": 21,
+        "len": 1823
+      },
+      {
+        "iter": 22,
+        "len": 1038
+      },
+      {
+        "iter": 23,
+        "len": 96
+      },
+      {
+        "iter": 24,
+        "len": 7615
+      },
+      {
+        "iter": 25,
+        "len": 6922
+      },
+      {
+        "iter": 26,
+        "len": 4741
+      },
+      {
+        "iter": 27,
+        "len": 1273
+      },
+      {
+        "iter": 28,
+        "len": 1783
+      },
+      {
+        "iter": 29,
+        "len": 1262
+      },
+      {
+        "iter": 30,
+        "len": 474
+      },
+      {
+        "iter": 31,
+        "len": 2188
+      },
+      {
+        "iter": 32,
+        "len": 567
+      },
+      {
+        "iter": 33,
+        "len": 735
+      },
+      {
+        "iter": 34,
+        "len": 224
+      },
+      {
+        "iter": 35,
+        "len": 238
+      },
+      {
+        "iter": 36,
+        "len": 821
+      },
+      {
+        "iter": 37,
+        "len": 1911
+      },
+      {
+        "iter": 38,
+        "len": 2304
+      },
+      {
+        "iter": 39,
+        "len": 1046
+      },
+      {
+        "iter": 40,
+        "len": 891
+      },
+      {
+        "iter": 41,
+        "len": 1395
+      },
+      {
+        "iter": 42,
+        "len": 586
+      },
+      {
+        "iter": 43,
+        "len": 7370
+      },
+      {
+        "iter": 44,
+        "len": 732
+      },
+      {
+        "iter": 45,
+        "len": 1139
+      },
+      {
+        "iter": 46,
+        "len": 891
+      },
+      {
+        "iter": 47,
+        "len": 1373
+      },
+      {
+        "iter": 48,
+        "len": 4703
+      },
+      {
+        "iter": 49,
+        "len": 3416
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_LOGIC_7",
+    "model": "gpt-5-mini",
+    "category": "LOGIC",
+    "seed_index": 7,
+    "temperature": 1.0,
+    "final_length": 2413,
+    "mean_length_steady": 2215.525,
+    "std_length_steady": 1953.6083920210312,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5252
+      },
+      {
+        "iter": 1,
+        "len": 2797
+      },
+      {
+        "iter": 2,
+        "len": 1555
+      },
+      {
+        "iter": 3,
+        "len": 7599
+      },
+      {
+        "iter": 4,
+        "len": 6890
+      },
+      {
+        "iter": 5,
+        "len": 3769
+      },
+      {
+        "iter": 6,
+        "len": 2225
+      },
+      {
+        "iter": 7,
+        "len": 4058
+      },
+      {
+        "iter": 8,
+        "len": 4038
+      },
+      {
+        "iter": 9,
+        "len": 3287
+      },
+      {
+        "iter": 10,
+        "len": 4863
+      },
+      {
+        "iter": 11,
+        "len": 3038
+      },
+      {
+        "iter": 12,
+        "len": 2118
+      },
+      {
+        "iter": 13,
+        "len": 2137
+      },
+      {
+        "iter": 14,
+        "len": 1234
+      },
+      {
+        "iter": 15,
+        "len": 1482
+      },
+      {
+        "iter": 16,
+        "len": 3451
+      },
+      {
+        "iter": 17,
+        "len": 4327
+      },
+      {
+        "iter": 18,
+        "len": 2414
+      },
+      {
+        "iter": 19,
+        "len": 3719
+      },
+      {
+        "iter": 20,
+        "len": 3059
+      },
+      {
+        "iter": 21,
+        "len": 1951
+      },
+      {
+        "iter": 22,
+        "len": 2728
+      },
+      {
+        "iter": 23,
+        "len": 9589
+      },
+      {
+        "iter": 24,
+        "len": 8573
+      },
+      {
+        "iter": 25,
+        "len": 1002
+      },
+      {
+        "iter": 26,
+        "len": 2166
+      },
+      {
+        "iter": 27,
+        "len": 1714
+      },
+      {
+        "iter": 28,
+        "len": 9
+      },
+      {
+        "iter": 29,
+        "len": 2217
+      },
+      {
+        "iter": 30,
+        "len": 1131
+      },
+      {
+        "iter": 31,
+        "len": 1850
+      },
+      {
+        "iter": 32,
+        "len": 1222
+      },
+      {
+        "iter": 33,
+        "len": 491
+      },
+      {
+        "iter": 34,
+        "len": 1127
+      },
+      {
+        "iter": 35,
+        "len": 864
+      },
+      {
+        "iter": 36,
+        "len": 670
+      },
+      {
+        "iter": 37,
+        "len": 58
+      },
+      {
+        "iter": 38,
+        "len": 96
+      },
+      {
+        "iter": 39,
+        "len": 646
+      },
+      {
+        "iter": 40,
+        "len": 810
+      },
+      {
+        "iter": 41,
+        "len": 1038
+      },
+      {
+        "iter": 42,
+        "len": 1040
+      },
+      {
+        "iter": 43,
+        "len": 2459
+      },
+      {
+        "iter": 44,
+        "len": 2624
+      },
+      {
+        "iter": 45,
+        "len": 1836
+      },
+      {
+        "iter": 46,
+        "len": 547
+      },
+      {
+        "iter": 47,
+        "len": 2105
+      },
+      {
+        "iter": 48,
+        "len": 3803
+      },
+      {
+        "iter": 49,
+        "len": 2413
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_LOGIC_8",
+    "model": "gpt-5-mini",
+    "category": "LOGIC",
+    "seed_index": 8,
+    "temperature": 1.0,
+    "final_length": 3165,
+    "mean_length_steady": 2623.05,
+    "std_length_steady": 3426.1229104484855,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 6800
+      },
+      {
+        "iter": 1,
+        "len": 4830
+      },
+      {
+        "iter": 2,
+        "len": 1538
+      },
+      {
+        "iter": 3,
+        "len": 1392
+      },
+      {
+        "iter": 4,
+        "len": 2413
+      },
+      {
+        "iter": 5,
+        "len": 1459
+      },
+      {
+        "iter": 6,
+        "len": 11422
+      },
+      {
+        "iter": 7,
+        "len": 6048
+      },
+      {
+        "iter": 8,
+        "len": 1514
+      },
+      {
+        "iter": 9,
+        "len": 2046
+      },
+      {
+        "iter": 10,
+        "len": 617
+      },
+      {
+        "iter": 11,
+        "len": 20967
+      },
+      {
+        "iter": 12,
+        "len": 3269
+      },
+      {
+        "iter": 13,
+        "len": 2279
+      },
+      {
+        "iter": 14,
+        "len": 1119
+      },
+      {
+        "iter": 15,
+        "len": 10508
+      },
+      {
+        "iter": 16,
+        "len": 2640
+      },
+      {
+        "iter": 17,
+        "len": 1503
+      },
+      {
+        "iter": 18,
+        "len": 3044
+      },
+      {
+        "iter": 19,
+        "len": 2228
+      },
+      {
+        "iter": 20,
+        "len": 1760
+      },
+      {
+        "iter": 21,
+        "len": 1488
+      },
+      {
+        "iter": 22,
+        "len": 2715
+      },
+      {
+        "iter": 23,
+        "len": 3925
+      },
+      {
+        "iter": 24,
+        "len": 631
+      },
+      {
+        "iter": 25,
+        "len": 1849
+      },
+      {
+        "iter": 26,
+        "len": 850
+      },
+      {
+        "iter": 27,
+        "len": 975
+      },
+      {
+        "iter": 28,
+        "len": 1021
+      },
+      {
+        "iter": 29,
+        "len": 840
+      },
+      {
+        "iter": 30,
+        "len": 1228
+      },
+      {
+        "iter": 31,
+        "len": 3252
+      },
+      {
+        "iter": 32,
+        "len": 5592
+      },
+      {
+        "iter": 33,
+        "len": 2829
+      },
+      {
+        "iter": 34,
+        "len": 660
+      },
+      {
+        "iter": 35,
+        "len": 941
+      },
+      {
+        "iter": 36,
+        "len": 475
+      },
+      {
+        "iter": 37,
+        "len": 2508
+      },
+      {
+        "iter": 38,
+        "len": 2716
+      },
+      {
+        "iter": 39,
+        "len": 2308
+      },
+      {
+        "iter": 40,
+        "len": 1804
+      },
+      {
+        "iter": 41,
+        "len": 717
+      },
+      {
+        "iter": 42,
+        "len": 1459
+      },
+      {
+        "iter": 43,
+        "len": 29
+      },
+      {
+        "iter": 44,
+        "len": 840
+      },
+      {
+        "iter": 45,
+        "len": 2250
+      },
+      {
+        "iter": 46,
+        "len": 2112
+      },
+      {
+        "iter": 47,
+        "len": 1581
+      },
+      {
+        "iter": 48,
+        "len": 4228
+      },
+      {
+        "iter": 49,
+        "len": 3165
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_LOGIC_9",
+    "model": "gpt-5-mini",
+    "category": "LOGIC",
+    "seed_index": 9,
+    "temperature": 1.0,
+    "final_length": 5527,
+    "mean_length_steady": 3528.0,
+    "std_length_steady": 4411.142295369761,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 6214
+      },
+      {
+        "iter": 1,
+        "len": 8547
+      },
+      {
+        "iter": 2,
+        "len": 1952
+      },
+      {
+        "iter": 3,
+        "len": 1818
+      },
+      {
+        "iter": 4,
+        "len": 1428
+      },
+      {
+        "iter": 5,
+        "len": 862
+      },
+      {
+        "iter": 6,
+        "len": 6481
+      },
+      {
+        "iter": 7,
+        "len": 2024
+      },
+      {
+        "iter": 8,
+        "len": 753
+      },
+      {
+        "iter": 9,
+        "len": 1738
+      },
+      {
+        "iter": 10,
+        "len": 4286
+      },
+      {
+        "iter": 11,
+        "len": 2238
+      },
+      {
+        "iter": 12,
+        "len": 1012
+      },
+      {
+        "iter": 13,
+        "len": 1431
+      },
+      {
+        "iter": 14,
+        "len": 8262
+      },
+      {
+        "iter": 15,
+        "len": 1449
+      },
+      {
+        "iter": 16,
+        "len": 1744
+      },
+      {
+        "iter": 17,
+        "len": 950
+      },
+      {
+        "iter": 18,
+        "len": 2032
+      },
+      {
+        "iter": 19,
+        "len": 1232
+      },
+      {
+        "iter": 20,
+        "len": 853
+      },
+      {
+        "iter": 21,
+        "len": 3041
+      },
+      {
+        "iter": 22,
+        "len": 3270
+      },
+      {
+        "iter": 23,
+        "len": 1654
+      },
+      {
+        "iter": 24,
+        "len": 1883
+      },
+      {
+        "iter": 25,
+        "len": 1081
+      },
+      {
+        "iter": 26,
+        "len": 1109
+      },
+      {
+        "iter": 27,
+        "len": 826
+      },
+      {
+        "iter": 28,
+        "len": 19008
+      },
+      {
+        "iter": 29,
+        "len": 1067
+      },
+      {
+        "iter": 30,
+        "len": 1842
+      },
+      {
+        "iter": 31,
+        "len": 4061
+      },
+      {
+        "iter": 32,
+        "len": 12517
+      },
+      {
+        "iter": 33,
+        "len": 1830
+      },
+      {
+        "iter": 34,
+        "len": 592
+      },
+      {
+        "iter": 35,
+        "len": 1566
+      },
+      {
+        "iter": 36,
+        "len": 2883
+      },
+      {
+        "iter": 37,
+        "len": 1192
+      },
+      {
+        "iter": 38,
+        "len": 3898
+      },
+      {
+        "iter": 39,
+        "len": 1496
+      },
+      {
+        "iter": 40,
+        "len": 2376
+      },
+      {
+        "iter": 41,
+        "len": 2189
+      },
+      {
+        "iter": 42,
+        "len": 1111
+      },
+      {
+        "iter": 43,
+        "len": 17654
+      },
+      {
+        "iter": 44,
+        "len": 4857
+      },
+      {
+        "iter": 45,
+        "len": 2055
+      },
+      {
+        "iter": 46,
+        "len": 13585
+      },
+      {
+        "iter": 47,
+        "len": 987
+      },
+      {
+        "iter": 48,
+        "len": 474
+      },
+      {
+        "iter": 49,
+        "len": 5527
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CREATIVE_0",
+    "model": "gpt-5-mini",
+    "category": "CREATIVE",
+    "seed_index": 0,
+    "temperature": 1.0,
+    "final_length": 3634,
+    "mean_length_steady": 2696.025,
+    "std_length_steady": 1560.6232807359372,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 6767
+      },
+      {
+        "iter": 1,
+        "len": 10683
+      },
+      {
+        "iter": 2,
+        "len": 1305
+      },
+      {
+        "iter": 3,
+        "len": 3365
+      },
+      {
+        "iter": 4,
+        "len": 8888
+      },
+      {
+        "iter": 5,
+        "len": 12405
+      },
+      {
+        "iter": 6,
+        "len": 4526
+      },
+      {
+        "iter": 7,
+        "len": 3314
+      },
+      {
+        "iter": 8,
+        "len": 1595
+      },
+      {
+        "iter": 9,
+        "len": 2400
+      },
+      {
+        "iter": 10,
+        "len": 2460
+      },
+      {
+        "iter": 11,
+        "len": 3797
+      },
+      {
+        "iter": 12,
+        "len": 872
+      },
+      {
+        "iter": 13,
+        "len": 9023
+      },
+      {
+        "iter": 14,
+        "len": 4619
+      },
+      {
+        "iter": 15,
+        "len": 7272
+      },
+      {
+        "iter": 16,
+        "len": 3633
+      },
+      {
+        "iter": 17,
+        "len": 3067
+      },
+      {
+        "iter": 18,
+        "len": 1246
+      },
+      {
+        "iter": 19,
+        "len": 2588
+      },
+      {
+        "iter": 20,
+        "len": 2344
+      },
+      {
+        "iter": 21,
+        "len": 690
+      },
+      {
+        "iter": 22,
+        "len": 2561
+      },
+      {
+        "iter": 23,
+        "len": 2793
+      },
+      {
+        "iter": 24,
+        "len": 2378
+      },
+      {
+        "iter": 25,
+        "len": 2246
+      },
+      {
+        "iter": 26,
+        "len": 1619
+      },
+      {
+        "iter": 27,
+        "len": 1371
+      },
+      {
+        "iter": 28,
+        "len": 1480
+      },
+      {
+        "iter": 29,
+        "len": 3044
+      },
+      {
+        "iter": 30,
+        "len": 2382
+      },
+      {
+        "iter": 31,
+        "len": 3804
+      },
+      {
+        "iter": 32,
+        "len": 2527
+      },
+      {
+        "iter": 33,
+        "len": 3919
+      },
+      {
+        "iter": 34,
+        "len": 2997
+      },
+      {
+        "iter": 35,
+        "len": 3642
+      },
+      {
+        "iter": 36,
+        "len": 3055
+      },
+      {
+        "iter": 37,
+        "len": 1629
+      },
+      {
+        "iter": 38,
+        "len": 1704
+      },
+      {
+        "iter": 39,
+        "len": 1657
+      },
+      {
+        "iter": 40,
+        "len": 2128
+      },
+      {
+        "iter": 41,
+        "len": 1739
+      },
+      {
+        "iter": 42,
+        "len": 2840
+      },
+      {
+        "iter": 43,
+        "len": 1047
+      },
+      {
+        "iter": 44,
+        "len": 1277
+      },
+      {
+        "iter": 45,
+        "len": 2085
+      },
+      {
+        "iter": 46,
+        "len": 3021
+      },
+      {
+        "iter": 47,
+        "len": 1807
+      },
+      {
+        "iter": 48,
+        "len": 1844
+      },
+      {
+        "iter": 49,
+        "len": 3634
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CREATIVE_1",
+    "model": "gpt-5-mini",
+    "category": "CREATIVE",
+    "seed_index": 1,
+    "temperature": 1.0,
+    "final_length": 219,
+    "mean_length_steady": 2317.05,
+    "std_length_steady": 2860.451240189212,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 10154
+      },
+      {
+        "iter": 1,
+        "len": 1651
+      },
+      {
+        "iter": 2,
+        "len": 1517
+      },
+      {
+        "iter": 3,
+        "len": 964
+      },
+      {
+        "iter": 4,
+        "len": 2053
+      },
+      {
+        "iter": 5,
+        "len": 13930
+      },
+      {
+        "iter": 6,
+        "len": 2990
+      },
+      {
+        "iter": 7,
+        "len": 426
+      },
+      {
+        "iter": 8,
+        "len": 14507
+      },
+      {
+        "iter": 9,
+        "len": 3913
+      },
+      {
+        "iter": 10,
+        "len": 1810
+      },
+      {
+        "iter": 11,
+        "len": 859
+      },
+      {
+        "iter": 12,
+        "len": 1024
+      },
+      {
+        "iter": 13,
+        "len": 449
+      },
+      {
+        "iter": 14,
+        "len": 14048
+      },
+      {
+        "iter": 15,
+        "len": 1439
+      },
+      {
+        "iter": 16,
+        "len": 876
+      },
+      {
+        "iter": 17,
+        "len": 6014
+      },
+      {
+        "iter": 18,
+        "len": 1168
+      },
+      {
+        "iter": 19,
+        "len": 376
+      },
+      {
+        "iter": 20,
+        "len": 6840
+      },
+      {
+        "iter": 21,
+        "len": 730
+      },
+      {
+        "iter": 22,
+        "len": 1265
+      },
+      {
+        "iter": 23,
+        "len": 5151
+      },
+      {
+        "iter": 24,
+        "len": 3726
+      },
+      {
+        "iter": 25,
+        "len": 1128
+      },
+      {
+        "iter": 26,
+        "len": 9371
+      },
+      {
+        "iter": 27,
+        "len": 1195
+      },
+      {
+        "iter": 28,
+        "len": 1072
+      },
+      {
+        "iter": 29,
+        "len": 1001
+      },
+      {
+        "iter": 30,
+        "len": 467
+      },
+      {
+        "iter": 31,
+        "len": 8228
+      },
+      {
+        "iter": 32,
+        "len": 2404
+      },
+      {
+        "iter": 33,
+        "len": 2177
+      },
+      {
+        "iter": 34,
+        "len": 1151
+      },
+      {
+        "iter": 35,
+        "len": 587
+      },
+      {
+        "iter": 36,
+        "len": 1208
+      },
+      {
+        "iter": 37,
+        "len": 1029
+      },
+      {
+        "iter": 38,
+        "len": 827
+      },
+      {
+        "iter": 39,
+        "len": 24
+      },
+      {
+        "iter": 40,
+        "len": 4295
+      },
+      {
+        "iter": 41,
+        "len": 1642
+      },
+      {
+        "iter": 42,
+        "len": 1178
+      },
+      {
+        "iter": 43,
+        "len": 1897
+      },
+      {
+        "iter": 44,
+        "len": 1294
+      },
+      {
+        "iter": 45,
+        "len": 888
+      },
+      {
+        "iter": 46,
+        "len": 1079
+      },
+      {
+        "iter": 47,
+        "len": 1801
+      },
+      {
+        "iter": 48,
+        "len": 745
+      },
+      {
+        "iter": 49,
+        "len": 219
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CREATIVE_2",
+    "model": "gpt-5-mini",
+    "category": "CREATIVE",
+    "seed_index": 2,
+    "temperature": 1.0,
+    "final_length": 3611,
+    "mean_length_steady": 4249.225,
+    "std_length_steady": 5398.208172567542,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 8401
+      },
+      {
+        "iter": 1,
+        "len": 3617
+      },
+      {
+        "iter": 2,
+        "len": 1956
+      },
+      {
+        "iter": 3,
+        "len": 1742
+      },
+      {
+        "iter": 4,
+        "len": 3431
+      },
+      {
+        "iter": 5,
+        "len": 2543
+      },
+      {
+        "iter": 6,
+        "len": 2248
+      },
+      {
+        "iter": 7,
+        "len": 1484
+      },
+      {
+        "iter": 8,
+        "len": 25991
+      },
+      {
+        "iter": 9,
+        "len": 3331
+      },
+      {
+        "iter": 10,
+        "len": 1548
+      },
+      {
+        "iter": 11,
+        "len": 3040
+      },
+      {
+        "iter": 12,
+        "len": 704
+      },
+      {
+        "iter": 13,
+        "len": 24787
+      },
+      {
+        "iter": 14,
+        "len": 1779
+      },
+      {
+        "iter": 15,
+        "len": 1742
+      },
+      {
+        "iter": 16,
+        "len": 4262
+      },
+      {
+        "iter": 17,
+        "len": 4296
+      },
+      {
+        "iter": 18,
+        "len": 66
+      },
+      {
+        "iter": 19,
+        "len": 12064
+      },
+      {
+        "iter": 20,
+        "len": 1038
+      },
+      {
+        "iter": 21,
+        "len": 1948
+      },
+      {
+        "iter": 22,
+        "len": 1164
+      },
+      {
+        "iter": 23,
+        "len": 3564
+      },
+      {
+        "iter": 24,
+        "len": 1144
+      },
+      {
+        "iter": 25,
+        "len": 21318
+      },
+      {
+        "iter": 26,
+        "len": 1506
+      },
+      {
+        "iter": 27,
+        "len": 1973
+      },
+      {
+        "iter": 28,
+        "len": 2710
+      },
+      {
+        "iter": 29,
+        "len": 1500
+      },
+      {
+        "iter": 30,
+        "len": 17817
+      },
+      {
+        "iter": 31,
+        "len": 3978
+      },
+      {
+        "iter": 32,
+        "len": 3880
+      },
+      {
+        "iter": 33,
+        "len": 5481
+      },
+      {
+        "iter": 34,
+        "len": 4434
+      },
+      {
+        "iter": 35,
+        "len": 7
+      },
+      {
+        "iter": 36,
+        "len": 454
+      },
+      {
+        "iter": 37,
+        "len": 1142
+      },
+      {
+        "iter": 38,
+        "len": 2733
+      },
+      {
+        "iter": 39,
+        "len": 5831
+      },
+      {
+        "iter": 40,
+        "len": 1987
+      },
+      {
+        "iter": 41,
+        "len": 1046
+      },
+      {
+        "iter": 42,
+        "len": 1021
+      },
+      {
+        "iter": 43,
+        "len": 3163
+      },
+      {
+        "iter": 44,
+        "len": 1391
+      },
+      {
+        "iter": 45,
+        "len": 3981
+      },
+      {
+        "iter": 46,
+        "len": 4755
+      },
+      {
+        "iter": 47,
+        "len": 7826
+      },
+      {
+        "iter": 48,
+        "len": 3278
+      },
+      {
+        "iter": 49,
+        "len": 3611
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CREATIVE_3",
+    "model": "gpt-5-mini",
+    "category": "CREATIVE",
+    "seed_index": 3,
+    "temperature": 1.0,
+    "final_length": 2434,
+    "mean_length_steady": 5060.35,
+    "std_length_steady": 4633.026233197909,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5476
+      },
+      {
+        "iter": 1,
+        "len": 10958
+      },
+      {
+        "iter": 2,
+        "len": 19715
+      },
+      {
+        "iter": 3,
+        "len": 3470
+      },
+      {
+        "iter": 4,
+        "len": 1370
+      },
+      {
+        "iter": 5,
+        "len": 2500
+      },
+      {
+        "iter": 6,
+        "len": 1348
+      },
+      {
+        "iter": 7,
+        "len": 1961
+      },
+      {
+        "iter": 8,
+        "len": 3403
+      },
+      {
+        "iter": 9,
+        "len": 2652
+      },
+      {
+        "iter": 10,
+        "len": 1748
+      },
+      {
+        "iter": 11,
+        "len": 3031
+      },
+      {
+        "iter": 12,
+        "len": 2422
+      },
+      {
+        "iter": 13,
+        "len": 483
+      },
+      {
+        "iter": 14,
+        "len": 3577
+      },
+      {
+        "iter": 15,
+        "len": 3789
+      },
+      {
+        "iter": 16,
+        "len": 4226
+      },
+      {
+        "iter": 17,
+        "len": 4793
+      },
+      {
+        "iter": 18,
+        "len": 5381
+      },
+      {
+        "iter": 19,
+        "len": 10094
+      },
+      {
+        "iter": 20,
+        "len": 14026
+      },
+      {
+        "iter": 21,
+        "len": 1570
+      },
+      {
+        "iter": 22,
+        "len": 2190
+      },
+      {
+        "iter": 23,
+        "len": 2627
+      },
+      {
+        "iter": 24,
+        "len": 2274
+      },
+      {
+        "iter": 25,
+        "len": 15582
+      },
+      {
+        "iter": 26,
+        "len": 787
+      },
+      {
+        "iter": 27,
+        "len": 4277
+      },
+      {
+        "iter": 28,
+        "len": 12757
+      },
+      {
+        "iter": 29,
+        "len": 9663
+      },
+      {
+        "iter": 30,
+        "len": 6919
+      },
+      {
+        "iter": 31,
+        "len": 3208
+      },
+      {
+        "iter": 32,
+        "len": 2225
+      },
+      {
+        "iter": 33,
+        "len": 4913
+      },
+      {
+        "iter": 34,
+        "len": 3668
+      },
+      {
+        "iter": 35,
+        "len": 2737
+      },
+      {
+        "iter": 36,
+        "len": 9115
+      },
+      {
+        "iter": 37,
+        "len": 4080
+      },
+      {
+        "iter": 38,
+        "len": 12
+      },
+      {
+        "iter": 39,
+        "len": 6251
+      },
+      {
+        "iter": 40,
+        "len": 10331
+      },
+      {
+        "iter": 41,
+        "len": 2055
+      },
+      {
+        "iter": 42,
+        "len": 1923
+      },
+      {
+        "iter": 43,
+        "len": 1546
+      },
+      {
+        "iter": 44,
+        "len": 1997
+      },
+      {
+        "iter": 45,
+        "len": 22575
+      },
+      {
+        "iter": 46,
+        "len": 3420
+      },
+      {
+        "iter": 47,
+        "len": 2005
+      },
+      {
+        "iter": 48,
+        "len": 5703
+      },
+      {
+        "iter": 49,
+        "len": 2434
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CREATIVE_4",
+    "model": "gpt-5-mini",
+    "category": "CREATIVE",
+    "seed_index": 4,
+    "temperature": 1.0,
+    "final_length": 21,
+    "mean_length_steady": 2285.1,
+    "std_length_steady": 1967.5988768039076,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 6356
+      },
+      {
+        "iter": 1,
+        "len": 2018
+      },
+      {
+        "iter": 2,
+        "len": 1934
+      },
+      {
+        "iter": 3,
+        "len": 1208
+      },
+      {
+        "iter": 4,
+        "len": 2168
+      },
+      {
+        "iter": 5,
+        "len": 8
+      },
+      {
+        "iter": 6,
+        "len": 9656
+      },
+      {
+        "iter": 7,
+        "len": 3707
+      },
+      {
+        "iter": 8,
+        "len": 2595
+      },
+      {
+        "iter": 9,
+        "len": 1654
+      },
+      {
+        "iter": 10,
+        "len": 1028
+      },
+      {
+        "iter": 11,
+        "len": 2073
+      },
+      {
+        "iter": 12,
+        "len": 4725
+      },
+      {
+        "iter": 13,
+        "len": 3211
+      },
+      {
+        "iter": 14,
+        "len": 1846
+      },
+      {
+        "iter": 15,
+        "len": 3814
+      },
+      {
+        "iter": 16,
+        "len": 1445
+      },
+      {
+        "iter": 17,
+        "len": 3455
+      },
+      {
+        "iter": 18,
+        "len": 3323
+      },
+      {
+        "iter": 19,
+        "len": 2382
+      },
+      {
+        "iter": 20,
+        "len": 643
+      },
+      {
+        "iter": 21,
+        "len": 2875
+      },
+      {
+        "iter": 22,
+        "len": 8715
+      },
+      {
+        "iter": 23,
+        "len": 4486
+      },
+      {
+        "iter": 24,
+        "len": 3022
+      },
+      {
+        "iter": 25,
+        "len": 701
+      },
+      {
+        "iter": 26,
+        "len": 2768
+      },
+      {
+        "iter": 27,
+        "len": 2898
+      },
+      {
+        "iter": 28,
+        "len": 2493
+      },
+      {
+        "iter": 29,
+        "len": 1539
+      },
+      {
+        "iter": 30,
+        "len": 20
+      },
+      {
+        "iter": 31,
+        "len": 5140
+      },
+      {
+        "iter": 32,
+        "len": 2069
+      },
+      {
+        "iter": 33,
+        "len": 1160
+      },
+      {
+        "iter": 34,
+        "len": 359
+      },
+      {
+        "iter": 35,
+        "len": 941
+      },
+      {
+        "iter": 36,
+        "len": 490
+      },
+      {
+        "iter": 37,
+        "len": 701
+      },
+      {
+        "iter": 38,
+        "len": 677
+      },
+      {
+        "iter": 39,
+        "len": 1060
+      },
+      {
+        "iter": 40,
+        "len": 1035
+      },
+      {
+        "iter": 41,
+        "len": 839
+      },
+      {
+        "iter": 42,
+        "len": 1192
+      },
+      {
+        "iter": 43,
+        "len": 962
+      },
+      {
+        "iter": 44,
+        "len": 9000
+      },
+      {
+        "iter": 45,
+        "len": 1886
+      },
+      {
+        "iter": 46,
+        "len": 1733
+      },
+      {
+        "iter": 47,
+        "len": 2447
+      },
+      {
+        "iter": 48,
+        "len": 2230
+      },
+      {
+        "iter": 49,
+        "len": 21
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CREATIVE_5",
+    "model": "gpt-5-mini",
+    "category": "CREATIVE",
+    "seed_index": 5,
+    "temperature": 1.0,
+    "final_length": 6,
+    "mean_length_steady": 2821.35,
+    "std_length_steady": 2330.082161105054,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 7238
+      },
+      {
+        "iter": 1,
+        "len": 9131
+      },
+      {
+        "iter": 2,
+        "len": 10170
+      },
+      {
+        "iter": 3,
+        "len": 7011
+      },
+      {
+        "iter": 4,
+        "len": 1893
+      },
+      {
+        "iter": 5,
+        "len": 3257
+      },
+      {
+        "iter": 6,
+        "len": 12258
+      },
+      {
+        "iter": 7,
+        "len": 5193
+      },
+      {
+        "iter": 8,
+        "len": 3470
+      },
+      {
+        "iter": 9,
+        "len": 4100
+      },
+      {
+        "iter": 10,
+        "len": 2539
+      },
+      {
+        "iter": 11,
+        "len": 1413
+      },
+      {
+        "iter": 12,
+        "len": 1438
+      },
+      {
+        "iter": 13,
+        "len": 3137
+      },
+      {
+        "iter": 14,
+        "len": 4434
+      },
+      {
+        "iter": 15,
+        "len": 3642
+      },
+      {
+        "iter": 16,
+        "len": 1450
+      },
+      {
+        "iter": 17,
+        "len": 2964
+      },
+      {
+        "iter": 18,
+        "len": 4269
+      },
+      {
+        "iter": 19,
+        "len": 8508
+      },
+      {
+        "iter": 20,
+        "len": 2041
+      },
+      {
+        "iter": 21,
+        "len": 2200
+      },
+      {
+        "iter": 22,
+        "len": 184
+      },
+      {
+        "iter": 23,
+        "len": 4204
+      },
+      {
+        "iter": 24,
+        "len": 9178
+      },
+      {
+        "iter": 25,
+        "len": 3282
+      },
+      {
+        "iter": 26,
+        "len": 5130
+      },
+      {
+        "iter": 27,
+        "len": 1324
+      },
+      {
+        "iter": 28,
+        "len": 676
+      },
+      {
+        "iter": 29,
+        "len": 1462
+      },
+      {
+        "iter": 30,
+        "len": 1377
+      },
+      {
+        "iter": 31,
+        "len": 2684
+      },
+      {
+        "iter": 32,
+        "len": 3385
+      },
+      {
+        "iter": 33,
+        "len": 2827
+      },
+      {
+        "iter": 34,
+        "len": 3057
+      },
+      {
+        "iter": 35,
+        "len": 2342
+      },
+      {
+        "iter": 36,
+        "len": 3534
+      },
+      {
+        "iter": 37,
+        "len": 1891
+      },
+      {
+        "iter": 38,
+        "len": 2098
+      },
+      {
+        "iter": 39,
+        "len": 1840
+      },
+      {
+        "iter": 40,
+        "len": 858
+      },
+      {
+        "iter": 41,
+        "len": 69
+      },
+      {
+        "iter": 42,
+        "len": 4270
+      },
+      {
+        "iter": 43,
+        "len": 1434
+      },
+      {
+        "iter": 44,
+        "len": 1748
+      },
+      {
+        "iter": 45,
+        "len": 1425
+      },
+      {
+        "iter": 46,
+        "len": 11404
+      },
+      {
+        "iter": 47,
+        "len": 1804
+      },
+      {
+        "iter": 48,
+        "len": 1326
+      },
+      {
+        "iter": 49,
+        "len": 6
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CREATIVE_6",
+    "model": "gpt-5-mini",
+    "category": "CREATIVE",
+    "seed_index": 6,
+    "temperature": 1.0,
+    "final_length": 2330,
+    "mean_length_steady": 4918.1,
+    "std_length_steady": 4719.663779338524,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 6515
+      },
+      {
+        "iter": 1,
+        "len": 16215
+      },
+      {
+        "iter": 2,
+        "len": 2960
+      },
+      {
+        "iter": 3,
+        "len": 1717
+      },
+      {
+        "iter": 4,
+        "len": 13020
+      },
+      {
+        "iter": 5,
+        "len": 2488
+      },
+      {
+        "iter": 6,
+        "len": 1024
+      },
+      {
+        "iter": 7,
+        "len": 4803
+      },
+      {
+        "iter": 8,
+        "len": 3648
+      },
+      {
+        "iter": 9,
+        "len": 3130
+      },
+      {
+        "iter": 10,
+        "len": 3399
+      },
+      {
+        "iter": 11,
+        "len": 2691
+      },
+      {
+        "iter": 12,
+        "len": 1325
+      },
+      {
+        "iter": 13,
+        "len": 1727
+      },
+      {
+        "iter": 14,
+        "len": 2315
+      },
+      {
+        "iter": 15,
+        "len": 1563
+      },
+      {
+        "iter": 16,
+        "len": 550
+      },
+      {
+        "iter": 17,
+        "len": 19545
+      },
+      {
+        "iter": 18,
+        "len": 2401
+      },
+      {
+        "iter": 19,
+        "len": 4151
+      },
+      {
+        "iter": 20,
+        "len": 1851
+      },
+      {
+        "iter": 21,
+        "len": 19795
+      },
+      {
+        "iter": 22,
+        "len": 9891
+      },
+      {
+        "iter": 23,
+        "len": 5795
+      },
+      {
+        "iter": 24,
+        "len": 9724
+      },
+      {
+        "iter": 25,
+        "len": 4144
+      },
+      {
+        "iter": 26,
+        "len": 3322
+      },
+      {
+        "iter": 27,
+        "len": 4471
+      },
+      {
+        "iter": 28,
+        "len": 2461
+      },
+      {
+        "iter": 29,
+        "len": 3470
+      },
+      {
+        "iter": 30,
+        "len": 2220
+      },
+      {
+        "iter": 31,
+        "len": 3904
+      },
+      {
+        "iter": 32,
+        "len": 5027
+      },
+      {
+        "iter": 33,
+        "len": 689
+      },
+      {
+        "iter": 34,
+        "len": 13085
+      },
+      {
+        "iter": 35,
+        "len": 8986
+      },
+      {
+        "iter": 36,
+        "len": 3313
+      },
+      {
+        "iter": 37,
+        "len": 1617
+      },
+      {
+        "iter": 38,
+        "len": 1303
+      },
+      {
+        "iter": 39,
+        "len": 1182
+      },
+      {
+        "iter": 40,
+        "len": 14681
+      },
+      {
+        "iter": 41,
+        "len": 7209
+      },
+      {
+        "iter": 42,
+        "len": 3408
+      },
+      {
+        "iter": 43,
+        "len": 3527
+      },
+      {
+        "iter": 44,
+        "len": 2366
+      },
+      {
+        "iter": 45,
+        "len": 390
+      },
+      {
+        "iter": 46,
+        "len": 9106
+      },
+      {
+        "iter": 47,
+        "len": 5270
+      },
+      {
+        "iter": 48,
+        "len": 2520
+      },
+      {
+        "iter": 49,
+        "len": 2330
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CREATIVE_7",
+    "model": "gpt-5-mini",
+    "category": "CREATIVE",
+    "seed_index": 7,
+    "temperature": 1.0,
+    "final_length": 482,
+    "mean_length_steady": 4500.6,
+    "std_length_steady": 7082.361709910049,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 8034
+      },
+      {
+        "iter": 1,
+        "len": 3548
+      },
+      {
+        "iter": 2,
+        "len": 1323
+      },
+      {
+        "iter": 3,
+        "len": 6906
+      },
+      {
+        "iter": 4,
+        "len": 2142
+      },
+      {
+        "iter": 5,
+        "len": 958
+      },
+      {
+        "iter": 6,
+        "len": 862
+      },
+      {
+        "iter": 7,
+        "len": 207
+      },
+      {
+        "iter": 8,
+        "len": 5497
+      },
+      {
+        "iter": 9,
+        "len": 6800
+      },
+      {
+        "iter": 10,
+        "len": 9537
+      },
+      {
+        "iter": 11,
+        "len": 2122
+      },
+      {
+        "iter": 12,
+        "len": 5693
+      },
+      {
+        "iter": 13,
+        "len": 913
+      },
+      {
+        "iter": 14,
+        "len": 640
+      },
+      {
+        "iter": 15,
+        "len": 71
+      },
+      {
+        "iter": 16,
+        "len": 5005
+      },
+      {
+        "iter": 17,
+        "len": 6275
+      },
+      {
+        "iter": 18,
+        "len": 6775
+      },
+      {
+        "iter": 19,
+        "len": 4822
+      },
+      {
+        "iter": 20,
+        "len": 2354
+      },
+      {
+        "iter": 21,
+        "len": 2212
+      },
+      {
+        "iter": 22,
+        "len": 1674
+      },
+      {
+        "iter": 23,
+        "len": 1006
+      },
+      {
+        "iter": 24,
+        "len": 4647
+      },
+      {
+        "iter": 25,
+        "len": 2139
+      },
+      {
+        "iter": 26,
+        "len": 1767
+      },
+      {
+        "iter": 27,
+        "len": 3249
+      },
+      {
+        "iter": 28,
+        "len": 788
+      },
+      {
+        "iter": 29,
+        "len": 25
+      },
+      {
+        "iter": 30,
+        "len": 7897
+      },
+      {
+        "iter": 31,
+        "len": 2282
+      },
+      {
+        "iter": 32,
+        "len": 3263
+      },
+      {
+        "iter": 33,
+        "len": 2920
+      },
+      {
+        "iter": 34,
+        "len": 3190
+      },
+      {
+        "iter": 35,
+        "len": 1048
+      },
+      {
+        "iter": 36,
+        "len": 1585
+      },
+      {
+        "iter": 37,
+        "len": 3088
+      },
+      {
+        "iter": 38,
+        "len": 1383
+      },
+      {
+        "iter": 39,
+        "len": 28481
+      },
+      {
+        "iter": 40,
+        "len": 37962
+      },
+      {
+        "iter": 41,
+        "len": 1578
+      },
+      {
+        "iter": 42,
+        "len": 606
+      },
+      {
+        "iter": 43,
+        "len": 8128
+      },
+      {
+        "iter": 44,
+        "len": 4672
+      },
+      {
+        "iter": 45,
+        "len": 6326
+      },
+      {
+        "iter": 46,
+        "len": 1130
+      },
+      {
+        "iter": 47,
+        "len": 1289
+      },
+      {
+        "iter": 48,
+        "len": 1000
+      },
+      {
+        "iter": 49,
+        "len": 482
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CREATIVE_8",
+    "model": "gpt-5-mini",
+    "category": "CREATIVE",
+    "seed_index": 8,
+    "temperature": 1.0,
+    "final_length": 949,
+    "mean_length_steady": 4569.95,
+    "std_length_steady": 5019.829976951411,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 8973
+      },
+      {
+        "iter": 1,
+        "len": 2816
+      },
+      {
+        "iter": 2,
+        "len": 1151
+      },
+      {
+        "iter": 3,
+        "len": 7954
+      },
+      {
+        "iter": 4,
+        "len": 6775
+      },
+      {
+        "iter": 5,
+        "len": 6542
+      },
+      {
+        "iter": 6,
+        "len": 1753
+      },
+      {
+        "iter": 7,
+        "len": 1650
+      },
+      {
+        "iter": 8,
+        "len": 5129
+      },
+      {
+        "iter": 9,
+        "len": 5359
+      },
+      {
+        "iter": 10,
+        "len": 9391
+      },
+      {
+        "iter": 11,
+        "len": 4558
+      },
+      {
+        "iter": 12,
+        "len": 1071
+      },
+      {
+        "iter": 13,
+        "len": 4585
+      },
+      {
+        "iter": 14,
+        "len": 1366
+      },
+      {
+        "iter": 15,
+        "len": 175
+      },
+      {
+        "iter": 16,
+        "len": 7571
+      },
+      {
+        "iter": 17,
+        "len": 7283
+      },
+      {
+        "iter": 18,
+        "len": 1315
+      },
+      {
+        "iter": 19,
+        "len": 988
+      },
+      {
+        "iter": 20,
+        "len": 1219
+      },
+      {
+        "iter": 21,
+        "len": 568
+      },
+      {
+        "iter": 22,
+        "len": 12579
+      },
+      {
+        "iter": 23,
+        "len": 12688
+      },
+      {
+        "iter": 24,
+        "len": 7662
+      },
+      {
+        "iter": 25,
+        "len": 2039
+      },
+      {
+        "iter": 26,
+        "len": 8406
+      },
+      {
+        "iter": 27,
+        "len": 2154
+      },
+      {
+        "iter": 28,
+        "len": 774
+      },
+      {
+        "iter": 29,
+        "len": 24598
+      },
+      {
+        "iter": 30,
+        "len": 16234
+      },
+      {
+        "iter": 31,
+        "len": 2733
+      },
+      {
+        "iter": 32,
+        "len": 3814
+      },
+      {
+        "iter": 33,
+        "len": 2593
+      },
+      {
+        "iter": 34,
+        "len": 1052
+      },
+      {
+        "iter": 35,
+        "len": 2632
+      },
+      {
+        "iter": 36,
+        "len": 1888
+      },
+      {
+        "iter": 37,
+        "len": 3423
+      },
+      {
+        "iter": 38,
+        "len": 2709
+      },
+      {
+        "iter": 39,
+        "len": 2041
+      },
+      {
+        "iter": 40,
+        "len": 1910
+      },
+      {
+        "iter": 41,
+        "len": 2738
+      },
+      {
+        "iter": 42,
+        "len": 1943
+      },
+      {
+        "iter": 43,
+        "len": 12074
+      },
+      {
+        "iter": 44,
+        "len": 3939
+      },
+      {
+        "iter": 45,
+        "len": 2658
+      },
+      {
+        "iter": 46,
+        "len": 4325
+      },
+      {
+        "iter": 47,
+        "len": 893
+      },
+      {
+        "iter": 48,
+        "len": 1260
+      },
+      {
+        "iter": 49,
+        "len": 949
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CREATIVE_9",
+    "model": "gpt-5-mini",
+    "category": "CREATIVE",
+    "seed_index": 9,
+    "temperature": 1.0,
+    "final_length": 1543,
+    "mean_length_steady": 3722.825,
+    "std_length_steady": 2831.982131718878,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5567
+      },
+      {
+        "iter": 1,
+        "len": 9013
+      },
+      {
+        "iter": 2,
+        "len": 2603
+      },
+      {
+        "iter": 3,
+        "len": 2624
+      },
+      {
+        "iter": 4,
+        "len": 2378
+      },
+      {
+        "iter": 5,
+        "len": 4158
+      },
+      {
+        "iter": 6,
+        "len": 1757
+      },
+      {
+        "iter": 7,
+        "len": 1875
+      },
+      {
+        "iter": 8,
+        "len": 1439
+      },
+      {
+        "iter": 9,
+        "len": 16624
+      },
+      {
+        "iter": 10,
+        "len": 8100
+      },
+      {
+        "iter": 11,
+        "len": 2199
+      },
+      {
+        "iter": 12,
+        "len": 738
+      },
+      {
+        "iter": 13,
+        "len": 1023
+      },
+      {
+        "iter": 14,
+        "len": 8765
+      },
+      {
+        "iter": 15,
+        "len": 6315
+      },
+      {
+        "iter": 16,
+        "len": 5691
+      },
+      {
+        "iter": 17,
+        "len": 7342
+      },
+      {
+        "iter": 18,
+        "len": 7210
+      },
+      {
+        "iter": 19,
+        "len": 5758
+      },
+      {
+        "iter": 20,
+        "len": 10213
+      },
+      {
+        "iter": 21,
+        "len": 8054
+      },
+      {
+        "iter": 22,
+        "len": 5907
+      },
+      {
+        "iter": 23,
+        "len": 4282
+      },
+      {
+        "iter": 24,
+        "len": 5616
+      },
+      {
+        "iter": 25,
+        "len": 1037
+      },
+      {
+        "iter": 26,
+        "len": 2330
+      },
+      {
+        "iter": 27,
+        "len": 2731
+      },
+      {
+        "iter": 28,
+        "len": 6024
+      },
+      {
+        "iter": 29,
+        "len": 2146
+      },
+      {
+        "iter": 30,
+        "len": 1469
+      },
+      {
+        "iter": 31,
+        "len": 718
+      },
+      {
+        "iter": 32,
+        "len": 822
+      },
+      {
+        "iter": 33,
+        "len": 6977
+      },
+      {
+        "iter": 34,
+        "len": 6529
+      },
+      {
+        "iter": 35,
+        "len": 2805
+      },
+      {
+        "iter": 36,
+        "len": 899
+      },
+      {
+        "iter": 37,
+        "len": 1149
+      },
+      {
+        "iter": 38,
+        "len": 2045
+      },
+      {
+        "iter": 39,
+        "len": 2088
+      },
+      {
+        "iter": 40,
+        "len": 1561
+      },
+      {
+        "iter": 41,
+        "len": 574
+      },
+      {
+        "iter": 42,
+        "len": 6947
+      },
+      {
+        "iter": 43,
+        "len": 5699
+      },
+      {
+        "iter": 44,
+        "len": 1806
+      },
+      {
+        "iter": 45,
+        "len": 1041
+      },
+      {
+        "iter": 46,
+        "len": 548
+      },
+      {
+        "iter": 47,
+        "len": 963
+      },
+      {
+        "iter": 48,
+        "len": 1249
+      },
+      {
+        "iter": 49,
+        "len": 1543
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CODE_0",
+    "model": "gpt-5-mini",
+    "category": "CODE",
+    "seed_index": 0,
+    "temperature": 1.0,
+    "final_length": 4255,
+    "mean_length_steady": 3695.8,
+    "std_length_steady": 3396.5759096478323,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5633
+      },
+      {
+        "iter": 1,
+        "len": 8509
+      },
+      {
+        "iter": 2,
+        "len": 7847
+      },
+      {
+        "iter": 3,
+        "len": 1829
+      },
+      {
+        "iter": 4,
+        "len": 1703
+      },
+      {
+        "iter": 5,
+        "len": 6736
+      },
+      {
+        "iter": 6,
+        "len": 4799
+      },
+      {
+        "iter": 7,
+        "len": 1896
+      },
+      {
+        "iter": 8,
+        "len": 1599
+      },
+      {
+        "iter": 9,
+        "len": 5909
+      },
+      {
+        "iter": 10,
+        "len": 4582
+      },
+      {
+        "iter": 11,
+        "len": 7069
+      },
+      {
+        "iter": 12,
+        "len": 3519
+      },
+      {
+        "iter": 13,
+        "len": 2235
+      },
+      {
+        "iter": 14,
+        "len": 2977
+      },
+      {
+        "iter": 15,
+        "len": 451
+      },
+      {
+        "iter": 16,
+        "len": 3121
+      },
+      {
+        "iter": 17,
+        "len": 16090
+      },
+      {
+        "iter": 18,
+        "len": 16708
+      },
+      {
+        "iter": 19,
+        "len": 3567
+      },
+      {
+        "iter": 20,
+        "len": 2615
+      },
+      {
+        "iter": 21,
+        "len": 2971
+      },
+      {
+        "iter": 22,
+        "len": 1749
+      },
+      {
+        "iter": 23,
+        "len": 1540
+      },
+      {
+        "iter": 24,
+        "len": 3478
+      },
+      {
+        "iter": 25,
+        "len": 3544
+      },
+      {
+        "iter": 26,
+        "len": 4592
+      },
+      {
+        "iter": 27,
+        "len": 6409
+      },
+      {
+        "iter": 28,
+        "len": 5968
+      },
+      {
+        "iter": 29,
+        "len": 6039
+      },
+      {
+        "iter": 30,
+        "len": 359
+      },
+      {
+        "iter": 31,
+        "len": 558
+      },
+      {
+        "iter": 32,
+        "len": 2007
+      },
+      {
+        "iter": 33,
+        "len": 1431
+      },
+      {
+        "iter": 34,
+        "len": 3651
+      },
+      {
+        "iter": 35,
+        "len": 4939
+      },
+      {
+        "iter": 36,
+        "len": 2866
+      },
+      {
+        "iter": 37,
+        "len": 4671
+      },
+      {
+        "iter": 38,
+        "len": 6249
+      },
+      {
+        "iter": 39,
+        "len": 2580
+      },
+      {
+        "iter": 40,
+        "len": 1350
+      },
+      {
+        "iter": 41,
+        "len": 2939
+      },
+      {
+        "iter": 42,
+        "len": 1127
+      },
+      {
+        "iter": 43,
+        "len": 1541
+      },
+      {
+        "iter": 44,
+        "len": 1647
+      },
+      {
+        "iter": 45,
+        "len": 875
+      },
+      {
+        "iter": 46,
+        "len": 1205
+      },
+      {
+        "iter": 47,
+        "len": 896
+      },
+      {
+        "iter": 48,
+        "len": 3462
+      },
+      {
+        "iter": 49,
+        "len": 4255
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CODE_1",
+    "model": "gpt-5-mini",
+    "category": "CODE",
+    "seed_index": 1,
+    "temperature": 1.0,
+    "final_length": 1651,
+    "mean_length_steady": 3433.925,
+    "std_length_steady": 3590.005678181443,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5855
+      },
+      {
+        "iter": 1,
+        "len": 4761
+      },
+      {
+        "iter": 2,
+        "len": 2266
+      },
+      {
+        "iter": 3,
+        "len": 2251
+      },
+      {
+        "iter": 4,
+        "len": 2124
+      },
+      {
+        "iter": 5,
+        "len": 1256
+      },
+      {
+        "iter": 6,
+        "len": 1207
+      },
+      {
+        "iter": 7,
+        "len": 5706
+      },
+      {
+        "iter": 8,
+        "len": 5172
+      },
+      {
+        "iter": 9,
+        "len": 2601
+      },
+      {
+        "iter": 10,
+        "len": 2701
+      },
+      {
+        "iter": 11,
+        "len": 44
+      },
+      {
+        "iter": 12,
+        "len": 3471
+      },
+      {
+        "iter": 13,
+        "len": 3962
+      },
+      {
+        "iter": 14,
+        "len": 1006
+      },
+      {
+        "iter": 15,
+        "len": 1220
+      },
+      {
+        "iter": 16,
+        "len": 2367
+      },
+      {
+        "iter": 17,
+        "len": 3896
+      },
+      {
+        "iter": 18,
+        "len": 3020
+      },
+      {
+        "iter": 19,
+        "len": 1046
+      },
+      {
+        "iter": 20,
+        "len": 889
+      },
+      {
+        "iter": 21,
+        "len": 951
+      },
+      {
+        "iter": 22,
+        "len": 5364
+      },
+      {
+        "iter": 23,
+        "len": 3242
+      },
+      {
+        "iter": 24,
+        "len": 2962
+      },
+      {
+        "iter": 25,
+        "len": 1199
+      },
+      {
+        "iter": 26,
+        "len": 770
+      },
+      {
+        "iter": 27,
+        "len": 3107
+      },
+      {
+        "iter": 28,
+        "len": 12457
+      },
+      {
+        "iter": 29,
+        "len": 2333
+      },
+      {
+        "iter": 30,
+        "len": 14613
+      },
+      {
+        "iter": 31,
+        "len": 4920
+      },
+      {
+        "iter": 32,
+        "len": 2808
+      },
+      {
+        "iter": 33,
+        "len": 2470
+      },
+      {
+        "iter": 34,
+        "len": 3189
+      },
+      {
+        "iter": 35,
+        "len": 434
+      },
+      {
+        "iter": 36,
+        "len": 7953
+      },
+      {
+        "iter": 37,
+        "len": 8105
+      },
+      {
+        "iter": 38,
+        "len": 15
+      },
+      {
+        "iter": 39,
+        "len": 1225
+      },
+      {
+        "iter": 40,
+        "len": 1633
+      },
+      {
+        "iter": 41,
+        "len": 1117
+      },
+      {
+        "iter": 42,
+        "len": 7
+      },
+      {
+        "iter": 43,
+        "len": 8576
+      },
+      {
+        "iter": 44,
+        "len": 1546
+      },
+      {
+        "iter": 45,
+        "len": 14363
+      },
+      {
+        "iter": 46,
+        "len": 2169
+      },
+      {
+        "iter": 47,
+        "len": 2037
+      },
+      {
+        "iter": 48,
+        "len": 2519
+      },
+      {
+        "iter": 49,
+        "len": 1651
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CODE_2",
+    "model": "gpt-5-mini",
+    "category": "CODE",
+    "seed_index": 2,
+    "temperature": 1.0,
+    "final_length": 15319,
+    "mean_length_steady": 4491.375,
+    "std_length_steady": 5417.124895585757,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 4751
+      },
+      {
+        "iter": 1,
+        "len": 1249
+      },
+      {
+        "iter": 2,
+        "len": 3041
+      },
+      {
+        "iter": 3,
+        "len": 1258
+      },
+      {
+        "iter": 4,
+        "len": 1488
+      },
+      {
+        "iter": 5,
+        "len": 771
+      },
+      {
+        "iter": 6,
+        "len": 19298
+      },
+      {
+        "iter": 7,
+        "len": 4994
+      },
+      {
+        "iter": 8,
+        "len": 2311
+      },
+      {
+        "iter": 9,
+        "len": 2782
+      },
+      {
+        "iter": 10,
+        "len": 1228
+      },
+      {
+        "iter": 11,
+        "len": 1103
+      },
+      {
+        "iter": 12,
+        "len": 1350
+      },
+      {
+        "iter": 13,
+        "len": 982
+      },
+      {
+        "iter": 14,
+        "len": 8068
+      },
+      {
+        "iter": 15,
+        "len": 10982
+      },
+      {
+        "iter": 16,
+        "len": 5551
+      },
+      {
+        "iter": 17,
+        "len": 1941
+      },
+      {
+        "iter": 18,
+        "len": 3828
+      },
+      {
+        "iter": 19,
+        "len": 3002
+      },
+      {
+        "iter": 20,
+        "len": 991
+      },
+      {
+        "iter": 21,
+        "len": 1765
+      },
+      {
+        "iter": 22,
+        "len": 1419
+      },
+      {
+        "iter": 23,
+        "len": 964
+      },
+      {
+        "iter": 24,
+        "len": 20926
+      },
+      {
+        "iter": 25,
+        "len": 3629
+      },
+      {
+        "iter": 26,
+        "len": 2575
+      },
+      {
+        "iter": 27,
+        "len": 3049
+      },
+      {
+        "iter": 28,
+        "len": 4595
+      },
+      {
+        "iter": 29,
+        "len": 1822
+      },
+      {
+        "iter": 30,
+        "len": 20009
+      },
+      {
+        "iter": 31,
+        "len": 19463
+      },
+      {
+        "iter": 32,
+        "len": 6133
+      },
+      {
+        "iter": 33,
+        "len": 2367
+      },
+      {
+        "iter": 34,
+        "len": 1763
+      },
+      {
+        "iter": 35,
+        "len": 706
+      },
+      {
+        "iter": 36,
+        "len": 405
+      },
+      {
+        "iter": 37,
+        "len": 1950
+      },
+      {
+        "iter": 38,
+        "len": 4238
+      },
+      {
+        "iter": 39,
+        "len": 8932
+      },
+      {
+        "iter": 40,
+        "len": 1304
+      },
+      {
+        "iter": 41,
+        "len": 1789
+      },
+      {
+        "iter": 42,
+        "len": 2007
+      },
+      {
+        "iter": 43,
+        "len": 16
+      },
+      {
+        "iter": 44,
+        "len": 7125
+      },
+      {
+        "iter": 45,
+        "len": 1154
+      },
+      {
+        "iter": 46,
+        "len": 1509
+      },
+      {
+        "iter": 47,
+        "len": 2222
+      },
+      {
+        "iter": 48,
+        "len": 1474
+      },
+      {
+        "iter": 49,
+        "len": 15319
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CODE_3",
+    "model": "gpt-5-mini",
+    "category": "CODE",
+    "seed_index": 3,
+    "temperature": 1.0,
+    "final_length": 1851,
+    "mean_length_steady": 4283.525,
+    "std_length_steady": 4372.615184231857,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5214
+      },
+      {
+        "iter": 1,
+        "len": 3136
+      },
+      {
+        "iter": 2,
+        "len": 4063
+      },
+      {
+        "iter": 3,
+        "len": 2710
+      },
+      {
+        "iter": 4,
+        "len": 3265
+      },
+      {
+        "iter": 5,
+        "len": 2215
+      },
+      {
+        "iter": 6,
+        "len": 1414
+      },
+      {
+        "iter": 7,
+        "len": 2
+      },
+      {
+        "iter": 8,
+        "len": 9129
+      },
+      {
+        "iter": 9,
+        "len": 2257
+      },
+      {
+        "iter": 10,
+        "len": 1779
+      },
+      {
+        "iter": 11,
+        "len": 105
+      },
+      {
+        "iter": 12,
+        "len": 13354
+      },
+      {
+        "iter": 13,
+        "len": 2286
+      },
+      {
+        "iter": 14,
+        "len": 4704
+      },
+      {
+        "iter": 15,
+        "len": 2861
+      },
+      {
+        "iter": 16,
+        "len": 5019
+      },
+      {
+        "iter": 17,
+        "len": 971
+      },
+      {
+        "iter": 18,
+        "len": 483
+      },
+      {
+        "iter": 19,
+        "len": 8428
+      },
+      {
+        "iter": 20,
+        "len": 14707
+      },
+      {
+        "iter": 21,
+        "len": 1951
+      },
+      {
+        "iter": 22,
+        "len": 2904
+      },
+      {
+        "iter": 23,
+        "len": 17483
+      },
+      {
+        "iter": 24,
+        "len": 2530
+      },
+      {
+        "iter": 25,
+        "len": 1817
+      },
+      {
+        "iter": 26,
+        "len": 1478
+      },
+      {
+        "iter": 27,
+        "len": 535
+      },
+      {
+        "iter": 28,
+        "len": 3434
+      },
+      {
+        "iter": 29,
+        "len": 2101
+      },
+      {
+        "iter": 30,
+        "len": 898
+      },
+      {
+        "iter": 31,
+        "len": 382
+      },
+      {
+        "iter": 32,
+        "len": 5472
+      },
+      {
+        "iter": 33,
+        "len": 10891
+      },
+      {
+        "iter": 34,
+        "len": 2001
+      },
+      {
+        "iter": 35,
+        "len": 2380
+      },
+      {
+        "iter": 36,
+        "len": 3300
+      },
+      {
+        "iter": 37,
+        "len": 822
+      },
+      {
+        "iter": 38,
+        "len": 3147
+      },
+      {
+        "iter": 39,
+        "len": 1035
+      },
+      {
+        "iter": 40,
+        "len": 522
+      },
+      {
+        "iter": 41,
+        "len": 11733
+      },
+      {
+        "iter": 42,
+        "len": 10253
+      },
+      {
+        "iter": 43,
+        "len": 1307
+      },
+      {
+        "iter": 44,
+        "len": 3738
+      },
+      {
+        "iter": 45,
+        "len": 11641
+      },
+      {
+        "iter": 46,
+        "len": 4132
+      },
+      {
+        "iter": 47,
+        "len": 4291
+      },
+      {
+        "iter": 48,
+        "len": 2615
+      },
+      {
+        "iter": 49,
+        "len": 1851
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CODE_4",
+    "model": "gpt-5-mini",
+    "category": "CODE",
+    "seed_index": 4,
+    "temperature": 1.0,
+    "final_length": 3212,
+    "mean_length_steady": 6057.05,
+    "std_length_steady": 5627.678957394425,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5807
+      },
+      {
+        "iter": 1,
+        "len": 6000
+      },
+      {
+        "iter": 2,
+        "len": 1281
+      },
+      {
+        "iter": 3,
+        "len": 1417
+      },
+      {
+        "iter": 4,
+        "len": 1676
+      },
+      {
+        "iter": 5,
+        "len": 2621
+      },
+      {
+        "iter": 6,
+        "len": 9672
+      },
+      {
+        "iter": 7,
+        "len": 3532
+      },
+      {
+        "iter": 8,
+        "len": 1121
+      },
+      {
+        "iter": 9,
+        "len": 662
+      },
+      {
+        "iter": 10,
+        "len": 6171
+      },
+      {
+        "iter": 11,
+        "len": 8938
+      },
+      {
+        "iter": 12,
+        "len": 3625
+      },
+      {
+        "iter": 13,
+        "len": 2032
+      },
+      {
+        "iter": 14,
+        "len": 11477
+      },
+      {
+        "iter": 15,
+        "len": 4408
+      },
+      {
+        "iter": 16,
+        "len": 9960
+      },
+      {
+        "iter": 17,
+        "len": 1733
+      },
+      {
+        "iter": 18,
+        "len": 8058
+      },
+      {
+        "iter": 19,
+        "len": 2999
+      },
+      {
+        "iter": 20,
+        "len": 2217
+      },
+      {
+        "iter": 21,
+        "len": 4268
+      },
+      {
+        "iter": 22,
+        "len": 2739
+      },
+      {
+        "iter": 23,
+        "len": 1092
+      },
+      {
+        "iter": 24,
+        "len": 849
+      },
+      {
+        "iter": 25,
+        "len": 15116
+      },
+      {
+        "iter": 26,
+        "len": 2860
+      },
+      {
+        "iter": 27,
+        "len": 2573
+      },
+      {
+        "iter": 28,
+        "len": 1148
+      },
+      {
+        "iter": 29,
+        "len": 9007
+      },
+      {
+        "iter": 30,
+        "len": 2139
+      },
+      {
+        "iter": 31,
+        "len": 2324
+      },
+      {
+        "iter": 32,
+        "len": 2921
+      },
+      {
+        "iter": 33,
+        "len": 4326
+      },
+      {
+        "iter": 34,
+        "len": 3869
+      },
+      {
+        "iter": 35,
+        "len": 24050
+      },
+      {
+        "iter": 36,
+        "len": 8722
+      },
+      {
+        "iter": 37,
+        "len": 1964
+      },
+      {
+        "iter": 38,
+        "len": 2470
+      },
+      {
+        "iter": 39,
+        "len": 17901
+      },
+      {
+        "iter": 40,
+        "len": 17760
+      },
+      {
+        "iter": 41,
+        "len": 2718
+      },
+      {
+        "iter": 42,
+        "len": 2618
+      },
+      {
+        "iter": 43,
+        "len": 3152
+      },
+      {
+        "iter": 44,
+        "len": 16459
+      },
+      {
+        "iter": 45,
+        "len": 14989
+      },
+      {
+        "iter": 46,
+        "len": 4030
+      },
+      {
+        "iter": 47,
+        "len": 3035
+      },
+      {
+        "iter": 48,
+        "len": 2353
+      },
+      {
+        "iter": 49,
+        "len": 3212
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CODE_5",
+    "model": "gpt-5-mini",
+    "category": "CODE",
+    "seed_index": 5,
+    "temperature": 1.0,
+    "final_length": 3398,
+    "mean_length_steady": 3649.95,
+    "std_length_steady": 2181.8731396440076,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5662
+      },
+      {
+        "iter": 1,
+        "len": 5141
+      },
+      {
+        "iter": 2,
+        "len": 1925
+      },
+      {
+        "iter": 3,
+        "len": 4092
+      },
+      {
+        "iter": 4,
+        "len": 4166
+      },
+      {
+        "iter": 5,
+        "len": 3300
+      },
+      {
+        "iter": 6,
+        "len": 8890
+      },
+      {
+        "iter": 7,
+        "len": 2486
+      },
+      {
+        "iter": 8,
+        "len": 4975
+      },
+      {
+        "iter": 9,
+        "len": 2343
+      },
+      {
+        "iter": 10,
+        "len": 2453
+      },
+      {
+        "iter": 11,
+        "len": 1545
+      },
+      {
+        "iter": 12,
+        "len": 1686
+      },
+      {
+        "iter": 13,
+        "len": 1284
+      },
+      {
+        "iter": 14,
+        "len": 8156
+      },
+      {
+        "iter": 15,
+        "len": 4019
+      },
+      {
+        "iter": 16,
+        "len": 1681
+      },
+      {
+        "iter": 17,
+        "len": 1531
+      },
+      {
+        "iter": 18,
+        "len": 2112
+      },
+      {
+        "iter": 19,
+        "len": 2219
+      },
+      {
+        "iter": 20,
+        "len": 1535
+      },
+      {
+        "iter": 21,
+        "len": 7416
+      },
+      {
+        "iter": 22,
+        "len": 1933
+      },
+      {
+        "iter": 23,
+        "len": 596
+      },
+      {
+        "iter": 24,
+        "len": 8651
+      },
+      {
+        "iter": 25,
+        "len": 6935
+      },
+      {
+        "iter": 26,
+        "len": 4183
+      },
+      {
+        "iter": 27,
+        "len": 5516
+      },
+      {
+        "iter": 28,
+        "len": 8315
+      },
+      {
+        "iter": 29,
+        "len": 3506
+      },
+      {
+        "iter": 30,
+        "len": 1580
+      },
+      {
+        "iter": 31,
+        "len": 5819
+      },
+      {
+        "iter": 32,
+        "len": 2113
+      },
+      {
+        "iter": 33,
+        "len": 3980
+      },
+      {
+        "iter": 34,
+        "len": 1459
+      },
+      {
+        "iter": 35,
+        "len": 2475
+      },
+      {
+        "iter": 36,
+        "len": 1966
+      },
+      {
+        "iter": 37,
+        "len": 2670
+      },
+      {
+        "iter": 38,
+        "len": 1939
+      },
+      {
+        "iter": 39,
+        "len": 3258
+      },
+      {
+        "iter": 40,
+        "len": 5672
+      },
+      {
+        "iter": 41,
+        "len": 7140
+      },
+      {
+        "iter": 42,
+        "len": 3672
+      },
+      {
+        "iter": 43,
+        "len": 3387
+      },
+      {
+        "iter": 44,
+        "len": 2543
+      },
+      {
+        "iter": 45,
+        "len": 3986
+      },
+      {
+        "iter": 46,
+        "len": 5446
+      },
+      {
+        "iter": 47,
+        "len": 5470
+      },
+      {
+        "iter": 48,
+        "len": 2753
+      },
+      {
+        "iter": 49,
+        "len": 3398
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CODE_6",
+    "model": "gpt-5-mini",
+    "category": "CODE",
+    "seed_index": 6,
+    "temperature": 1.0,
+    "final_length": 779,
+    "mean_length_steady": 2459.1,
+    "std_length_steady": 2181.2203212880627,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 4794
+      },
+      {
+        "iter": 1,
+        "len": 5824
+      },
+      {
+        "iter": 2,
+        "len": 3382
+      },
+      {
+        "iter": 3,
+        "len": 2674
+      },
+      {
+        "iter": 4,
+        "len": 3121
+      },
+      {
+        "iter": 5,
+        "len": 2925
+      },
+      {
+        "iter": 6,
+        "len": 1903
+      },
+      {
+        "iter": 7,
+        "len": 68
+      },
+      {
+        "iter": 8,
+        "len": 6769
+      },
+      {
+        "iter": 9,
+        "len": 1558
+      },
+      {
+        "iter": 10,
+        "len": 805
+      },
+      {
+        "iter": 11,
+        "len": 1030
+      },
+      {
+        "iter": 12,
+        "len": 6738
+      },
+      {
+        "iter": 13,
+        "len": 1647
+      },
+      {
+        "iter": 14,
+        "len": 635
+      },
+      {
+        "iter": 15,
+        "len": 1986
+      },
+      {
+        "iter": 16,
+        "len": 1495
+      },
+      {
+        "iter": 17,
+        "len": 2262
+      },
+      {
+        "iter": 18,
+        "len": 611
+      },
+      {
+        "iter": 19,
+        "len": 1
+      },
+      {
+        "iter": 20,
+        "len": 6173
+      },
+      {
+        "iter": 21,
+        "len": 2806
+      },
+      {
+        "iter": 22,
+        "len": 1711
+      },
+      {
+        "iter": 23,
+        "len": 1871
+      },
+      {
+        "iter": 24,
+        "len": 1387
+      },
+      {
+        "iter": 25,
+        "len": 1558
+      },
+      {
+        "iter": 26,
+        "len": 3368
+      },
+      {
+        "iter": 27,
+        "len": 925
+      },
+      {
+        "iter": 28,
+        "len": 2264
+      },
+      {
+        "iter": 29,
+        "len": 4167
+      },
+      {
+        "iter": 30,
+        "len": 3453
+      },
+      {
+        "iter": 31,
+        "len": 4137
+      },
+      {
+        "iter": 32,
+        "len": 2734
+      },
+      {
+        "iter": 33,
+        "len": 1052
+      },
+      {
+        "iter": 34,
+        "len": 552
+      },
+      {
+        "iter": 35,
+        "len": 9567
+      },
+      {
+        "iter": 36,
+        "len": 1776
+      },
+      {
+        "iter": 37,
+        "len": 523
+      },
+      {
+        "iter": 38,
+        "len": 7308
+      },
+      {
+        "iter": 39,
+        "len": 2410
+      },
+      {
+        "iter": 40,
+        "len": 594
+      },
+      {
+        "iter": 41,
+        "len": 152
+      },
+      {
+        "iter": 42,
+        "len": 3297
+      },
+      {
+        "iter": 43,
+        "len": 2044
+      },
+      {
+        "iter": 44,
+        "len": 1795
+      },
+      {
+        "iter": 45,
+        "len": 2024
+      },
+      {
+        "iter": 46,
+        "len": 648
+      },
+      {
+        "iter": 47,
+        "len": 7509
+      },
+      {
+        "iter": 48,
+        "len": 2570
+      },
+      {
+        "iter": 49,
+        "len": 779
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CODE_7",
+    "model": "gpt-5-mini",
+    "category": "CODE",
+    "seed_index": 7,
+    "temperature": 1.0,
+    "final_length": 2154,
+    "mean_length_steady": 5267.0,
+    "std_length_steady": 6305.02777551376,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 7003
+      },
+      {
+        "iter": 1,
+        "len": 9133
+      },
+      {
+        "iter": 2,
+        "len": 1108
+      },
+      {
+        "iter": 3,
+        "len": 1993
+      },
+      {
+        "iter": 4,
+        "len": 2
+      },
+      {
+        "iter": 5,
+        "len": 9113
+      },
+      {
+        "iter": 6,
+        "len": 2499
+      },
+      {
+        "iter": 7,
+        "len": 3530
+      },
+      {
+        "iter": 8,
+        "len": 3966
+      },
+      {
+        "iter": 9,
+        "len": 1334
+      },
+      {
+        "iter": 10,
+        "len": 29979
+      },
+      {
+        "iter": 11,
+        "len": 3868
+      },
+      {
+        "iter": 12,
+        "len": 2318
+      },
+      {
+        "iter": 13,
+        "len": 3203
+      },
+      {
+        "iter": 14,
+        "len": 2842
+      },
+      {
+        "iter": 15,
+        "len": 678
+      },
+      {
+        "iter": 16,
+        "len": 6977
+      },
+      {
+        "iter": 17,
+        "len": 1951
+      },
+      {
+        "iter": 18,
+        "len": 3918
+      },
+      {
+        "iter": 19,
+        "len": 2659
+      },
+      {
+        "iter": 20,
+        "len": 20663
+      },
+      {
+        "iter": 21,
+        "len": 4558
+      },
+      {
+        "iter": 22,
+        "len": 3493
+      },
+      {
+        "iter": 23,
+        "len": 4458
+      },
+      {
+        "iter": 24,
+        "len": 3422
+      },
+      {
+        "iter": 25,
+        "len": 2503
+      },
+      {
+        "iter": 26,
+        "len": 117
+      },
+      {
+        "iter": 27,
+        "len": 11408
+      },
+      {
+        "iter": 28,
+        "len": 2309
+      },
+      {
+        "iter": 29,
+        "len": 2
+      },
+      {
+        "iter": 30,
+        "len": 8501
+      },
+      {
+        "iter": 31,
+        "len": 1604
+      },
+      {
+        "iter": 32,
+        "len": 2355
+      },
+      {
+        "iter": 33,
+        "len": 1934
+      },
+      {
+        "iter": 34,
+        "len": 960
+      },
+      {
+        "iter": 35,
+        "len": 2070
+      },
+      {
+        "iter": 36,
+        "len": 14032
+      },
+      {
+        "iter": 37,
+        "len": 1601
+      },
+      {
+        "iter": 38,
+        "len": 6864
+      },
+      {
+        "iter": 39,
+        "len": 9932
+      },
+      {
+        "iter": 40,
+        "len": 4420
+      },
+      {
+        "iter": 41,
+        "len": 2680
+      },
+      {
+        "iter": 42,
+        "len": 691
+      },
+      {
+        "iter": 43,
+        "len": 20925
+      },
+      {
+        "iter": 44,
+        "len": 3503
+      },
+      {
+        "iter": 45,
+        "len": 2182
+      },
+      {
+        "iter": 46,
+        "len": 1061
+      },
+      {
+        "iter": 47,
+        "len": 433
+      },
+      {
+        "iter": 48,
+        "len": 11452
+      },
+      {
+        "iter": 49,
+        "len": 2154
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CODE_8",
+    "model": "gpt-5-mini",
+    "category": "CODE",
+    "seed_index": 8,
+    "temperature": 1.0,
+    "final_length": 4811,
+    "mean_length_steady": 4064.65,
+    "std_length_steady": 4049.8190240429267,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 5286
+      },
+      {
+        "iter": 1,
+        "len": 1079
+      },
+      {
+        "iter": 2,
+        "len": 2975
+      },
+      {
+        "iter": 3,
+        "len": 1875
+      },
+      {
+        "iter": 4,
+        "len": 1902
+      },
+      {
+        "iter": 5,
+        "len": 3101
+      },
+      {
+        "iter": 6,
+        "len": 2551
+      },
+      {
+        "iter": 7,
+        "len": 2262
+      },
+      {
+        "iter": 8,
+        "len": 1955
+      },
+      {
+        "iter": 9,
+        "len": 8383
+      },
+      {
+        "iter": 10,
+        "len": 7862
+      },
+      {
+        "iter": 11,
+        "len": 2930
+      },
+      {
+        "iter": 12,
+        "len": 2373
+      },
+      {
+        "iter": 13,
+        "len": 1183
+      },
+      {
+        "iter": 14,
+        "len": 2584
+      },
+      {
+        "iter": 15,
+        "len": 7772
+      },
+      {
+        "iter": 16,
+        "len": 4082
+      },
+      {
+        "iter": 17,
+        "len": 2866
+      },
+      {
+        "iter": 18,
+        "len": 8891
+      },
+      {
+        "iter": 19,
+        "len": 869
+      },
+      {
+        "iter": 20,
+        "len": 1846
+      },
+      {
+        "iter": 21,
+        "len": 1809
+      },
+      {
+        "iter": 22,
+        "len": 4651
+      },
+      {
+        "iter": 23,
+        "len": 3048
+      },
+      {
+        "iter": 24,
+        "len": 10551
+      },
+      {
+        "iter": 25,
+        "len": 10177
+      },
+      {
+        "iter": 26,
+        "len": 3959
+      },
+      {
+        "iter": 27,
+        "len": 3002
+      },
+      {
+        "iter": 28,
+        "len": 3805
+      },
+      {
+        "iter": 29,
+        "len": 4367
+      },
+      {
+        "iter": 30,
+        "len": 970
+      },
+      {
+        "iter": 31,
+        "len": 11677
+      },
+      {
+        "iter": 32,
+        "len": 2764
+      },
+      {
+        "iter": 33,
+        "len": 1955
+      },
+      {
+        "iter": 34,
+        "len": 1099
+      },
+      {
+        "iter": 35,
+        "len": 1710
+      },
+      {
+        "iter": 36,
+        "len": 329
+      },
+      {
+        "iter": 37,
+        "len": 407
+      },
+      {
+        "iter": 38,
+        "len": 305
+      },
+      {
+        "iter": 39,
+        "len": 626
+      },
+      {
+        "iter": 40,
+        "len": 1761
+      },
+      {
+        "iter": 41,
+        "len": 509
+      },
+      {
+        "iter": 42,
+        "len": 222
+      },
+      {
+        "iter": 43,
+        "len": 114
+      },
+      {
+        "iter": 44,
+        "len": 5879
+      },
+      {
+        "iter": 45,
+        "len": 13408
+      },
+      {
+        "iter": 46,
+        "len": 18367
+      },
+      {
+        "iter": 47,
+        "len": 3166
+      },
+      {
+        "iter": 48,
+        "len": 3880
+      },
+      {
+        "iter": 49,
+        "len": 4811
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_CODE_9",
+    "model": "gpt-5-mini",
+    "category": "CODE",
+    "seed_index": 9,
+    "temperature": 1.0,
+    "final_length": 2615,
+    "mean_length_steady": 4886.275,
+    "std_length_steady": 5073.7057856536185,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 4923
+      },
+      {
+        "iter": 1,
+        "len": 3373
+      },
+      {
+        "iter": 2,
+        "len": 2831
+      },
+      {
+        "iter": 3,
+        "len": 2860
+      },
+      {
+        "iter": 4,
+        "len": 2015
+      },
+      {
+        "iter": 5,
+        "len": 2187
+      },
+      {
+        "iter": 6,
+        "len": 4223
+      },
+      {
+        "iter": 7,
+        "len": 4962
+      },
+      {
+        "iter": 8,
+        "len": 7545
+      },
+      {
+        "iter": 9,
+        "len": 2482
+      },
+      {
+        "iter": 10,
+        "len": 2203
+      },
+      {
+        "iter": 11,
+        "len": 7566
+      },
+      {
+        "iter": 12,
+        "len": 3196
+      },
+      {
+        "iter": 13,
+        "len": 745
+      },
+      {
+        "iter": 14,
+        "len": 20755
+      },
+      {
+        "iter": 15,
+        "len": 3263
+      },
+      {
+        "iter": 16,
+        "len": 9500
+      },
+      {
+        "iter": 17,
+        "len": 2172
+      },
+      {
+        "iter": 18,
+        "len": 3874
+      },
+      {
+        "iter": 19,
+        "len": 1223
+      },
+      {
+        "iter": 20,
+        "len": 2807
+      },
+      {
+        "iter": 21,
+        "len": 2366
+      },
+      {
+        "iter": 22,
+        "len": 1832
+      },
+      {
+        "iter": 23,
+        "len": 1634
+      },
+      {
+        "iter": 24,
+        "len": 11818
+      },
+      {
+        "iter": 25,
+        "len": 6812
+      },
+      {
+        "iter": 26,
+        "len": 7305
+      },
+      {
+        "iter": 27,
+        "len": 6060
+      },
+      {
+        "iter": 28,
+        "len": 12399
+      },
+      {
+        "iter": 29,
+        "len": 8248
+      },
+      {
+        "iter": 30,
+        "len": 2770
+      },
+      {
+        "iter": 31,
+        "len": 1773
+      },
+      {
+        "iter": 32,
+        "len": 17914
+      },
+      {
+        "iter": 33,
+        "len": 17129
+      },
+      {
+        "iter": 34,
+        "len": 3195
+      },
+      {
+        "iter": 35,
+        "len": 1341
+      },
+      {
+        "iter": 36,
+        "len": 3625
+      },
+      {
+        "iter": 37,
+        "len": 2826
+      },
+      {
+        "iter": 38,
+        "len": 402
+      },
+      {
+        "iter": 39,
+        "len": 684
+      },
+      {
+        "iter": 40,
+        "len": 652
+      },
+      {
+        "iter": 41,
+        "len": 13
+      },
+      {
+        "iter": 42,
+        "len": 702
+      },
+      {
+        "iter": 43,
+        "len": 1065
+      },
+      {
+        "iter": 44,
+        "len": 473
+      },
+      {
+        "iter": 45,
+        "len": 3807
+      },
+      {
+        "iter": 46,
+        "len": 11309
+      },
+      {
+        "iter": 47,
+        "len": 5092
+      },
+      {
+        "iter": 48,
+        "len": 2286
+      },
+      {
+        "iter": 49,
+        "len": 2615
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_FACTUAL_0",
+    "model": "gpt-5-mini",
+    "category": "FACTUAL",
+    "seed_index": 0,
+    "temperature": 1.0,
+    "final_length": 4405,
+    "mean_length_steady": 2646.725,
+    "std_length_steady": 2302.151156934531,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 7127
+      },
+      {
+        "iter": 1,
+        "len": 10332
+      },
+      {
+        "iter": 2,
+        "len": 2830
+      },
+      {
+        "iter": 3,
+        "len": 2347
+      },
+      {
+        "iter": 4,
+        "len": 6747
+      },
+      {
+        "iter": 5,
+        "len": 9276
+      },
+      {
+        "iter": 6,
+        "len": 3807
+      },
+      {
+        "iter": 7,
+        "len": 1074
+      },
+      {
+        "iter": 8,
+        "len": 6112
+      },
+      {
+        "iter": 9,
+        "len": 1867
+      },
+      {
+        "iter": 10,
+        "len": 5674
+      },
+      {
+        "iter": 11,
+        "len": 5462
+      },
+      {
+        "iter": 12,
+        "len": 4193
+      },
+      {
+        "iter": 13,
+        "len": 3117
+      },
+      {
+        "iter": 14,
+        "len": 893
+      },
+      {
+        "iter": 15,
+        "len": 6855
+      },
+      {
+        "iter": 16,
+        "len": 1843
+      },
+      {
+        "iter": 17,
+        "len": 1053
+      },
+      {
+        "iter": 18,
+        "len": 7124
+      },
+      {
+        "iter": 19,
+        "len": 5160
+      },
+      {
+        "iter": 20,
+        "len": 5141
+      },
+      {
+        "iter": 21,
+        "len": 8300
+      },
+      {
+        "iter": 22,
+        "len": 6078
+      },
+      {
+        "iter": 23,
+        "len": 3965
+      },
+      {
+        "iter": 24,
+        "len": 1412
+      },
+      {
+        "iter": 25,
+        "len": 696
+      },
+      {
+        "iter": 26,
+        "len": 457
+      },
+      {
+        "iter": 27,
+        "len": 2234
+      },
+      {
+        "iter": 28,
+        "len": 916
+      },
+      {
+        "iter": 29,
+        "len": 1215
+      },
+      {
+        "iter": 30,
+        "len": 1018
+      },
+      {
+        "iter": 31,
+        "len": 2193
+      },
+      {
+        "iter": 32,
+        "len": 1254
+      },
+      {
+        "iter": 33,
+        "len": 1267
+      },
+      {
+        "iter": 34,
+        "len": 305
+      },
+      {
+        "iter": 35,
+        "len": 1072
+      },
+      {
+        "iter": 36,
+        "len": 771
+      },
+      {
+        "iter": 37,
+        "len": 762
+      },
+      {
+        "iter": 38,
+        "len": 935
+      },
+      {
+        "iter": 39,
+        "len": 1197
+      },
+      {
+        "iter": 40,
+        "len": 1313
+      },
+      {
+        "iter": 41,
+        "len": 1404
+      },
+      {
+        "iter": 42,
+        "len": 56
+      },
+      {
+        "iter": 43,
+        "len": 7850
+      },
+      {
+        "iter": 44,
+        "len": 1750
+      },
+      {
+        "iter": 45,
+        "len": 3113
+      },
+      {
+        "iter": 46,
+        "len": 862
+      },
+      {
+        "iter": 47,
+        "len": 1276
+      },
+      {
+        "iter": 48,
+        "len": 1278
+      },
+      {
+        "iter": 49,
+        "len": 4405
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_FACTUAL_1",
+    "model": "gpt-5-mini",
+    "category": "FACTUAL",
+    "seed_index": 1,
+    "temperature": 1.0,
+    "final_length": 1786,
+    "mean_length_steady": 3165.175,
+    "std_length_steady": 1956.4013760920843,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 8355
+      },
+      {
+        "iter": 1,
+        "len": 6624
+      },
+      {
+        "iter": 2,
+        "len": 1368
+      },
+      {
+        "iter": 3,
+        "len": 1789
+      },
+      {
+        "iter": 4,
+        "len": 1297
+      },
+      {
+        "iter": 5,
+        "len": 3918
+      },
+      {
+        "iter": 6,
+        "len": 1770
+      },
+      {
+        "iter": 7,
+        "len": 1861
+      },
+      {
+        "iter": 8,
+        "len": 2531
+      },
+      {
+        "iter": 9,
+        "len": 1983
+      },
+      {
+        "iter": 10,
+        "len": 2160
+      },
+      {
+        "iter": 11,
+        "len": 3224
+      },
+      {
+        "iter": 12,
+        "len": 2915
+      },
+      {
+        "iter": 13,
+        "len": 6218
+      },
+      {
+        "iter": 14,
+        "len": 1865
+      },
+      {
+        "iter": 15,
+        "len": 1613
+      },
+      {
+        "iter": 16,
+        "len": 4001
+      },
+      {
+        "iter": 17,
+        "len": 1991
+      },
+      {
+        "iter": 18,
+        "len": 3620
+      },
+      {
+        "iter": 19,
+        "len": 617
+      },
+      {
+        "iter": 20,
+        "len": 3889
+      },
+      {
+        "iter": 21,
+        "len": 3967
+      },
+      {
+        "iter": 22,
+        "len": 3176
+      },
+      {
+        "iter": 23,
+        "len": 5584
+      },
+      {
+        "iter": 24,
+        "len": 3124
+      },
+      {
+        "iter": 25,
+        "len": 2164
+      },
+      {
+        "iter": 26,
+        "len": 4192
+      },
+      {
+        "iter": 27,
+        "len": 1825
+      },
+      {
+        "iter": 28,
+        "len": 1878
+      },
+      {
+        "iter": 29,
+        "len": 2338
+      },
+      {
+        "iter": 30,
+        "len": 821
+      },
+      {
+        "iter": 31,
+        "len": 974
+      },
+      {
+        "iter": 32,
+        "len": 3010
+      },
+      {
+        "iter": 33,
+        "len": 2197
+      },
+      {
+        "iter": 34,
+        "len": 1943
+      },
+      {
+        "iter": 35,
+        "len": 4348
+      },
+      {
+        "iter": 36,
+        "len": 4489
+      },
+      {
+        "iter": 37,
+        "len": 5256
+      },
+      {
+        "iter": 38,
+        "len": 3349
+      },
+      {
+        "iter": 39,
+        "len": 2332
+      },
+      {
+        "iter": 40,
+        "len": 4033
+      },
+      {
+        "iter": 41,
+        "len": 2164
+      },
+      {
+        "iter": 42,
+        "len": 4190
+      },
+      {
+        "iter": 43,
+        "len": 2748
+      },
+      {
+        "iter": 44,
+        "len": 2118
+      },
+      {
+        "iter": 45,
+        "len": 3919
+      },
+      {
+        "iter": 46,
+        "len": 2695
+      },
+      {
+        "iter": 47,
+        "len": 12432
+      },
+      {
+        "iter": 48,
+        "len": 1442
+      },
+      {
+        "iter": 49,
+        "len": 1786
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_FACTUAL_2",
+    "model": "gpt-5-mini",
+    "category": "FACTUAL",
+    "seed_index": 2,
+    "temperature": 1.0,
+    "final_length": 1658,
+    "mean_length_steady": 3017.45,
+    "std_length_steady": 3088.5780785824404,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 7531
+      },
+      {
+        "iter": 1,
+        "len": 6032
+      },
+      {
+        "iter": 2,
+        "len": 920
+      },
+      {
+        "iter": 3,
+        "len": 6238
+      },
+      {
+        "iter": 4,
+        "len": 1202
+      },
+      {
+        "iter": 5,
+        "len": 2140
+      },
+      {
+        "iter": 6,
+        "len": 916
+      },
+      {
+        "iter": 7,
+        "len": 5991
+      },
+      {
+        "iter": 8,
+        "len": 1925
+      },
+      {
+        "iter": 9,
+        "len": 1483
+      },
+      {
+        "iter": 10,
+        "len": 1637
+      },
+      {
+        "iter": 11,
+        "len": 381
+      },
+      {
+        "iter": 12,
+        "len": 8597
+      },
+      {
+        "iter": 13,
+        "len": 1622
+      },
+      {
+        "iter": 14,
+        "len": 3019
+      },
+      {
+        "iter": 15,
+        "len": 2950
+      },
+      {
+        "iter": 16,
+        "len": 2070
+      },
+      {
+        "iter": 17,
+        "len": 1923
+      },
+      {
+        "iter": 18,
+        "len": 840
+      },
+      {
+        "iter": 19,
+        "len": 3317
+      },
+      {
+        "iter": 20,
+        "len": 3294
+      },
+      {
+        "iter": 21,
+        "len": 3733
+      },
+      {
+        "iter": 22,
+        "len": 2958
+      },
+      {
+        "iter": 23,
+        "len": 1507
+      },
+      {
+        "iter": 24,
+        "len": 18130
+      },
+      {
+        "iter": 25,
+        "len": 2773
+      },
+      {
+        "iter": 26,
+        "len": 670
+      },
+      {
+        "iter": 27,
+        "len": 10456
+      },
+      {
+        "iter": 28,
+        "len": 1506
+      },
+      {
+        "iter": 29,
+        "len": 20
+      },
+      {
+        "iter": 30,
+        "len": 3876
+      },
+      {
+        "iter": 31,
+        "len": 1495
+      },
+      {
+        "iter": 32,
+        "len": 2515
+      },
+      {
+        "iter": 33,
+        "len": 5338
+      },
+      {
+        "iter": 34,
+        "len": 1957
+      },
+      {
+        "iter": 35,
+        "len": 3264
+      },
+      {
+        "iter": 36,
+        "len": 1284
+      },
+      {
+        "iter": 37,
+        "len": 3936
+      },
+      {
+        "iter": 38,
+        "len": 1371
+      },
+      {
+        "iter": 39,
+        "len": 1470
+      },
+      {
+        "iter": 40,
+        "len": 3123
+      },
+      {
+        "iter": 41,
+        "len": 813
+      },
+      {
+        "iter": 42,
+        "len": 3146
+      },
+      {
+        "iter": 43,
+        "len": 1966
+      },
+      {
+        "iter": 44,
+        "len": 2703
+      },
+      {
+        "iter": 45,
+        "len": 2178
+      },
+      {
+        "iter": 46,
+        "len": 1772
+      },
+      {
+        "iter": 47,
+        "len": 2891
+      },
+      {
+        "iter": 48,
+        "len": 2539
+      },
+      {
+        "iter": 49,
+        "len": 1658
+      }
+    ]
+  }
+]
