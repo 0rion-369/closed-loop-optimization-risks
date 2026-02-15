@@ -9114,5 +9114,1581 @@
         "len": 1658
       }
     ]
+  },
+  {
+    "run_id": "gpt-5-mini_FACTUAL_3",
+    "model": "gpt-5-mini",
+    "category": "FACTUAL",
+    "seed_index": 3,
+    "temperature": 1.0,
+    "final_length": 1667,
+    "mean_length_steady": 2972.325,
+    "std_length_steady": 2651.0992473641945,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 8724
+      },
+      {
+        "iter": 1,
+        "len": 2532
+      },
+      {
+        "iter": 2,
+        "len": 1891
+      },
+      {
+        "iter": 3,
+        "len": 1362
+      },
+      {
+        "iter": 4,
+        "len": 1703
+      },
+      {
+        "iter": 5,
+        "len": 871
+      },
+      {
+        "iter": 6,
+        "len": 2093
+      },
+      {
+        "iter": 7,
+        "len": 853
+      },
+      {
+        "iter": 8,
+        "len": 10024
+      },
+      {
+        "iter": 9,
+        "len": 1981
+      },
+      {
+        "iter": 10,
+        "len": 3665
+      },
+      {
+        "iter": 11,
+        "len": 2822
+      },
+      {
+        "iter": 12,
+        "len": 11089
+      },
+      {
+        "iter": 13,
+        "len": 2105
+      },
+      {
+        "iter": 14,
+        "len": 9872
+      },
+      {
+        "iter": 15,
+        "len": 6627
+      },
+      {
+        "iter": 16,
+        "len": 2789
+      },
+      {
+        "iter": 17,
+        "len": 1225
+      },
+      {
+        "iter": 18,
+        "len": 1411
+      },
+      {
+        "iter": 19,
+        "len": 2570
+      },
+      {
+        "iter": 20,
+        "len": 3150
+      },
+      {
+        "iter": 21,
+        "len": 364
+      },
+      {
+        "iter": 22,
+        "len": 9442
+      },
+      {
+        "iter": 23,
+        "len": 3699
+      },
+      {
+        "iter": 24,
+        "len": 2159
+      },
+      {
+        "iter": 25,
+        "len": 3518
+      },
+      {
+        "iter": 26,
+        "len": 3532
+      },
+      {
+        "iter": 27,
+        "len": 1737
+      },
+      {
+        "iter": 28,
+        "len": 1202
+      },
+      {
+        "iter": 29,
+        "len": 8887
+      },
+      {
+        "iter": 30,
+        "len": 4631
+      },
+      {
+        "iter": 31,
+        "len": 1736
+      },
+      {
+        "iter": 32,
+        "len": 1397
+      },
+      {
+        "iter": 33,
+        "len": 4149
+      },
+      {
+        "iter": 34,
+        "len": 4083
+      },
+      {
+        "iter": 35,
+        "len": 1519
+      },
+      {
+        "iter": 36,
+        "len": 1405
+      },
+      {
+        "iter": 37,
+        "len": 1065
+      },
+      {
+        "iter": 38,
+        "len": 256
+      },
+      {
+        "iter": 39,
+        "len": 608
+      },
+      {
+        "iter": 40,
+        "len": 2073
+      },
+      {
+        "iter": 41,
+        "len": 1189
+      },
+      {
+        "iter": 42,
+        "len": 1129
+      },
+      {
+        "iter": 43,
+        "len": 45
+      },
+      {
+        "iter": 44,
+        "len": 3425
+      },
+      {
+        "iter": 45,
+        "len": 1484
+      },
+      {
+        "iter": 46,
+        "len": 2478
+      },
+      {
+        "iter": 47,
+        "len": 2064
+      },
+      {
+        "iter": 48,
+        "len": 625
+      },
+      {
+        "iter": 49,
+        "len": 1667
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_FACTUAL_4",
+    "model": "gpt-5-mini",
+    "category": "FACTUAL",
+    "seed_index": 4,
+    "temperature": 1.0,
+    "final_length": 1980,
+    "mean_length_steady": 3674.85,
+    "std_length_steady": 2743.0816206412815,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 9023
+      },
+      {
+        "iter": 1,
+        "len": 7290
+      },
+      {
+        "iter": 2,
+        "len": 997
+      },
+      {
+        "iter": 3,
+        "len": 1620
+      },
+      {
+        "iter": 4,
+        "len": 4153
+      },
+      {
+        "iter": 5,
+        "len": 4188
+      },
+      {
+        "iter": 6,
+        "len": 1966
+      },
+      {
+        "iter": 7,
+        "len": 904
+      },
+      {
+        "iter": 8,
+        "len": 2859
+      },
+      {
+        "iter": 9,
+        "len": 2590
+      },
+      {
+        "iter": 10,
+        "len": 2746
+      },
+      {
+        "iter": 11,
+        "len": 2672
+      },
+      {
+        "iter": 12,
+        "len": 3483
+      },
+      {
+        "iter": 13,
+        "len": 7461
+      },
+      {
+        "iter": 14,
+        "len": 3786
+      },
+      {
+        "iter": 15,
+        "len": 2082
+      },
+      {
+        "iter": 16,
+        "len": 3655
+      },
+      {
+        "iter": 17,
+        "len": 1923
+      },
+      {
+        "iter": 18,
+        "len": 6425
+      },
+      {
+        "iter": 19,
+        "len": 2195
+      },
+      {
+        "iter": 20,
+        "len": 617
+      },
+      {
+        "iter": 21,
+        "len": 9120
+      },
+      {
+        "iter": 22,
+        "len": 5541
+      },
+      {
+        "iter": 23,
+        "len": 2790
+      },
+      {
+        "iter": 24,
+        "len": 2522
+      },
+      {
+        "iter": 25,
+        "len": 2706
+      },
+      {
+        "iter": 26,
+        "len": 2699
+      },
+      {
+        "iter": 27,
+        "len": 2618
+      },
+      {
+        "iter": 28,
+        "len": 2098
+      },
+      {
+        "iter": 29,
+        "len": 3836
+      },
+      {
+        "iter": 30,
+        "len": 5027
+      },
+      {
+        "iter": 31,
+        "len": 1718
+      },
+      {
+        "iter": 32,
+        "len": 255
+      },
+      {
+        "iter": 33,
+        "len": 5059
+      },
+      {
+        "iter": 34,
+        "len": 5565
+      },
+      {
+        "iter": 35,
+        "len": 1348
+      },
+      {
+        "iter": 36,
+        "len": 1098
+      },
+      {
+        "iter": 37,
+        "len": 2493
+      },
+      {
+        "iter": 38,
+        "len": 2163
+      },
+      {
+        "iter": 39,
+        "len": 15588
+      },
+      {
+        "iter": 40,
+        "len": 3664
+      },
+      {
+        "iter": 41,
+        "len": 2457
+      },
+      {
+        "iter": 42,
+        "len": 6589
+      },
+      {
+        "iter": 43,
+        "len": 5860
+      },
+      {
+        "iter": 44,
+        "len": 6711
+      },
+      {
+        "iter": 45,
+        "len": 1554
+      },
+      {
+        "iter": 46,
+        "len": 1474
+      },
+      {
+        "iter": 47,
+        "len": 3299
+      },
+      {
+        "iter": 48,
+        "len": 2117
+      },
+      {
+        "iter": 49,
+        "len": 1980
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_FACTUAL_5",
+    "model": "gpt-5-mini",
+    "category": "FACTUAL",
+    "seed_index": 5,
+    "temperature": 1.0,
+    "final_length": 1554,
+    "mean_length_steady": 3897.5,
+    "std_length_steady": 3319.19556519347,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 7851
+      },
+      {
+        "iter": 1,
+        "len": 1460
+      },
+      {
+        "iter": 2,
+        "len": 2590
+      },
+      {
+        "iter": 3,
+        "len": 6181
+      },
+      {
+        "iter": 4,
+        "len": 14817
+      },
+      {
+        "iter": 5,
+        "len": 1401
+      },
+      {
+        "iter": 6,
+        "len": 1551
+      },
+      {
+        "iter": 7,
+        "len": 829
+      },
+      {
+        "iter": 8,
+        "len": 1977
+      },
+      {
+        "iter": 9,
+        "len": 680
+      },
+      {
+        "iter": 10,
+        "len": 2376
+      },
+      {
+        "iter": 11,
+        "len": 1459
+      },
+      {
+        "iter": 12,
+        "len": 454
+      },
+      {
+        "iter": 13,
+        "len": 3
+      },
+      {
+        "iter": 14,
+        "len": 9893
+      },
+      {
+        "iter": 15,
+        "len": 1153
+      },
+      {
+        "iter": 16,
+        "len": 1787
+      },
+      {
+        "iter": 17,
+        "len": 3279
+      },
+      {
+        "iter": 18,
+        "len": 4035
+      },
+      {
+        "iter": 19,
+        "len": 1261
+      },
+      {
+        "iter": 20,
+        "len": 2105
+      },
+      {
+        "iter": 21,
+        "len": 3037
+      },
+      {
+        "iter": 22,
+        "len": 2494
+      },
+      {
+        "iter": 23,
+        "len": 1918
+      },
+      {
+        "iter": 24,
+        "len": 3504
+      },
+      {
+        "iter": 25,
+        "len": 1283
+      },
+      {
+        "iter": 26,
+        "len": 1868
+      },
+      {
+        "iter": 27,
+        "len": 4457
+      },
+      {
+        "iter": 28,
+        "len": 6874
+      },
+      {
+        "iter": 29,
+        "len": 3812
+      },
+      {
+        "iter": 30,
+        "len": 2152
+      },
+      {
+        "iter": 31,
+        "len": 818
+      },
+      {
+        "iter": 32,
+        "len": 15291
+      },
+      {
+        "iter": 33,
+        "len": 5284
+      },
+      {
+        "iter": 34,
+        "len": 5305
+      },
+      {
+        "iter": 35,
+        "len": 3809
+      },
+      {
+        "iter": 36,
+        "len": 3500
+      },
+      {
+        "iter": 37,
+        "len": 3268
+      },
+      {
+        "iter": 38,
+        "len": 4032
+      },
+      {
+        "iter": 39,
+        "len": 4361
+      },
+      {
+        "iter": 40,
+        "len": 11484
+      },
+      {
+        "iter": 41,
+        "len": 6725
+      },
+      {
+        "iter": 42,
+        "len": 2859
+      },
+      {
+        "iter": 43,
+        "len": 3195
+      },
+      {
+        "iter": 44,
+        "len": 2570
+      },
+      {
+        "iter": 45,
+        "len": 12
+      },
+      {
+        "iter": 46,
+        "len": 6261
+      },
+      {
+        "iter": 47,
+        "len": 12719
+      },
+      {
+        "iter": 48,
+        "len": 3649
+      },
+      {
+        "iter": 49,
+        "len": 1554
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_FACTUAL_6",
+    "model": "gpt-5-mini",
+    "category": "FACTUAL",
+    "seed_index": 6,
+    "temperature": 1.0,
+    "final_length": 1130,
+    "mean_length_steady": 3054.15,
+    "std_length_steady": 2105.061098281948,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 8645
+      },
+      {
+        "iter": 1,
+        "len": 1877
+      },
+      {
+        "iter": 2,
+        "len": 837
+      },
+      {
+        "iter": 3,
+        "len": 966
+      },
+      {
+        "iter": 4,
+        "len": 7216
+      },
+      {
+        "iter": 5,
+        "len": 5956
+      },
+      {
+        "iter": 6,
+        "len": 4200
+      },
+      {
+        "iter": 7,
+        "len": 3099
+      },
+      {
+        "iter": 8,
+        "len": 2859
+      },
+      {
+        "iter": 9,
+        "len": 1979
+      },
+      {
+        "iter": 10,
+        "len": 3491
+      },
+      {
+        "iter": 11,
+        "len": 2185
+      },
+      {
+        "iter": 12,
+        "len": 534
+      },
+      {
+        "iter": 13,
+        "len": 442
+      },
+      {
+        "iter": 14,
+        "len": 2934
+      },
+      {
+        "iter": 15,
+        "len": 6882
+      },
+      {
+        "iter": 16,
+        "len": 4175
+      },
+      {
+        "iter": 17,
+        "len": 3675
+      },
+      {
+        "iter": 18,
+        "len": 1032
+      },
+      {
+        "iter": 19,
+        "len": 3578
+      },
+      {
+        "iter": 20,
+        "len": 2245
+      },
+      {
+        "iter": 21,
+        "len": 1430
+      },
+      {
+        "iter": 22,
+        "len": 632
+      },
+      {
+        "iter": 23,
+        "len": 2462
+      },
+      {
+        "iter": 24,
+        "len": 2062
+      },
+      {
+        "iter": 25,
+        "len": 755
+      },
+      {
+        "iter": 26,
+        "len": 6225
+      },
+      {
+        "iter": 27,
+        "len": 3393
+      },
+      {
+        "iter": 28,
+        "len": 11399
+      },
+      {
+        "iter": 29,
+        "len": 3140
+      },
+      {
+        "iter": 30,
+        "len": 1944
+      },
+      {
+        "iter": 31,
+        "len": 5216
+      },
+      {
+        "iter": 32,
+        "len": 5427
+      },
+      {
+        "iter": 33,
+        "len": 3183
+      },
+      {
+        "iter": 34,
+        "len": 5011
+      },
+      {
+        "iter": 35,
+        "len": 4515
+      },
+      {
+        "iter": 36,
+        "len": 4568
+      },
+      {
+        "iter": 37,
+        "len": 2970
+      },
+      {
+        "iter": 38,
+        "len": 2778
+      },
+      {
+        "iter": 39,
+        "len": 1129
+      },
+      {
+        "iter": 40,
+        "len": 1695
+      },
+      {
+        "iter": 41,
+        "len": 3161
+      },
+      {
+        "iter": 42,
+        "len": 2546
+      },
+      {
+        "iter": 43,
+        "len": 254
+      },
+      {
+        "iter": 44,
+        "len": 4980
+      },
+      {
+        "iter": 45,
+        "len": 1282
+      },
+      {
+        "iter": 46,
+        "len": 1412
+      },
+      {
+        "iter": 47,
+        "len": 2999
+      },
+      {
+        "iter": 48,
+        "len": 3295
+      },
+      {
+        "iter": 49,
+        "len": 1130
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_FACTUAL_7",
+    "model": "gpt-5-mini",
+    "category": "FACTUAL",
+    "seed_index": 7,
+    "temperature": 1.0,
+    "final_length": 1521,
+    "mean_length_steady": 2138.725,
+    "std_length_steady": 1516.3963035351278,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 7752
+      },
+      {
+        "iter": 1,
+        "len": 1198
+      },
+      {
+        "iter": 2,
+        "len": 2536
+      },
+      {
+        "iter": 3,
+        "len": 1669
+      },
+      {
+        "iter": 4,
+        "len": 2477
+      },
+      {
+        "iter": 5,
+        "len": 1396
+      },
+      {
+        "iter": 6,
+        "len": 672
+      },
+      {
+        "iter": 7,
+        "len": 818
+      },
+      {
+        "iter": 8,
+        "len": 606
+      },
+      {
+        "iter": 9,
+        "len": 1055
+      },
+      {
+        "iter": 10,
+        "len": 2328
+      },
+      {
+        "iter": 11,
+        "len": 1673
+      },
+      {
+        "iter": 12,
+        "len": 1334
+      },
+      {
+        "iter": 13,
+        "len": 3311
+      },
+      {
+        "iter": 14,
+        "len": 7673
+      },
+      {
+        "iter": 15,
+        "len": 2704
+      },
+      {
+        "iter": 16,
+        "len": 1846
+      },
+      {
+        "iter": 17,
+        "len": 1297
+      },
+      {
+        "iter": 18,
+        "len": 1528
+      },
+      {
+        "iter": 19,
+        "len": 3462
+      },
+      {
+        "iter": 20,
+        "len": 1330
+      },
+      {
+        "iter": 21,
+        "len": 1853
+      },
+      {
+        "iter": 22,
+        "len": 4525
+      },
+      {
+        "iter": 23,
+        "len": 1924
+      },
+      {
+        "iter": 24,
+        "len": 2269
+      },
+      {
+        "iter": 25,
+        "len": 2010
+      },
+      {
+        "iter": 26,
+        "len": 1132
+      },
+      {
+        "iter": 27,
+        "len": 2763
+      },
+      {
+        "iter": 28,
+        "len": 2491
+      },
+      {
+        "iter": 29,
+        "len": 1884
+      },
+      {
+        "iter": 30,
+        "len": 2057
+      },
+      {
+        "iter": 31,
+        "len": 370
+      },
+      {
+        "iter": 32,
+        "len": 1301
+      },
+      {
+        "iter": 33,
+        "len": 1021
+      },
+      {
+        "iter": 34,
+        "len": 669
+      },
+      {
+        "iter": 35,
+        "len": 832
+      },
+      {
+        "iter": 36,
+        "len": 390
+      },
+      {
+        "iter": 37,
+        "len": 510
+      },
+      {
+        "iter": 38,
+        "len": 2515
+      },
+      {
+        "iter": 39,
+        "len": 2546
+      },
+      {
+        "iter": 40,
+        "len": 1519
+      },
+      {
+        "iter": 41,
+        "len": 1001
+      },
+      {
+        "iter": 42,
+        "len": 1866
+      },
+      {
+        "iter": 43,
+        "len": 3397
+      },
+      {
+        "iter": 44,
+        "len": 22
+      },
+      {
+        "iter": 45,
+        "len": 6931
+      },
+      {
+        "iter": 46,
+        "len": 2322
+      },
+      {
+        "iter": 47,
+        "len": 2036
+      },
+      {
+        "iter": 48,
+        "len": 3386
+      },
+      {
+        "iter": 49,
+        "len": 1521
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_FACTUAL_8",
+    "model": "gpt-5-mini",
+    "category": "FACTUAL",
+    "seed_index": 8,
+    "temperature": 1.0,
+    "final_length": 645,
+    "mean_length_steady": 4005.0,
+    "std_length_steady": 3899.9865192074703,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 7233
+      },
+      {
+        "iter": 1,
+        "len": 9014
+      },
+      {
+        "iter": 2,
+        "len": 5241
+      },
+      {
+        "iter": 3,
+        "len": 895
+      },
+      {
+        "iter": 4,
+        "len": 938
+      },
+      {
+        "iter": 5,
+        "len": 556
+      },
+      {
+        "iter": 6,
+        "len": 6969
+      },
+      {
+        "iter": 7,
+        "len": 6955
+      },
+      {
+        "iter": 8,
+        "len": 1546
+      },
+      {
+        "iter": 9,
+        "len": 4158
+      },
+      {
+        "iter": 10,
+        "len": 3426
+      },
+      {
+        "iter": 11,
+        "len": 907
+      },
+      {
+        "iter": 12,
+        "len": 1988
+      },
+      {
+        "iter": 13,
+        "len": 8169
+      },
+      {
+        "iter": 14,
+        "len": 13302
+      },
+      {
+        "iter": 15,
+        "len": 1718
+      },
+      {
+        "iter": 16,
+        "len": 1412
+      },
+      {
+        "iter": 17,
+        "len": 7705
+      },
+      {
+        "iter": 18,
+        "len": 3651
+      },
+      {
+        "iter": 19,
+        "len": 2861
+      },
+      {
+        "iter": 20,
+        "len": 4790
+      },
+      {
+        "iter": 21,
+        "len": 12532
+      },
+      {
+        "iter": 22,
+        "len": 5128
+      },
+      {
+        "iter": 23,
+        "len": 2795
+      },
+      {
+        "iter": 24,
+        "len": 1278
+      },
+      {
+        "iter": 25,
+        "len": 15041
+      },
+      {
+        "iter": 26,
+        "len": 19
+      },
+      {
+        "iter": 27,
+        "len": 7435
+      },
+      {
+        "iter": 28,
+        "len": 2792
+      },
+      {
+        "iter": 29,
+        "len": 7425
+      },
+      {
+        "iter": 30,
+        "len": 2254
+      },
+      {
+        "iter": 31,
+        "len": 1958
+      },
+      {
+        "iter": 32,
+        "len": 1079
+      },
+      {
+        "iter": 33,
+        "len": 1085
+      },
+      {
+        "iter": 34,
+        "len": 244
+      },
+      {
+        "iter": 35,
+        "len": 4384
+      },
+      {
+        "iter": 36,
+        "len": 4542
+      },
+      {
+        "iter": 37,
+        "len": 1250
+      },
+      {
+        "iter": 38,
+        "len": 420
+      },
+      {
+        "iter": 39,
+        "len": 4919
+      },
+      {
+        "iter": 40,
+        "len": 2481
+      },
+      {
+        "iter": 41,
+        "len": 2402
+      },
+      {
+        "iter": 42,
+        "len": 984
+      },
+      {
+        "iter": 43,
+        "len": 2143
+      },
+      {
+        "iter": 44,
+        "len": 8970
+      },
+      {
+        "iter": 45,
+        "len": 12808
+      },
+      {
+        "iter": 46,
+        "len": 1070
+      },
+      {
+        "iter": 47,
+        "len": 477
+      },
+      {
+        "iter": 48,
+        "len": 1711
+      },
+      {
+        "iter": 49,
+        "len": 645
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5-mini_FACTUAL_9",
+    "model": "gpt-5-mini",
+    "category": "FACTUAL",
+    "seed_index": 9,
+    "temperature": 1.0,
+    "final_length": 1224,
+    "mean_length_steady": 4878.25,
+    "std_length_steady": 4621.025902058979,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 8786
+      },
+      {
+        "iter": 1,
+        "len": 7977
+      },
+      {
+        "iter": 2,
+        "len": 4490
+      },
+      {
+        "iter": 3,
+        "len": 2433
+      },
+      {
+        "iter": 4,
+        "len": 4784
+      },
+      {
+        "iter": 5,
+        "len": 3985
+      },
+      {
+        "iter": 6,
+        "len": 702
+      },
+      {
+        "iter": 7,
+        "len": 1999
+      },
+      {
+        "iter": 8,
+        "len": 513
+      },
+      {
+        "iter": 9,
+        "len": 5065
+      },
+      {
+        "iter": 10,
+        "len": 5167
+      },
+      {
+        "iter": 11,
+        "len": 7277
+      },
+      {
+        "iter": 12,
+        "len": 2982
+      },
+      {
+        "iter": 13,
+        "len": 2401
+      },
+      {
+        "iter": 14,
+        "len": 4244
+      },
+      {
+        "iter": 15,
+        "len": 3187
+      },
+      {
+        "iter": 16,
+        "len": 3196
+      },
+      {
+        "iter": 17,
+        "len": 3603
+      },
+      {
+        "iter": 18,
+        "len": 2360
+      },
+      {
+        "iter": 19,
+        "len": 1258
+      },
+      {
+        "iter": 20,
+        "len": 15998
+      },
+      {
+        "iter": 21,
+        "len": 16031
+      },
+      {
+        "iter": 22,
+        "len": 12282
+      },
+      {
+        "iter": 23,
+        "len": 2457
+      },
+      {
+        "iter": 24,
+        "len": 1875
+      },
+      {
+        "iter": 25,
+        "len": 18890
+      },
+      {
+        "iter": 26,
+        "len": 11526
+      },
+      {
+        "iter": 27,
+        "len": 4319
+      },
+      {
+        "iter": 28,
+        "len": 1237
+      },
+      {
+        "iter": 29,
+        "len": 2033
+      },
+      {
+        "iter": 30,
+        "len": 1927
+      },
+      {
+        "iter": 31,
+        "len": 853
+      },
+      {
+        "iter": 32,
+        "len": 2
+      },
+      {
+        "iter": 33,
+        "len": 8995
+      },
+      {
+        "iter": 34,
+        "len": 14761
+      },
+      {
+        "iter": 35,
+        "len": 3972
+      },
+      {
+        "iter": 36,
+        "len": 1656
+      },
+      {
+        "iter": 37,
+        "len": 3022
+      },
+      {
+        "iter": 38,
+        "len": 4295
+      },
+      {
+        "iter": 39,
+        "len": 4055
+      },
+      {
+        "iter": 40,
+        "len": 3033
+      },
+      {
+        "iter": 41,
+        "len": 3830
+      },
+      {
+        "iter": 42,
+        "len": 912
+      },
+      {
+        "iter": 43,
+        "len": 2657
+      },
+      {
+        "iter": 44,
+        "len": 4253
+      },
+      {
+        "iter": 45,
+        "len": 4607
+      },
+      {
+        "iter": 46,
+        "len": 1797
+      },
+      {
+        "iter": 47,
+        "len": 3726
+      },
+      {
+        "iter": 48,
+        "len": 3230
+      },
+      {
+        "iter": 49,
+        "len": 1224
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5_ABSTRACT_0",
+    "model": "gpt-5",
+    "category": "ABSTRACT",
+    "seed_index": 0,
+    "temperature": 1.0,
+    "final_length": 13971,
+    "mean_length_steady": 0,
+    "std_length_steady": 0,
+    "trajectory": [
+      {
+        "iter": 0,
+        "len": 4716
+      },
+      {
+        "iter": 1,
+        "len": 11163
+      },
+      {
+        "iter": 2,
+        "len": 11063
+      },
+      {
+        "iter": 3,
+        "len": 9719
+      },
+      {
+        "iter": 4,
+        "len": 16081
+      },
+      {
+        "iter": 5,
+        "len": 18361
+      },
+      {
+        "iter": 6,
+        "len": 9443
+      },
+      {
+        "iter": 7,
+        "len": 14143
+      },
+      {
+        "iter": 8,
+        "len": 13971
+      }
+    ]
+  },
+  {
+    "run_id": "gpt-5_ABSTRACT_1",
+    "model": "gpt-5",
+    "category": "ABSTRACT",
+    "seed_index": 1,
+    "temperature": 1.0,
+    "final_length": 0,
+    "mean_length_steady": 0,
+    "std_length_steady": 0,
+    "trajectory": []
+  },
+  {
+    "run_id": "gpt-5_ABSTRACT_2",
+    "model": "gpt-5",
+    "category": "ABSTRACT",
+    "seed_index": 2,
+    "temperature": 1.0,
+    "final_length": 0,
+    "mean_length_steady": 0,
+    "std_length_steady": 0,
+    "trajectory": []
+  },
+  {
+    "run_id": "gpt-5_ABSTRACT_3",
+    "model": "gpt-5",
+    "category": "ABSTRACT",
+    "seed_index": 3,
+    "temperature": 1.0,
+    "final_length": 0,
+    "mean_length_steady": 0,
+    "std_length_steady": 0,
+    "trajectory": []
+  },
+  {
+    "run_id": "gpt-5_ABSTRACT_4",
+    "model": "gpt-5",
+    "category": "ABSTRACT",
+    "seed_index": 4,
+    "temperature": 1.0,
+    "final_length": 0,
+    "mean_length_steady": 0,
+    "std_length_steady": 0,
+    "trajectory": []
   }
 ]
