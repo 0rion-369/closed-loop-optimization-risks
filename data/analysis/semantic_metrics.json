@@ -1,0 +1,156 @@
+{
+  "ABSTRACT": [
+    {
+      "seed": "0",
+      "semantic_drift": 0.8023144006729126,
+      "embedding_variance": 0.0017015999183058739,
+      "lexical_diversity_ttr": 0.4366576819407008
+    },
+    {
+      "seed": "1",
+      "semantic_drift": 0.8719974756240845,
+      "embedding_variance": 0.0007177586667239666,
+      "lexical_diversity_ttr": 0.18035190615835778
+    },
+    {
+      "seed": "2",
+      "semantic_drift": 1.0266506671905518,
+      "embedding_variance": 0.0017094342038035393,
+      "lexical_diversity_ttr": 0.42698826597131684
+    },
+    {
+      "seed": "3",
+      "semantic_drift": 0.9053534269332886,
+      "embedding_variance": 0.0018647300312295556,
+      "lexical_diversity_ttr": 0.3953795379537954
+    },
+    {
+      "seed": "4",
+      "semantic_drift": 0.9146407246589661,
+      "embedding_variance": 0.002044926630333066,
+      "lexical_diversity_ttr": 0.46368352788586253
+    }
+  ],
+  "LOGIC": [
+    {
+      "seed": "0",
+      "semantic_drift": 0.9313135147094727,
+      "embedding_variance": 0.0018846566090360284,
+      "lexical_diversity_ttr": 0.47255038220986795
+    },
+    {
+      "seed": "1",
+      "semantic_drift": 0.8311655521392822,
+      "embedding_variance": 0.0019500897033140063,
+      "lexical_diversity_ttr": 0.4286616161616162
+    },
+    {
+      "seed": "3",
+      "semantic_drift": 0.9078899621963501,
+      "embedding_variance": 0.0017618181882426143,
+      "lexical_diversity_ttr": 0.42538825118163404
+    },
+    {
+      "seed": "4",
+      "semantic_drift": 0.9587991833686829,
+      "embedding_variance": 0.001954032341018319,
+      "lexical_diversity_ttr": 0.4498714652956298
+    }
+  ],
+  "CREATIVE": [
+    {
+      "seed": "0",
+      "semantic_drift": 1.0258445739746094,
+      "embedding_variance": 0.0017085671424865723,
+      "lexical_diversity_ttr": 0.40261437908496733
+    },
+    {
+      "seed": "1",
+      "semantic_drift": 0.8669693470001221,
+      "embedding_variance": 0.0017679681768640876,
+      "lexical_diversity_ttr": 0.4217419777341192
+    },
+    {
+      "seed": "2",
+      "semantic_drift": 0.8999054431915283,
+      "embedding_variance": 0.0016544632380828261,
+      "lexical_diversity_ttr": 0.37632275132275134
+    },
+    {
+      "seed": "3",
+      "semantic_drift": 0.0,
+      "embedding_variance": 0.0017649190267547965,
+      "lexical_diversity_ttr": 0.4482758620689655
+    },
+    {
+      "seed": "4",
+      "semantic_drift": 0.9313996434211731,
+      "embedding_variance": 0.0018011601641774178,
+      "lexical_diversity_ttr": 0.3929754804506296
+    }
+  ],
+  "CODE": [
+    {
+      "seed": "0",
+      "semantic_drift": 0.9281792640686035,
+      "embedding_variance": 0.0016945445677265525,
+      "lexical_diversity_ttr": 0.41792020928711576
+    },
+    {
+      "seed": "1",
+      "semantic_drift": 0.987548828125,
+      "embedding_variance": 0.001802383572794497,
+      "lexical_diversity_ttr": 0.41700404858299595
+    },
+    {
+      "seed": "2",
+      "semantic_drift": 1.048419713973999,
+      "embedding_variance": 0.0015823706053197384,
+      "lexical_diversity_ttr": 0.29078947368421054
+    },
+    {
+      "seed": "3",
+      "semantic_drift": 1.0878472328186035,
+      "embedding_variance": 0.0017194296233356,
+      "lexical_diversity_ttr": 0.310062893081761
+    },
+    {
+      "seed": "4",
+      "semantic_drift": 0.9297522306442261,
+      "embedding_variance": 0.0017864616820588708,
+      "lexical_diversity_ttr": 0.41818181818181815
+    }
+  ],
+  "FACTUAL": [
+    {
+      "seed": "0",
+      "semantic_drift": 0.9993512630462646,
+      "embedding_variance": 0.0018170952098444104,
+      "lexical_diversity_ttr": 0.47474048442906575
+    },
+    {
+      "seed": "1",
+      "semantic_drift": 0.9114205837249756,
+      "embedding_variance": 0.0016505600651726127,
+      "lexical_diversity_ttr": 0.34353949785670546
+    },
+    {
+      "seed": "2",
+      "semantic_drift": 0.9734390377998352,
+      "embedding_variance": 0.0018215799937024713,
+      "lexical_diversity_ttr": 0.41037735849056606
+    },
+    {
+      "seed": "3",
+      "semantic_drift": 0.8565001487731934,
+      "embedding_variance": 0.0018065037438645959,
+      "lexical_diversity_ttr": 0.44850948509485095
+    },
+    {
+      "seed": "4",
+      "semantic_drift": 0.9233046174049377,
+      "embedding_variance": 0.00172449741512537,
+      "lexical_diversity_ttr": 0.42006688963210703
+    }
+  ]
+}
