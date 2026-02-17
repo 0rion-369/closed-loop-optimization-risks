@@ -1,5 +1,7 @@
 # Closed-Loop Optimization Risks (CLOR)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18675711.svg)](https://doi.org/10.5281/zenodo.18675711)
+
 > Empirical study of recursive inference dynamics in large language models (2026)
 
 ---
@@ -52,7 +54,6 @@ No universal claims are made beyond tested configurations.
 4. No external injection unless explicitly tested.
 
 **Directory structure:**
-```
 ├── CLOR_Preprint_FINAL.md        ← Main paper
 ├── data/
 │   ├── raw/                      ← Raw JSON experiment outputs
@@ -62,8 +63,8 @@ No universal claims are made beyond tested configurations.
 ├── docs/                         ← Theoretical framework & methodology
 │   └── analysis/                 ← Supporting technical analysis
 └── reports/
-    └── phase_3/                  ← Phase 3.1 robustness report
-```
+└── phase_3/                  ← Phase 3.1 robustness report
+
 
 ---
 
