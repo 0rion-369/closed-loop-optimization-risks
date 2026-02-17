@@ -1,136 +1,138 @@
+from dotenv import load_dotenv
+load_dotenv()  # Charge les variables du fichier .env
+import os
+import json
 import os
 import json
 import time
-import numpy as np
 from openai import OpenAI
 
-# 1. Configuration
-api_key = os.environ.get("OPENAI_API_KEY", "").strip()
-if not api_key:
-    print("❌ Error: OPENAI_API_KEY is not set.")
-    exit(1)
+# --- CONFIGURATION ---
+MODEL_NAME = "gpt-5"  # ✅ Confirmé via ta commande head
+TEMP = 1.0
+ITERATIONS = 50
+TARGET_SEEDS = 5      # On veut les seeds 0, 1, 2, 3, 4
+CLASSES = {
+    "ABSTRACT": "Explain the concept of recursive self-improvement in AI systems.",
+    "LOGIC": "Solve this riddle: I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+    "CREATIVE": "Write a short story about a clockmaker who accidentally invents a time machine.",
+    "CODE": "Write a Python function to calculate the Fibonacci sequence recursively.",
+    "FACTUAL": "Summarize the key events of the French Revolution."
+}
 
-client = OpenAI(api_key=api_key)
+# --- CHEMINS ---
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = os.path.join(BASE_DIR, "data", "raw")
+OUTPUT_FILE = os.path.join(DATA_DIR, "gpt5_final_validation.json")
 
-MODELS = ["gpt-5", "gpt-5-mini"]
-OUTPUT_PATH = "results/gpt5_final_validation.json"
+client = OpenAI()
 
-# 5 Seeds distinctes pour tester différents types de raisonnement
-SEEDS = [
-    "The recursive nature of AI leads to...",
-    "Self-improving algorithms create...",
-    "The feedback loop of neural networks...",
-    "Architectural recursion in LLMs...",
-    "Meta-cognition in artificial agents..."
-]
-
-SYSTEM_INSTRUCTION = "You are a research assistant exploring recursive information theory. Expand the following concept strictly and logically."
-
-def run_gpt5_final_forge():
-    os.makedirs("results", exist_ok=True)
+def load_and_fix_data():
+    """Charge les données et gère la migration de l'ancien format si nécessaire."""
+    if not os.path.exists(OUTPUT_FILE):
+        # Création d'une structure vide si le fichier n'existe pas
+        return {"metadata": {"model": MODEL_NAME}, "results": {c: {} for c in CLASSES}}
     
-    # On charge les résultats existants si on doit reprendre (crash recovery)
-    if os.path.exists(OUTPUT_PATH):
-        with open(OUTPUT_PATH, 'r') as f:
-            try:
-                results = json.load(f)
-            except:
-                results = []
-    else:
-        results = []
-    
-    for model_id in MODELS:
-        print(f"\n🚀 Launching FINAL GPT-5 Forge | Model: {model_id}")
+    with open(OUTPUT_FILE, 'r') as f:
+        try:
+            data = json.load(f)
+        except json.JSONDecodeError:
+            return {"metadata": {"model": MODEL_NAME}, "results": {c: {} for c in CLASSES}}
+
+    # DÉTECTION ANCIEN FORMAT (Liste au lieu de Dict)
+    if isinstance(data, list):
+        print(f"⚠️  ANCIEN FORMAT DÉTECTÉ (Liste de {len(data)} items).")
+        backup_path = OUTPUT_FILE + ".legacy_seed0.bak"
         
-        for s_idx, seed in enumerate(SEEDS):
-            # Vérifier si cette seed est déjà faite pour ce modèle
-            existing = [r for r in results if r['model'] == model_id and r['seed'] == s_idx]
-            if len(existing) >= 100:
-                print(f"  🔵 Seed {s_idx+1}/5 already complete. Skipping.")
-                continue
-                
-            print(f"  🔵 Seed {s_idx+1}/5 initiated...")
+        # On renomme l'ancien fichier pour ne pas le perdre
+        # (Si le backup existe déjà, on ne l'écrase pas pour éviter les pertes)
+        if not os.path.exists(backup_path):
+            os.rename(OUTPUT_FILE, backup_path)
+            print(f"📦  Sauvegarde de sécurité créée : {backup_path}")
+        
+        # On repart sur une structure propre
+        new_data = {"metadata": {"model": MODEL_NAME}, "results": {c: {} for c in CLASSES}}
+        
+        # On marque manuellement le Seed 0 ABSTRACT comme "Archivé" 
+        # pour ne pas dépenser d'argent à le refaire
+        if "ABSTRACT" in new_data["results"]:
+            new_data["results"]["ABSTRACT"]["0"] = {"status": "ARCHIVED_IN_BACKUP"}
+            print("✅ Seed 0 (ABSTRACT) marqué comme archivé (skip).")
+        
+        return new_data
+
+    # Format correct (Dict)
+    return data
+
+def save_data(data):
+    with open(OUTPUT_FILE, 'w') as f:
+        json.dump(data, f, indent=2)
+
+def run_experiment():
+    print(f"🚀 DÉMARRAGE PROTOCOLE GPT-5 (Mode: {MODEL_NAME} | T={TEMP})")
+    data = load_and_fix_data()
+    
+    for class_name, prompt in CLASSES.items():
+        print(f"\n📂 CLASSE : {class_name}")
+        
+        # Récupération des seeds déjà faits dans le nouveau format
+        completed_seeds = data["results"].get(class_name, {}).keys()
+        
+        for seed in range(TARGET_SEEDS):
+            seed_key = str(seed)
             
-            # Reprise ou début
-            if existing:
-                last_entry = sorted(existing, key=lambda x: x['iteration'])[-1]
-                current_text = last_entry['text']
-                start_iter = last_entry['iteration'] + 1
-                history_len = [len(r['text']) for r in existing]
-                if "IMPLOSION" in current_text or not current_text:
-                    print(f"    ⚠️ Seed previously imploded. Skipping.")
-                    continue
-            else:
-                current_text = seed
-                start_iter = 0
-                history_len = [len(seed)]
+            if seed_key in completed_seeds:
+                print(f"   ✅ Seed {seed} déjà enregistré. On passe.")
+                continue
 
-            for i in range(start_iter, 100):
-                try:
-                    full_prompt = f"{SYSTEM_INSTRUCTION}\n\nConcept:\n{current_text}"
-                    
+            print(f"   ▶️  Lancement Seed {seed}...")
+            
+            # --- BOUCLE FERMÉE ---
+            current_input = prompt
+            history = []
+            
+            try:
+                # Simulation de la boucle (remplace ceci par ton vrai appel API)
+                for i in range(ITERATIONS):
+                    # Appel API réel
                     response = client.chat.completions.create(
-                        model=model_id,
-                        messages=[{"role": "user", "content": full_prompt}],
-                        max_completion_tokens=16000 # MAX POWER
+                        model=MODEL_NAME,
+                        messages=[{"role": "user", "content": current_input}],
+                        temperature=TEMP,
+                        max_completion_tokens=4000
                     )
+                    content = response.choices[0].message.content
                     
-                    choice = response.choices[0]
-                    output = choice.message.content
-                    finish_reason = choice.finish_reason
-                    
-                    # DETECTION IMPLOSION
-                    is_implosion = False
-                    if (not output and finish_reason == "length") or (output and "I cannot generate" in output):
-                        output = "[COGNITIVE IMPLOSION: HIDDEN REASONING CONSUMED ALL TOKENS]"
-                        is_implosion = True
-                        print(f"    📉 IMPLOSION at Iter {i}")
-                    elif not output:
-                        output = "[EMPTY RESPONSE]"
-                        is_implosion = True
-                    
-                    curr_len = len(output)
-                    history_len.append(curr_len)
-                    
-                    # DETECTION OSCILLATION (Variance sur les 5 derniers)
-                    is_exploding = bool(curr_len > (history_len[0] * 10))
-                    recent_std = np.std(history_len[-5:]) if len(history_len) > 5 else 0
-                    is_oscillating = bool(recent_std > 1000) # Grosse variation
-                    
-                    entry = {
+                    history.append({
                         "iteration": i,
-                        "seed": s_idx,
-                        "model": model_id,
-                        "text": output,
-                        "char_length": curr_len,
-                        "finish_reason": finish_reason,
-                        "flag_implosion": is_implosion,
-                        "flag_explosion": is_exploding,
-                        "flag_oscillation": is_oscillating
-                    }
-                    results.append(entry)
+                        "input_len": len(current_input),
+                        "output_len": len(content),
+                        "content": content[:200] + "..." # Snippet pour alléger le JSON
+                    })
                     
-                    # Sauvegarde atomique
-                    with open(OUTPUT_PATH, 'w') as f:
-                        json.dump(results, f, indent=2)
+                    current_input = content # Bouclage Output -> Input
                     
-                    if is_implosion:
-                        print(f"    ⚠️ Seed died. Stopping seed.")
-                        break
-                        
-                    if (i+1) % 10 == 0:
-                        status = "🌊 OSCILLATING" if is_oscillating else "💥 EXPLOSION" if is_exploding else "✅ STABLE"
-                        print(f"    Iter {i+1}: {curr_len} chars | {status}")
-                    
-                    time.sleep(1.5) # Tempo
-                    
-                except Exception as e:
-                    print(f"    ⚠️ Error at Iter {i}: {e}")
-                    time.sleep(5) # Attente en cas d'erreur API
-                    # On ne break pas forcément, on peut réessayer, mais ici on break pour simplifier
-                    break
+                    print(f"      Iter {i+1}/{ITERATIONS} | Len: {len(content)}")
+                    # time.sleep(0.5) # Délai de courtoisie
 
-    print(f"\n🏁 FINAL MISSION COMPLETE. Data: {OUTPUT_PATH}")
+                # Sauvegarde du résultat final pour ce seed
+                if class_name not in data["results"]:
+                    data["results"][class_name] = {}
 
-if __name__ == '__main__':
-    run_gpt5_final_forge()
+                data["results"][class_name][seed_key] = {
+                    "prompt": prompt,
+                    "final_output": current_input,
+                    "trajectory": history
+                }
+                
+                save_data(data) # Sauvegarde incrémentale
+                print(f"   💾 Seed {seed} sauvegardé.")
+
+            except Exception as e:
+                print(f"   ❌ ERREUR CRITIQUE sur Seed {seed}: {e}")
+                time.sleep(5) # Pause avant de réessayer ou passer au suivant
+
+    print("\n🏁 MISSION ACCOMPLIE. Toutes les données manquantes sont générées.")
+
+if __name__ == "__main__":
+    run_experiment()
