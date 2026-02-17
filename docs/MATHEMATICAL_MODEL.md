@@ -13,7 +13,7 @@ Let a generative system at time *t* be characterized by a policy:
 
 Where:
 - `X` = input space (prompts, contexts)
-- `Y` = output space (tokens, actions)  
+- `Y` = output space (tokens, actions)
 - `Δ(Y)` = probability simplex over outputs
 - `t` = iteration index (t = 0, 1, ..., T)
 
@@ -160,6 +160,8 @@ Actual state:          Low informational content           (informationally impo
 Detection difficulty:  High                               (complexity masks collapse)
 ```
 
+This is the structural analog of the **Fluent Hallucination** phenomenon observed at the semantic level in Phase 3.1 (see `CLOR_Preprint_FINAL.md`).
+
 ---
 
 ## 5. Exogenous Injection Model
@@ -235,7 +237,7 @@ Exogenous:    Converges to stable region    H ≈ [4.40, 4.45], LZ ≈ [0.022, 0
 Closed-loop:  Converges to lower region     H ≈ [4.33, 4.40], LZ ≈ [0.015, 0.055]
 ```
 
-Two distinct attractors in (H, LZ) space, reached within approximately **t = 10-20 iterations**.
+Two distinct attractors in (H, LZ) space, reached within approximately **t = 10–20 iterations**.
 
 ---
 
@@ -243,9 +245,7 @@ Two distinct attractors in (H, LZ) space, reached within approximately **t = 10-
 
 ### 7.1 Observation
 
-The individual trajectory plots show rapid divergence in early iterations (t < 20), followed by stabilization around distinct attractors.
-
-This suggests a **critical transition** rather than gradual drift:
+Individual trajectory plots show rapid divergence in early iterations (t < 20), followed by stabilization around distinct attractors. This suggests a **critical transition** rather than gradual drift:
 
 ```
 t < t*:   Transient phase     (both conditions similar)
@@ -262,25 +262,10 @@ Let `ΔH(t) = H(exogenous, t) − H(closed-loop, t)` be the divergence:
 ΔH(t) → Δ∞ > 0     for t ≥ t*
 ```
 
-Where `Δ∞` is the asymptotic entropy gap.
-
 **Estimated from data:**
 ```
 Δ∞ ≈ 4.425 − 4.383 = 0.042 bits/char
 t* ≈ 15 ± 5 iterations
-```
-
-### 7.3 Test for Future Work
-
-To confirm the phase transition:
-
-```python
-# Autocorrelation analysis
-lags = range(1, 20)
-autocorr_closed = [pearsonr(H_closed[:-lag], H_closed[lag:])[0] for lag in lags]
-autocorr_exo    = [pearsonr(H_exo[:-lag],    H_exo[lag:])[0]    for lag in lags]
-
-# Prediction: autocorr_closed drops sharply at t*, autocorr_exo stays high
 ```
 
 ---
@@ -303,32 +288,14 @@ autocorr_exo    = [pearsonr(H_exo[:-lag],    H_exo[lag:])[0]    for lag in lags]
 ### 9.1 Saturation
 Does entropy collapse saturate at some floor `H_min > 0`, or does it continue indefinitely?
 
-```
-H_min = ?    (requires T > 100 iterations)
-```
-
 ### 9.2 Minimum Exogenous Dose
 What is the minimum injection ratio `(1−α)` sufficient to prevent collapse?
 
-```
-α_critical = ?    (requires dose-response experiment: α ∈ {0.9, 0.75, 0.5, 0.25, 0.1})
-```
-
 ### 9.3 Temperature Dependence
-Does higher temperature `T` substitute for exogenous injection?
+Does higher temperature `T` substitute for exogenous injection? (Phase 3.1 suggests: no — it accelerates collapse rather than substituting.)
 
-```
-Hypothesis: High T delays but does not prevent collapse
-Test: T ∈ {0.3, 0.5, 0.8, 1.1, 1.3} × {closed-loop, exogenous}
-```
-
-### 9.4 Semantic Drift
-Does entropy collapse correspond to semantic convergence in embedding space?
-
-```
-Hypothesis: cosine_distance(embed(yₜ), embed(yₜ₊₁)) decreases in closed-loop
-Test: Add sentence-transformer embeddings to metric suite
-```
+### 9.4 Semantic Drift Correlation
+Does entropy collapse correspond to semantic divergence in embedding space? (Phase 3.1 provides partial evidence: yes, in large models the mechanism shifts from structural to semantic collapse.)
 
 ---
 
@@ -361,5 +328,5 @@ Test: Add sentence-transformer embeddings to metric suite
 
 ---
 
-*All empirical values from: Extended Validation (100 iterations × 10 seeds, n=2000, T=0.8, top-p=0.9)*
-*See [results/EXTENDED_VALIDATION_REPORT.md](../results/EXTENDED_VALIDATION_REPORT.md)*
+*All empirical values from: Extended Validation (100 iterations × 10 seeds, n=2000, T=0.8, top-p=0.9)*  
+*Raw data: `data/raw/extended_validation_complete.json`*

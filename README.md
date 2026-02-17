@@ -52,10 +52,18 @@ No universal claims are made beyond tested configurations.
 4. No external injection unless explicitly tested.
 
 **Directory structure:**
-- `experiments/` → Recursive loop scripts
-- `results/` → Raw JSON runs
-- `data/analysis/` → Statistical metrics
-- `reports/` → Preprints and Analysis Logs
+```
+├── CLOR_Preprint_FINAL.md        ← Main paper
+├── data/
+│   ├── raw/                      ← Raw JSON experiment outputs
+│   └── analysis/                 ← Derived metrics (semantic_metrics.json)
+├── experiments/                  ← Reproducible experiment scripts
+├── figures/                      ← Visualizations
+├── docs/                         ← Theoretical framework & methodology
+│   └── analysis/                 ← Supporting technical analysis
+└── reports/
+    └── phase_3/                  ← Phase 3.1 robustness report
+```
 
 ---
 
@@ -89,6 +97,6 @@ Cross-temperature and cross-model validation ongoing.
 ## Status
 
 Active empirical research project.  
-Preprint available in `/reports/` (or root directory).
+Preprint available at `CLOR_Preprint_FINAL.md`.
 
 Contributions and replication attempts welcome.

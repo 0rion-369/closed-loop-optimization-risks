@@ -33,7 +33,7 @@ A long-horizon state in which learning persists nominally but fails to produce s
 
 ## Endogenous Variance
 
-Variance produced by a system’s internal stochasticity, sampling, or recombination of known patterns.
+Variance produced by a system's internal stochasticity, sampling, or recombination of known patterns.
 
 Endogenous variance is typically compressible.
 
@@ -41,7 +41,7 @@ Endogenous variance is typically compressible.
 
 ## Exogenous Variance
 
-Variance originating from sources not fully captured by the system’s internal models or training distributions.
+Variance originating from sources not fully captured by the system's internal models or training distributions.
 
 Exogenous variance is not fully derivable.
 
@@ -61,7 +61,7 @@ The influence exerted by loss functions, reward signals, or objective metrics th
 
 ## Stable Attractor
 
-A region of the system’s parameter or behavior space toward which optimization dynamics naturally converge.
+A region of the system's parameter or behavior space toward which optimization dynamics naturally converge.
 
 ---
 
@@ -74,6 +74,12 @@ A failure mode that emerges only after extended operation and is not detectable 
 ## Synthetic Data Dependence
 
 Reliance on artificially generated data for training or evaluation, especially when such data is produced by the system itself or closely related models.
+
+---
+
+## Fluent Hallucination
+
+A failure mode observed in large-scale frontier models under high-entropy closed-loop conditions. The model maintains structural and lexical coherence (high TTR, correct length, fluent prose) while suffering catastrophic semantic drift. Distinct from structural collapse because it is not detectable by standard monitoring metrics.
 
 ---
 
